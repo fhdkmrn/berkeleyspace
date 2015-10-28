@@ -1,0 +1,2115 @@
+
+12-JUL-15, Fall 2015
+
+AFRICAN AMERICAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+00506  	S  R1A	202 DIS  	W 10-11A  	225 DWINELLE  	Freshman Composition		NANDA, A		
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+00551  	P  15A	001 REC  	Tu 10-12P  	233 DWINELLE  	Advanced Swahili	4	KYEU, D	19	
+00623  	S  100	101 DIS  	Th 8-9A  	160 DWINELLE  	Black Intellectual Thought				
+00736  	P  241	001 LEC  	M 2-5P  	210 DWINELLE  	Special Topics in Development Studies of the Diaspo...	1-4	SMALL, S A	NONE	GR
+ 	 	 	Note: "Race, Gender and the African Diaspora in Europe" 
+
+ENVIRONMENTAL ECONOMICS AND POLICY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+01242  	S  C102	102 DIS  	M 2-3P  	246 DWINELLE  	Natural Resource Economics		SOLDATI, H B		CURRENTLY FULL
+01281  	S  C151	103 DIS  	W 3-4P  	209 DWINELLE  	Economic Development		LOESER, J A		
+01284  	S  C151	104 DIS  	W 4-5P  	160 DWINELLE  	Economic Development		LOESER, J A		
+
+ANTHROPOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+02909  	P  196	001 SEM  	W 10-12P  	262 DWINELLE  	Undergraduate Seminar	4	DEACON, T W	1	
+ 	 	 	Note: "Evolution, Information, and Semiosis" 
+
+PRACTICE OF ART
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+04447  	S  26	105 LAB  	F 9-12P  	30 DWINELLE  	Moving Image Media Production				
+04904  	S  26	106 LAB  	F 1-4P  	30 DWINELLE  	Moving Image Media Production				
+04448  	P  98	001 GRP  	F 5-7P  	210 DWINELLE  	Directed Group Study	1-3: PF		NONE	UG ; CLASS ENTRY CODE REQ
+SEE DEPT  	P  198	001 GRP  	F 5-7P  	210 DWINELLE  	Directed Group Study	1-3: PF		NONE	JR, SR ; CLASS ENTRY CODE REQ
+
+HISTORY OF ART
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+05043  	S  141A	101 DIS  	M 3-4P  	242 DWINELLE  	Archaic Greek Art and Architecture (750-480 B.C.)		THE STAFF		
+05046  	S  141A	102 DIS  	M 4-5P  	258 DWINELLE  	Archaic Greek Art and Architecture (750-480 B.C.)		THE STAFF		
+
+ASIAN AMERICAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+05395  	S  20A	102 DIS  	Tu 2-3P  	105 DWINELLE  	Introduction to the History of Asians in the United...		THE STAFF		
+05536  	S  20AC	102 DIS  	Th 4-5P  	234 DWINELLE  	Asian American Communities and Race Relations		THE STAFF		
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+05566  	S  128AC	106 DIS  	Tu 8-9A  	160 DWINELLE  	Muslims in America		THE STAFF		
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+
+ASIAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+05765  	S  10	104 DIS  	W 2-3P  	246 DWINELLE  	Introduction to Asia				
+05771  	S  10	106 DIS  	F 2-3P  	187 DWINELLE  	Introduction to Asia				
+05777  	P  98	007 GRP  	TuTh 5-630P  	156 DWINELLE  	Directed Group Study	1-4: PF	BERRING, R C	NONE	CLASS ENTRY CODE REQ
+05786  	P  150	001 LEC  	MWF 2-3P  	229 DWINELLE  	Special Topics	4	DAVEY, J	15	
+ 	 	 	Note: Pre-modern Korean History 
+05789  	P  150	002 LEC  	TuTh 11-1230P  	229 DWINELLE  	Special Topics	4	YAMANAKA, K	9	
+ 	 	 	Note: "Immigration and Citizenship in Asia" 
+05816  	P  198	007 GRP  	TuTh 5-630P  	156 DWINELLE  	Directed Group Study	1-4: PF	BERRING, R C	NONE	JR, SR ; CLASS ENTRY CODE REQ
+
+BIOENGINEERING
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+07020  	P  C219	001 LEC  	MWF 10-11A  	229 DWINELLE  	Protein Engineering	3	TULLMAN-ERCEK, D	NONE	
+ 	 	 	Note: Cross-listed with Chemical & Biomolecular Engineering C270 section 1. 
+
+BIOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+SEE NOTE  	S  1A	203 DIS  	M 3-4P  	209 DWINELLE  	General Biology Lecture				
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+SEE NOTE  	S  1A	205 DIS  	Tu 1-2P  	183 DWINELLE  	General Biology Lecture				
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+SEE NOTE  	S  1A	211 DIS  	Tu 4-5P  	251 DWINELLE  	General Biology Lecture				
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+SEE NOTE  	S  1A	212 DIS  	Tu 4-5P  	83 DWINELLE  	General Biology Lecture				
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+
+BUDDHIST STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+07656  	S  C50	101 DIS  	Tu 1-2P  	228 DWINELLE  	Introduction to the Study of Buddhism				
+07659  	S  C50	102 DIS  	Tu 2-3P  	251 DWINELLE  	Introduction to the Study of Buddhism				
+07671  	S  C50	106 DIS  	W 2-3P  	187 DWINELLE  	Introduction to the Study of Buddhism				
+07674  	P  C115	001 LEC  	TuTh 1230-2P  	156 DWINELLE  	Japanese Buddhism	4	MROSS, M	17	BY CATEGORY
+ 	 	 	Note: Cross-listed with Japanese C115 section 1. 
+07677  	P  C120	001 LEC  	TuTh 2-330P  	229 DWINELLE  	Buddhism on the Silk Road	4	MEHENDALE, S	NONE	BY CATEGORY
+ 	 	 	Note: Cross-listed with East Asian Languages and Cultures C120 section 1. 
+07680  	P  C132	001 LEC  	TuTh 330-5P  	156 DWINELLE  	Pure Land Buddhism	4	BLUM, M L	NONE	BY CATEGORY
+ 	 	 	Note: Cross-listed with East Asian Languages and Cultures C132 section 1. 
+07683  	P  190	001 LEC  	MWF 12-1P  	109 DWINELLE  	Topics in the Study of Buddhism	4	HE, X	18	
+ 	 	 	Note: "Women in Buddhist Traditions" 
+07695  	P  C215	001 SEM  	W 3-6P  	288 DWINELLE  	Readings in Indian Buddhist Texts	2-4	VON ROSPATT, A	NONE	
+ 	 	 	Note: Cross-listed with South Asian C215 section 1. 
+07697  	P  220	001 SEM  	M 330-630P  	288 DWINELLE  	Seminar in Buddhism and Buddhist Texts	2,4		NONE	
+ 	 	 	Note: "Mahaprajapati Gautami" 
+07698  	P  C224	001 SEM  	Th 2-5P  	288 DWINELLE  	Readings in Tibetan Buddhist Texts	2,4	DALTON, J	NONE	
+ 	 	 	Note: Cross-listed with Tibetan C224 section 1 and South Asian C224 section 1. 
+
+UNDERGRAD. BUSINESS ADMINISTRATION
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+08160  	S  107	102 DIS  	F 9-10A  	182 DWINELLE  	The Social, Political, and Ethical Environment of B...				
+08181  	S  118	101 DIS  	F 2-3P  	205 DWINELLE  	International Trade				
+
+CELTIC STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+10153  	P  R1B	001 LEC  	TuTh 330-5P  	258 DWINELLE  	Voices of the Celtic World	4	HELLMAN, D	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Celtic R1B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. 
+10156  	P  R1B	002 LEC  	MWF 3-4P  	235 DWINELLE  	Voices of the Celtic World	4	WALSH, T	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Celtic R1B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. 
+10159  	P  15	001 LEC  	TuTh 330-5P  	235 DWINELLE  	Elementary Modern Irish	4	STACK, E	20	
+10174  	P  138	001 LEC  	MWF 12-1P  	283 DWINELLE  	Irish Literature	4	WALSH, T	18	
+ 	 	 	Note: Taught in English with readings in English. 
+10177  	P  144A	001 LEC  	MW 4-530P  	6307 DWINELLE  	Modern Welsh Level 3	4	KLAR, K A	13	
+10180  	P  146A	001 LEC  	TuTh 2-330P  	235 DWINELLE  	Medieval Welsh Language and Literature	4	REJHON, A C	5	
+ 	 	 	Note: Taught in English with readings in English. 
+
+CHEMICAL & BIOMOLECULAR ENGINEERING
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+10312  	S  40	103 DIS  	Th 2-330P  	279 DWINELLE  	Introduction to Chemical Engineering Design				
+10324  	S  40	107 DIS  	Tu 2-330P  	279 DWINELLE  	Introduction to Chemical Engineering Design				
+10332  	P  98	004 GRP  	TuTh 5-630P  	182 DWINELLE  	Directed Group Studies for Lower Division Undergrad...	1-3: PF		NONE	
+10363  	S  142	101 DIS  	M 4-5P  	83 DWINELLE  	Chemical Kinetics and Reaction Engineering				
+10366  	S  142	102 DIS  	W 4-5P  	258 DWINELLE  	Chemical Kinetics and Reaction Engineering				
+10758  	P  198	004 LEC  	TuTh 5-630P  	182 DWINELLE  	Directed Group Study for Undergraduates	1-3: PF	IGLESIA, E	NONE	JR, SR
+10779  	P  C270	001 LEC  	MWF 10-11A  	229 DWINELLE  	Protein Engineering	3		NONE	
+ 	 	 	Note: Cross-listed with Bioengineering C219 section 1. 
+
+CHEMISTRY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+  	S  112A	102 VOL  	Tu 630-830P  	145 DWINELLE  	Organic Chemistry				CURRENTLY NOT OPEN
+
+CHICANO STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+14205  	P  180	006 LEC  	Th 12-2P  	104 DWINELLE  	Topics in Chicano Studies	2	MONTEJANO, D	NONE	JR, SR
+
+CIVIL AND ENVIRONMENTAL ENGINEERING
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+14887  	P  200A	001 LEC  	TuTh 11-1230P  	160 DWINELLE  	Environmental Fluid Mechanics	3	CHOW, F K	9	GR
+
+CLASSICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+15265  	S  10A	104 DIS  	Th 1-2P  	183 DWINELLE  	Introduction to Greek Civilization		MCCANDLESS, L J		
+15268  	S  10A	105 DIS  	F 3-4P  	105 DWINELLE  	Introduction to Greek Civilization		HUDAK, J J		
+15271  	S  10A	106 DIS  	F 9-10A  	156 DWINELLE  	Introduction to Greek Civilization		HUDAK, J J		
+15331  	P  130	002 LEC  	MW 4-530P  	130 DWINELLE  	Topics in Ancient Greek and Roman Culture	4	SYED, Y	13	BY CATEGORY
+ 	 	 	Note: "The Gods in Augustan Poetry" - Although the ancient philosophers had long dismissed the poets' depictions of the gods as inaccurate at best, or even blasphemous, Vergil and Ovid, the two major epic poets of the Augustan period, gave the gods an even more central role in their epics than Homer had done. The gods of the Aeneid are both vivid as characters and endowed with cosmic significance, while the gods of the Metamorphoses have all the flaws of humanity, combined with the power to turn their flaws into frightening threats to mankind. 
+
+GREEK
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+15609  	P  40	001 LEC  	MWF 9-10A  	89 DWINELLE  	Intermediate Greek Prose Composition	4	PAPAZARKADAS, N	16	
+15627  	P  102	001 LEC  	MWF 2-3P  	235 DWINELLE  	Drama and Society	4	MASTRONARDE, D J	15	
+ 	 	 	Note: This course is intended for students who have taken both Greek 100 and Greek 101. It provides an introduction to Greek drama through Euripidean tragedy. The play studied in Fall 2015 will be Euripides' Hippolytus. In addition to close attention to the translation of the Greek text, the course will offer a general introduction to Greek tragedy and tragic language and meters as well as consideration of literary interpretations of the play. The Phaedra-plays of Seneca and Racine will be read in English. Additional texts illustrating contemporary Athenian society will be introduced as time permits. 
+15630  	P  116	001 LEC  	MWF 1-2P  	105 DWINELLE  	Greek Drama	4	TELO, M	12	
+ 	 	 	Note: "Aristophanes' Acharnians" - In this class we will translate Aristophanes' Acharnians and analyze this play from different angles: linguistic, dramaturgical, aesthetic, political, and cultural-historical. Our meetings will aim to translate in class most of each week's readings. Besides translating the text, we will also discuss secondary readings, which will help students develop ideas for their term paper. Students will be asked to give two short presentations: one on a specific linguistic aspect of the text (a word or a particular grammatical construction) and one on their paper topic. 
+
+LATIN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+15812  	P  1	004 LEC  	MTuWTh 3-4P  	206 DWINELLE  	Elementary Latin	4	WEAVERDYCK, E J	8	
+
+COGNITIVE SCIENCE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+16048  	P  C127	001 LEC  	TuTh 9-10A  	145 DWINELLE  	Cognitive Neuroscience	3	GALLANT, J L	7	BY CATEGORY
+ 	 	 	Note: Cross-listed with Psychology C127 section 1. 
+16081  	S  131	101 DIS  	W 9-10A  	156 DWINELLE  	Computational Models of Cognition				
+
+COLLEGE WRITING PROGRAM
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+16418  	P  R1A	003 LEC  	MWF 10-12P  	189 DWINELLE  	Accelerated Reading and Composition	6	SPANBOCK, B A	NONE	BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; SATISFIES ENTRY LEVEL WRITING REQUIREMENT; Enrollment restricted to students who have already taken the Analytical Writing Placement Examination (AWPE). An AWPE will be held on campus in September 2015. See writing.berkeley.edu/classes-and-awp/awp-exam for details. September exam takers are not eligible to enroll in College Writing R1A or any other Reading and Composition courses until Spring 2016. 
+16562  	P  98	002 GRP  	Tu 530-730P  	205 DWINELLE  	Directed Group Study	1-4: PF	BAPTISTE, M C	NONE	
+ 	 	 	Note: "Peace Corps DeCal" 
+16640  	P  132	001 LEC  	MWF 3-4P  	89 DWINELLE  	Introduction to the Craft of Short Fiction	3	SLOAN, R R	NONE	
+16610  	P  198	002 GRP  	Tu 530-730P  	205 DWINELLE  	Directed Group Study	1-4: PF	BAPTISTE, M C	NONE	JR, SR
+ 	 	 	Note: "Peace Corps DeCal" 
+
+COMPARATIVE LITERATURE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+17206  	P  R1A	002 LEC  	TuTh 930-11A  	242 DWINELLE  	English Composition in Connection with the Reading ...	4		NONE	CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17212  	P  R1A	004 LEC  	TuTh 4-530P  	242 DWINELLE  	English Composition in Connection with the Reading ...	4	ESTREICH, N C	NONE	
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17236  	P  R1B	004 LEC  	TuTh 930-11A  	205 DWINELLE  	English Composition in Connection with the Reading ...	4	CREWE, J	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17239  	P  R1B	005 LEC  	TuTh 930-11A  	243 DWINELLE  	English Composition in Connection with the Reading ...	4	TRAN, A D	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17245  	P  R1B	007 LEC  	TuTh 11-1230P  	205 DWINELLE  	English Composition in Connection with the Reading ...	4	FORD, K C	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17248  	P  R1B	008 LEC  	TuTh 11-1230P  	263 DWINELLE  	English Composition in Connection with the Reading ...	4	DE MORAIS, P R	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17254  	P  R1B	010 LEC  	TuTh 1230-2P  	79 DWINELLE  	English Composition in Connection with the Reading ...	4	THOW, D	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+17257  	P  R1B	011 LEC  	TuTh 1230-2P  	234 DWINELLE  	English Composition in Connection with the Reading ...	4	JOHNSTON, T B	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes, this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17260  	P  R1B	012 LEC  	TuTh 4-530P  	205 DWINELLE  	English Composition in Connection with the Reading ...	4	KRONFELD, M	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17263  	P  R1B	013 LEC  	TuTh 5-630P  	228 DWINELLE  	English Composition in Connection with the Reading ...	4	VAKNIN, J J	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Attendance is mandatory the first two weeks of classes; this includes all enrolled and wait listed students. If you do not attend all classes the first two weeks you may be dropped. If you are attempting to add into this class during weeks 1 and 2 and did not attend the first day, you will be expected to attend all class meetings thereafter and, if space permits, you may be enrolled from the wait list. 
+17284  	P  41B	001 LEC  	MWF 2-3P  	255 DWINELLE  	Forms of the Lyric	4	FRANCOIS, A	15	
+ 	 	 	Note: Studies in Lyric 
+17302  	P  100	001 LEC  	TuTh 11-1230P  	262 DWINELLE  	Introduction to Comparative Literature	4	BRITTO, K A	9	SO, JR, SR
+ 	 	 	Note: "Dislocated Narratives" 
+17305  	P  112A	001 LEC  	MWF 12-1P  	225 DWINELLE  	Modern Greek Language and Modern Greek Composition	4	KOTZAMANIDOU, M	18	
+ 	 	 	Note: This course focuses on the study of Modern Greek pronunciation, vocabulary, grammar and syntax. There are no prerequisites. 
+17308  	P  153	001 LEC  	MWF 2-3P  	134 DWINELLE  	The Renaissance	4	HAMPTON, T	15	BY CATEGORY
+ 	 	 	Note: Literature and the Age of Exploration 
+17314  	P  171	001 LEC  	F 2-5P  	211 DWINELLE  	Topics in Modern Greek Literature	4	KOTZAMANIDOU, M	15	SO, JR, SR
+17317  	P  190	001 LEC  	M 2-5P  	87 DWINELLE  	Senior Seminar in Comparative Literature	4	ZHANG, D	15	BY CATEGORY
+ 	 	 	Note: Proust, Woolf and the Modern Novel 
+17362  	P  200	001 LEC  	W 2-5P  	204 DWINELLE  	Approaches to Comparative Literature	4	KAHN, V	NONE	BY CATEGORY
+17365  	P  201	001 SEM  	F 12-1P  	4104 DWINELLE  	Proseminar	1: SU	SAS, M B	NONE	
+17370  	P  202B	001 LEC  	Tu 2-5P  	263 DWINELLE  	Lyric Poetry	4	KRONFELD, C	NONE	BY CATEGORY
+ 	 	 	Note: The View from the Margins 
+17371  	P  202C	001 LEC  	M 2-5P  	233 DWINELLE  	The Novel	4	LUCEY, M	NONE	BY CATEGORY
+ 	 	 	Note: "The Novel and Sociological Knowledge" 
+17374  	P  212	001 LEC  	Th 2-5P  	263 DWINELLE  	Studies in Medieval Literature	4	BEZNER, F	NONE	BY CATEGORY
+ 	 	 	Note: "Subjects of Desire. Exploring Medieval (Latin) Literatures" 
+17376  	P  215	001 LEC  	Th 3-5P  	282 DWINELLE  	Studies in Renaissance Literature	4	LARGIER, N E	NONE	GR
+ 	 	 	Note: "Image and Imagination in Early Modern Literature" 
+17422  	P  375	001 LEC  	W 12-2P  	211 DWINELLE  	Methods of Teaching Literature and English Composit...	2: SU	STANLEY, J	NONE	GR
+
+CRITICAL THEORY GRADUATE GROUP
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+18103  	P  200	001 LEC  	W 12-2P  	3205 DWINELLE  	Critique in 19th-Century Thought	4	JAY, M E	NONE	GR
+ 	 	 	Note: "The Idea of Reason" 
+18106  	P  205	001 LEC  	W 1-4P  	282 DWINELLE  	The Classical Frankfurt School: The First Generatio...	4	FELDMAN, K S	NONE	CURRENTLY FULL
+ 	 	 	Note: "Benjamin and Adorno" - This course will examine 1930s Frankfurt-School thought. Topics will include the exchanges between Adorno and Benjamin on the autonomy of art and the philosophy of history. 
+18112  	P  290	001 SEM  	Th 2-5P  	7415 DWINELLE  	Critical Theory Elective	2-4	CONSTABLE, M	NONE	
+ 	 	 	Note: "Legal Rhetoric and Philosophy: Nietzsche, Heidegger and Law" 
+18115  	P  290	002 SEM  	W 3-6P  	211 DWINELLE  	Critical Theory Elective	2-4	DEL VALLE, I	NONE	CURRENTLY FULL
+ 	 	 	Note: "Colonial Technologies" 
+18118  	P  290	003 SEM  	W 11-2P  	226 DWINELLE  	Critical Theory Elective	2-4	DOANE, M	NONE	
+ 	 	 	Note: "The Idea of a Medium" 
+18120  	S  290	301 DIS  	Tu 7-9P  	226 DWINELLE  	Critical Theory Elective		DOANE, M		
+18121  	P  290	004 SEM  	Th 11-2P  	7415 DWINELLE  	Critical Theory Elective	2-4	ESMEIR, S	NONE	
+ 	 	 	Note: "Itineraries of Dissent: Treason, Rebellion Revolution" 
+18124  	P  290	005 SEM  	M 1-6P  	282 DWINELLE  	Critical Theory Elective	2-4	KAES, A J	NONE	
+ 	 	 	Note: "Avant-garde" 
+
+DEMOGRAPHY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+18206  	P  98	002 TUT  	Tu 6-8P  	106 DWINELLE  	Directed Group Study	1-4: PF	MASON, C N	NONE	
+
+DEVELOPMENT STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+18709  	S  C10	102 DIS  	W 2-3P  	279 DWINELLE  	Introduction to Development				CURRENTLY FULL
+18718  	S  C10	105 DIS  	M 4-5P  	106 DWINELLE  	Introduction to Development				
+18730  	S  C10	109 DIS  	M 4-5P  	187 DWINELLE  	Introduction to Development				
+18745  	S  150	104 DIS  	Th 2-3P  	254 DWINELLE  	Advanced Studies in Development Studies				
+
+EAST ASIAN LANGUAGES AND CULTURES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+20506  	S  C50	101 DIS  	Tu 1-2P  	228 DWINELLE  	Introduction to the Study of Buddhism				
+20509  	S  C50	102 DIS  	Tu 2-3P  	251 DWINELLE  	Introduction to the Study of Buddhism				
+20521  	S  C50	106 DIS  	W 2-3P  	187 DWINELLE  	Introduction to the Study of Buddhism				
+20527  	P  108	001 LEC  	TuTh 1230-2P  	223 DWINELLE  	Revising the Classics: Chinese and Greek Poetry in ...	4	ASHMORE, R	17	BY CATEGORY
+20530  	P  109	001 LEC  	MWF 1-2P  	219 DWINELLE  	History of the Culture of Tea in China and Japan	4	WALLACE, J	12	BY CATEGORY
+20539  	P  118	001 LEC  	TuTh 11-1230P  	156 DWINELLE  	Sex and Gender in Premodern Chinese Culture	4	LAM, L	NONE	BY CATEGORY
+20542  	P  C120	001 LEC  	TuTh 2-330P  	229 DWINELLE  	Buddhism on the Silk Road	4	MEHENDALE, S	NONE	BY CATEGORY
+ 	 	 	Note: Cross-listed with Buddhist Studies C120 section 1. 
+20545  	P  C132	001 LEC  	TuTh 330-5P  	156 DWINELLE  	Pure Land Buddhism	4	BLUM, M L	NONE	BY CATEGORY
+ 	 	 	Note: Cross-listed with Buddhist Studies C132 section 1. 
+
+CHINESE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+20603  	P  1A	001 LEC  	MTWTF 8-9A  	83 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20606  	P  1A	002 LEC  	MTWTF 9-10A  	105 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20609  	P  1A	003 LEC  	MTWTF 10-11A  	247 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20612  	P  1A	004 LEC  	MTWTF 10-11A  	156 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20615  	P  1A	005 LEC  	MTWTF 11-12P  	259 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20618  	P  1A	006 LEC  	MTWTF 11-12P  	246 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20621  	P  1A	007 LEC  	MTWTF 12-1P  	187 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20624  	P  1A	008 LEC  	MTWTF 1-2P  	87 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20627  	P  1A	009 LEC  	MTWTF 3-4P  	255 DWINELLE  	Elementary Chinese	5	TSAI, C	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) are of non-Chinese origin and were not raised in a Chinese-speaking environment; or 2) are of Chinese origin but do not speak any dialect of Chinese and whose parents do not speak any dialect of Chinese. Students are responsible for enrolling in the appropriate level and section. They must also accurately inform instructors about their language proficiency level. Any student who enrolls in a class below his/her level will be dropped. 
+20636  	P  1X	002 LEC  	MTuThF 11-12P  	283 DWINELLE  	Elementary Chinese for Mandarin Speakers	4	LIU, L	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) were born in a non-Chinese speaking country but were raised in a home where Mandarin (or Mandarin and another dialect) was spoken but possess little or no reading and writing skills in Chinese; or 2) were born in a Chinese-speaking country and received zero or limited formal education in that country up to the second grade. All students must take the online Chinese Language Placement Test at ealc.berkeley,.edu before enrolling. Test results must be submitted in class on the first day for instructor verification. Any student who enrolls in a class below his/her level will be dropped. 
+20639  	P  1Y	001 LEC  	MTWTF 8-9A  	250 DWINELLE  	Elementary Chinese for Dialect Speakers	5	LIN, H	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) were born in a non-Chinese speaking country but were raised in a home where a non-Mandarin Chinese dialect was spoken but cannot speak Mandarin and possess little or no reading and writing skills in Chinese; 2) were born in a Chinese-speaking country in a home where a non-Mandarin Chinese dialect was spoken and received zero or limited formal education up to the second grade. All students must take the online Chinese Language Placement Test at ealc.berkeley.edu before enrolling. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped. 
+20642  	P  1Y	002 LEC  	MTWTF 10-11A  	283 DWINELLE  	Elementary Chinese for Dialect Speakers	5	LIN, H	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) were born in a non-Chinese speaking country but were raised in a home where a non-Mandarin Chinese dialect was spoken but cannot speak Mandarin and possess little or no reading and writing skills in Chinese; 2) were born in a Chinese-speaking country in a home where a non-Mandrain Chinese dialect was spoken and received zero or limited formal education up to the second grade. All students must take the online Chinese Language Placement Test at ealc.berkeley.edu before enrolling. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped. 
+20645  	P  1Y	003 LEC  	MTWTF 12-1P  	246 DWINELLE  	Elementary Chinese for Dialect Speakers	5	LIN, H	NONE	BY CATEGORY
+ 	 	 	Note: For students who: 1) were born in a non-Chinese speaking country but were raised in a home where a non-Mandarin Chinese dialect was spoken but cannot speak Mandarin and possess little or no reading and writing skills in Chinese; 2) were born in a Chinese-speaking country in a home where a non-Mandrain Chinese dialect was spoken and received zero or limited formal education up to the second grade. All students must take the online Chinese Language Placement Test at ealc.berkeley.edu before enrolling. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped. 
+20654  	S  7A	101 DIS  	Th 1-2P  	228 DWINELLE  	Introduction to Premodern Chinese Literature and Cu...				
+20657  	S  7A	102 DIS  	Th 2-3P  	175 DWINELLE  	Introduction to Premodern Chinese Literature and Cu...				
+20663  	P  10A	001 LEC  	MTWTF 9-10A  	109 DWINELLE  	Intermediate Chinese	5	WU, X	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite of Chinese 1B. If you have not taken Chinese 1B, to enroll in this class you must first take the online Chinese Language Placement Test. Find the online test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20666  	P  10A	002 LEC  	MTWTF 1-2P  	33 DWINELLE  	Intermediate Chinese	5	WU, X	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite of Chinese 1B. If you have not taken Chinese 1B, to enroll in this class you must first take the online Chinese Language Placement Test. Find the online test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20669  	P  10A	003 LEC  	MTWTF 3-4P  	254 DWINELLE  	Intermediate Chinese	5	WU, X	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite of Chinese 1B. If you have not taken Chinese 1B, to enroll in this class you must first take the online Chinese Language Placement Test. Find the online test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20720  	P  100A	001 LEC  	MTWTF 10-11A  	246 DWINELLE  	Advanced Chinese	5	ZHANG, L	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite: Chinese 10B. If you have not taken Chinese 10B, to enroll in the class you must first take the online Chinese Language Placement Test. Find the online test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20729  	P  100XA	001 LEC  	MTuThF 11-12P  	B37 DWINELLE  	Advanced Chinese for Mandarin Speakers	4	CAI, W	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite: Chinese 10X or 10Y. If you have not taken Chinese 10X or 10Y, to enroll in this class you must first take the online Chinese Language Placement Test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20732  	P  100XA	002 LEC  	MTuThF 1-2P  	B37 DWINELLE  	Advanced Chinese for Mandarin Speakers	4	CAI, W	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite of Chinese 10X or 10Y. If you have not taken Chinese 10X or 10Y, to enroll in this class you must first take the online Chinese Language Placement Test at ealc.berkeley.edu. Test results must be submitted in class on the first day for instructor verification. Students are responsible for enrolling in the appropriate level. 
+20738  	P  102	001 LEC  	MWF 8-9A  	215 DWINELLE  	Fourth-Year Chinese Readings: Social Sciences and H...	4	LI, I	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite: Chinese 100B or 100XB. If you have not taken Chinese 100B or 100XB, to enroll in this class you must first take the online Chinese Language Placement Test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20747  	P  110A	001 LEC  	TuTh 11-1230P  	242 DWINELLE  	Introduction to Literary Chinese	4	VARSANO, P M	9	BY CATEGORY
+20750  	P  111	001 LEC  	MWF 12-1P  	234 DWINELLE  	Fifth-Year Readings: Reading and Analysis of Advanc...	4	LI, I	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite: Chinese 101 or 102. If you have not taken Chinese 101 or 102, to enroll in this class you must first take the online Chinese Language Placement Test at ealc.berkeley.edu. Students are responsible for enrolling in the appropriate level. They must also accurately inform instructors about their language proficiency level. Test results must be reported in a course survey. Any student who enrolls in a class below his/her level will be dropped from the class. 
+20756  	P  172	001 LEC  	MW 11-1230P  	142 DWINELLE  	Contemporary Chinese Language Cinema	4	BAO, W	NONE	BY CATEGORY
+ 	 	 	Note: "The 'New Wave' and Contemporary Chinese Film Auteurs" 
+20759  	S  172	101 DIS  	M 1-3P  	142 DWINELLE  	Contemporary Chinese Language Cinema		BAO, W		
+20762  	P  178	001 LEC  	TuTh 2-330P  	156 DWINELLE  	Traditional Chinese Drama	4	LAM, L	5	BY CATEGORY
+20852  	P  230	001 SEM  	W 11-2P  	287 DWINELLE  	Seminar in Chinese Literary History	2,4	VARSANO, P M	NONE	
+ 	 	 	Note: "Permutations of the 'Imagination' in the History of Premodern Chinese Poetry" 
+
+JAPANESE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+21003  	P  1A	001 LEC  	MTWTF 8-9A  	246 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21006  	P  1A	002 LEC  	MTWTF 8-9A  	87 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21009  	P  1A	003 LEC  	MTWTF 9-10A  	247 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21012  	P  1A	004 LEC  	MTWTF 9-10A  	283 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21015  	P  1A	005 LEC  	MTWTF 10-11A  	259 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21024  	P  1A	008 LEC  	MTWTF 11-12P  	183 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21027  	P  1A	009 LEC  	MTWTF 11-12P  	250 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21030  	P  1A	010 LEC  	MTWTF 12-1P  	250 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21033  	P  1A	011 LEC  	MTWTF 12-1P  	259 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21036  	P  1A	012 LEC  	MTWTF 1-2P  	83 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21039  	P  1A	013 LEC  	MTWTF 1-2P  	254 DWINELLE  	Elementary Japanese	5	CALTABIANO, Y M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 1A if you have minimal or no knowledge of Japanese. 
+21042  	P  7A	001 LEC  	TuTh 930-11A  	160 DWINELLE  	Introduction to Premodern Japanese Literature and C...	4	WALLACE, J	7	BY CATEGORY
+21045  	S  7A	101 DIS  	Tu 1-2P  	246 DWINELLE  	Introduction to Premodern Japanese Literature and C...		MEWHINNEY, M S		
+21057  	P  10A	002 LEC  	MTWTF 9-10A  	250 DWINELLE  	Intermediate Japanese	5	TAKATA, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 10A if you have completed Japanese 1A and 1B unless you are advised to take a higher level. 
+21060  	P  10A	003 LEC  	MTWTF 10-11A  	250 DWINELLE  	Intermediate Japanese	5	TAKATA, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 10A if you have completed Japanese 1A and 1B unless you are advised to take a higher level. 
+21063  	P  10A	004 LEC  	MTWTF 11-12P  	87 DWINELLE  	Intermediate Japanese	5	TAKATA, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 10A if you have completed Japanese 1A and 1B unless you are advised to take a higher level. 
+21066  	P  10A	005 LEC  	MTWTF 12-1P  	87 DWINELLE  	Intermediate Japanese	5	TAKATA, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 10A if you have completed Japanese 1A and 1B unless you are advised to take a higher level. 
+21069  	P  10X	001 LEC  	MTWTF 11-12P  	247 DWINELLE  	Intermediate Japanese for Heritage Learners	5	WALLACE, N K	NONE	
+21099  	P  100A	002 LEC  	MTWTF 9-10A  	234 DWINELLE  	Advanced Japanese	5	KAMBARA, W	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 100A if you have completed Japanese 10A and 10B unless you are advised to take a higher level. 
+21102  	P  100A	003 LEC  	MTWTF 10-11A  	105 DWINELLE  	Advanced Japanese	5	KAMBARA, W	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 100A if you have completed Japanese 10A and 10B unless you are advised to take a higher level. 
+21105  	P  101	001 LEC  	MWF 3-4P  	187 DWINELLE  	Fourth-Year Readings: Social Sciences	4	BAKER, Y K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 101 if you have completed Japanese 100B unless you are advised to take a higher level. 
+21108  	P  103	001 LEC  	MW 3-430P  	B37 DWINELLE  	Fourth-Year Readings: Japanese Literature	4	SHIBAHARA, C	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Japanese 103 if you have completed Japanese 100B unless you are advised to take a higher level. 
+21114  	P  C115	001 LEC  	TuTh 1230-2P  	156 DWINELLE  	Japanese Buddhism	4	MROSS, M	17	BY CATEGORY
+ 	 	 	Note: Cross-listed with Buddhist Studies C115 section 1. 
+21117  	P  120	001 LEC  	TuTh 330-5P  	229 DWINELLE  	Introduction to Classical Japanese	4	HORTON, H M	20	BY CATEGORY
+21126  	P  160	001 LEC  	MWF 12-1P  	243 DWINELLE  	Introduction to Japanese Linguistics: Grammar	4	HASEGAWA, Y	18	BY CATEGORY
+21129  	P  163	001 LEC  	MWF 1-2P  	B3 DWINELLE  	Translation: Theory and Practice	4	HASEGAWA, Y	12	BY CATEGORY
+21135  	P  185	001 LEC  	TuTh 11-1230P  	188 DWINELLE  	Introduction to Japanese Cinema	4	SAS, M B	9	BY CATEGORY
+21138  	S  185	101 DIS  	Tu 5-7P  	188 DWINELLE  	Introduction to Japanese Cinema		SAS, M B		
+21195  	P  255	001 SEM  	Th 11-2P  	287 DWINELLE  	Seminar in Prewar Japanese Literature	2,4	TANSMAN, A M	NONE	
+
+KOREAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+21703  	P  1A	001 LEC  	MTWTF 8-9A  	187 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21706  	P  1A	002 LEC  	MTWTF 9-10A  	223 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21709  	P  1A	003 LEC  	MTWTF 10-11A  	258 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21715  	P  1A	005 LEC  	MTWTF 11-12P  	187 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21718  	P  1A	006 LEC  	MTWTF 12-1P  	183 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21721  	P  1A	007 LEC  	MTWTF 1-2P  	255 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21724  	P  1A	008 LEC  	MTWTF 2-3P  	130 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21727  	P  1A	009 LEC  	MTWTF 3-4P  	130 DWINELLE  	Elementary Korean	5	KO, K	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1A if you have no knowledge of Korean. 
+21730  	P  1AX	001 LEC  	MTWTF 8-9A  	283 DWINELLE  	Elementary Korean for Heritage Speakers	5	KIM, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1AX if you speak some Korean but cannot read or write it. 
+21733  	P  1AX	002 LEC  	MTWTF 9-10A  	259 DWINELLE  	Elementary Korean for Heritage Speakers	5	KIM, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 1AX if you speak some Korean but cannot read or write it. 
+21736  	P  7A	001 LEC  	MWF 12-1P  	219 DWINELLE  	Introduction to Premodern Korean Literature and Cul...	4	PARK, H	18	BY CATEGORY
+21739  	S  7A	101 DIS  	M 1-2P  	262 DWINELLE  	Introduction to Premodern Korean Literature and Cul...		KEBLINSKA, J M		
+21748  	P  10A	001 LEC  	MTWTF 11-12P  	228 DWINELLE  	Intermediate Korean	5	KIM, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 10A if you have completed Korean 1A and 1B unless you are advised to take a higher level. 
+21751  	P  10A	002 LEC  	MTWTF 12-1P  	228 DWINELLE  	Intermediate Korean	5	KIM, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 10A if you have completed Korean 1A and 1B unless you are advised to take a higher level. 
+21757  	P  10AX	001 LEC  	MTWTF 8-9A  	183 DWINELLE  	Intermediate Korean for Heritage Speakers	5	KIM, J	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 10AX if you have completed Korean 1BX unless you are advised to take a higher level. 
+21760  	P  10AX	002 LEC  	MTWTF 9-10A  	258 DWINELLE  	Intermediate Korean for Heritage Speakers	5	KIM, J	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 10AX if you have completed Korean 1BX unless you are advised to take a higher level. 
+21769  	P  100A	001 LEC  	MTWTF 3-4P  	83 DWINELLE  	Advanced Korean	5	CHANG, S	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 100A if you have completed Korean 10B unless you are advised to take a higher level. 
+21772  	P  100AX	001 LEC  	MWF 2-3P  	251 DWINELLE  	Advanced Korean for Heritage Speakers	4	LEE, S C	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 100AX if you have completed Korean 10BX unless you are advised to take a higher level. 
+21775  	P  100AX	002 LEC  	MWF 3-4P  	183 DWINELLE  	Advanced Korean for Heritage Speakers	4	LEE, S C	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 100AX if you have completed Korean 10BX unless you are advised to take a higher level. 
+21778  	P  101	001 LEC  	TuTh 1230-2P  	243 DWINELLE  	Fourth-Year Readings: Korean Literature	4	PARK, J	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 101 if you have completed Korean 100A or 100B, Korean 100AX or 100BX, or the equivalent of three years of college-level Korean. 
+21781  	P  111	001 LEC  	TuTh 1230-2P  	242 DWINELLE  	Fifth-Year Readings: Reading and Analysis of Advanc...	4	LEE, M	NONE	BY CATEGORY
+ 	 	 	Note: Enroll in Korean 111 if you have completed Korean 101 or Korean 102 or the equivalent of four years of college-level Korean. 
+21784  	P  170	001 LEC  	MWF 10-11A  	89 DWINELLE  	Intercultural Encounters in Korean Literature	4	PARK, H	NONE	BY CATEGORY
+21787  	P  187	001 LEC  	MW 4-530P  	79 DWINELLE  	History and Memory in Korean Cinema	4	AN, J	NONE	BY CATEGORY
+21790  	S  187	101 DIS  	Th 6-830P  	283 DWINELLE  	History and Memory in Korean Cinema		AN, J		
+21793  	P  188	001 LEC  	TuTh 330-5P  	79 DWINELLE  	Cold War Culture in Korea: Literature and Film	4	AN, J	NONE	BY CATEGORY
+
+TIBETAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+22115  	P  C224	001 SEM  	Th 2-5P  	288 DWINELLE  	Readings in Tibetan Buddhist Texts	2,4	DALTON, J	NONE	
+ 	 	 	Note: Cross-listed with South Asian C224 section 1 and Buddhist Studies C224 section 1. 
+
+ECONOMICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+22306  	S  1	101 DIS  	MW 11-12P  	209 DWINELLE  	Introduction to Economics				
+22309  	S  1	102 DIS  	MW 2-3P  	250 DWINELLE  	Introduction to Economics				CURRENTLY FULL
+22312  	S  1	103 DIS  	MW 4-5P  	250 DWINELLE  	Introduction to Economics				
+22360  	S  1	119 DIS  	TuTh 1-2P  	250 DWINELLE  	Introduction to Economics				CURRENTLY FULL
+22363  	S  1	120 DIS  	TuTh 2-3P  	246 DWINELLE  	Introduction to Economics				
+22369  	S  1	122 DIS  	MW 2-3P  	259 DWINELLE  	Introduction to Economics				CURRENTLY FULL
+22372  	S  1	123 DIS  	MW 3-4P  	259 DWINELLE  	Introduction to Economics				CURRENTLY FULL
+22375  	S  1	124 DIS  	TuTh 5-6P  	246 DWINELLE  	Introduction to Economics				
+22408  	S  100A	103 DIS  	MW 2-3P  	247 DWINELLE  	Economic Analysis--Micro				CURRENTLY FULL
+22420  	S  100A	107 DIS  	TuTh 2-3P  	247 DWINELLE  	Economic Analysis--Micro				
+22426  	S  100A	109 DIS  	TuTh 2-3P  	250 DWINELLE  	Economic Analysis--Micro				CURRENTLY FULL
+22429  	S  100A	110 DIS  	MW 4-5P  	234 DWINELLE  	Economic Analysis--Micro				
+22447  	P  100B	001 LEC  	TuTh 330-5P  	155 DWINELLE  	Economic Analysis--Macro	4	WOOD, S A	6	SO, JR, SR & BY CATEGORY
+22465  	S  100B	106 DIS  	MW 4-5P  	259 DWINELLE  	Economic Analysis--Macro				
+22471  	S  100B	108 DIS  	MW 8-9A  	79 DWINELLE  	Economic Analysis--Macro				
+22492  	S  100B	115 DIS  	TuTh 2-3P  	259 DWINELLE  	Economic Analysis--Macro				
+22525  	S  C102	102 DIS  	M 2-3P  	246 DWINELLE  	Natural Resource Economics				
+22555  	S  C110	105 DIS  	W 2-3P  	234 DWINELLE  	Game Theory in the Social Sciences				
+22564  	S  C110	108 DIS  	Th 2-3P  	242 DWINELLE  	Game Theory in the Social Sciences				
+22651  	S  136	104 DIS  	W 2-3P  	258 DWINELLE  	Financial Economics				
+22693  	S  140	102 DIS  	M 530-7P  	87 DWINELLE  	Economic Statistics and Econometrics				CURRENTLY FULL
+22696  	S  140	103 DIS  	Th 2-330P  	87 DWINELLE  	Economic Statistics and Econometrics				CURRENTLY FULL
+22699  	S  140	104 DIS  	Tu 2-330P  	258 DWINELLE  	Economic Statistics and Econometrics				CURRENTLY FULL
+22753  	S  C171	103 DIS  	W 3-4P  	209 DWINELLE  	Economic Development				
+22756  	S  C171	104 DIS  	W 4-5P  	160 DWINELLE  	Economic Development				
+
+EDUCATION
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+SEE DEPT  	P  98	011 GRP  	F 2-4P  	259 DWINELLE  	Directed Group Study	1: PF	MAHIRI, J	NONE	FR, SO
+SEE DEPT  	P  198	011 GRP  	F 2-4P  	259 DWINELLE  	Directed Group Study	1: PF	MAHIRI, J	NONE	JR, SR
+23935  	P  198	032 GRP  	Tu 12-1P  	247 DWINELLE  	Directed Group Study	1: PF	MIRABELLI, A A	NONE	JR, SR
+ 	 	 	Note: For more information regarding this course, please visit http://ce3.berkeley.edu. 
+24409  	P  198	039 GRP  	M 1-2P  	247 DWINELLE  	Directed Group Study	1: PF	MIRABELLI, A A	NONE	JR, SR
+ 	 	 	Note: For more information regarding this course, please visit http://transfers.berkeley.edu/transition-and-navigation/. 
+24421  	P  198	043 GRP  	Th 12-1P  	247 DWINELLE  	Directed Group Study	1: PF	MIRABELLI, A A	NONE	JR, SR
+ 	 	 	Note: For more information regarding this course, please visit http://transfers.berkeley.edu/transition-and-navigation/. 
+
+ELECTRICAL ENGINEERING
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+24627  	S  16A	101 DIS  	MW 1-2P  	258 DWINELLE  	Designing Information Devices and Systems I				CURRENTLY FULL
+25779  	S  16A	109 DIS  	WF 4-5P  	243 DWINELLE  	Designing Information Devices and Systems I				
+24663  	S  16B	102 DIS  	W 2-3P  	228 DWINELLE  	Designing Information Devices and Systems II				
+24669  	P  20	001 LEC  	TuTh 330-5P  	145 DWINELLE  	Structure and Interpretation of Systems and Signals	4	AYAZIFAR, B	20	
+ 	 	 	Note: Electrical Engineering 20 will be using a Google form application process. If you need this course to finish the sequence, you must fill out the Google form, AND place yourself on the Tele-BEARS wait list by the end of Phase I to be considered. For this reason, enrollment capacity in EE 20 is currently set to zero. We will manually enroll those who need to finish the sequence at the end of Phase I. Application form: http://goo.gl/eqBOzK 
+24698  	S  20	204 DIS  	W 12-1P  	247 DWINELLE  	Structure and Interpretation of Systems and Signals				CURRENTLY NOT OPEN
+24701  	S  20	205 DIS  	W 1-2P  	247 DWINELLE  	Structure and Interpretation of Systems and Signals				CURRENTLY NOT OPEN
+
+COMPUTER SCIENCE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+26103  	P  61B	001 LEC  	MWF 1-2P  	155 DWINELLE  	Data Structures	4	HILFINGER, P N	12	BY CATEGORY
+26340  	S  70	101 DIS  	MW 5-6P  	246 DWINELLE  	Discrete Mathematics and Probability Theory				
+26343  	S  70	102 DIS  	MW 5-6P  	247 DWINELLE  	Discrete Mathematics and Probability Theory				
+26346  	S  70	103 DIS  	MW 5-6P  	250 DWINELLE  	Discrete Mathematics and Probability Theory				
+26370  	S  70	111 DIS  	W 5-7P  	228 DWINELLE  	Discrete Mathematics and Probability Theory				
+26373  	S  70	112 DIS  	TuTh 1-2P  	247 DWINELLE  	Discrete Mathematics and Probability Theory				
+26379  	S  70	114 DIS  	TuTh 2-3P  	83 DWINELLE  	Discrete Mathematics and Probability Theory				
+27498  	S  160	106 DIS  	F 11-12P  	243 DWINELLE  	User Interface Design and Development				
+26601  	P  168	001 LEC  	TuTh 5-630P  	155 DWINELLE  	Introduction to the Internet: Architecture and Prot...	4	SHENKER, S J	14	COMPUTER SCIENCE , ELEC ENGR COMPUT SCI & BY CATEGORY
+ 	 	 	Note: Formerly offered as Electrical Engineering 122. 
+26658  	S  169	104 DIS  	W 5-6P  	105 DWINELLE  	Software Engineering				
+26661  	P  170	001 LEC  	MWF 2-3P  	155 DWINELLE  	Efficient Algorithms and Intractable Problems	4	GARG, S	15	COMPUTER SCIENCE , ELEC ENGR COMPUT SCI & BY CATEGORY
+ 	 	 	Note: Students will be notified of their discussion and lab section assignments on the first day of the lecture. You will not be able to sign up for the discussion section during Tele-BEARS. 
+26691  	S  170	110 DIS  	Tu 5-6P  	83 DWINELLE  	Efficient Algorithms and Intractable Problems				
+26709  	S  170	116 DIS  	W 1-2P  	243 DWINELLE  	Efficient Algorithms and Intractable Problems				
+26757  	P  186	001 LEC  	MW 5-630P  	155 DWINELLE  	Introduction to Database Systems	4	BREWER, E A	12	COMPUTER SCIENCE , ELEC ENGR COMPUT SCI & BY CATEGORY
+26778  	S  186	108 DIS  	Tu 5-6P  	234 DWINELLE  	Introduction to Database Systems				
+26796  	S  186	114 DIS  	W 3-4P  	88 DWINELLE  	Introduction to Database Systems				CURRENTLY FULL
+26799  	P  188	001 LEC  	TuTh 1230-2P  	155 DWINELLE  	Introduction to Artificial Intelligence	4	RUSSELL, S J	17	COMPUTER SCIENCE , ELEC ENGR COMPUT SCI & BY CATEGORY
+26844  	S  188	115 DIS  	W 5-6P  	234 DWINELLE  	Introduction to Artificial Intelligence				
+
+ENERGY AND RESOURCES GROUP
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+27692  	P  273	001 LEC  	TuTh 1230-2P  	229 DWINELLE  	Research Methods in Social Sciences	3	RAY, I	NONE	
+
+ENGLISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+28969  	P  R1B	010 LEC  	MWF 12-1P  	262 DWINELLE  	Reading and Composition	4	BAUER, M N	NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+28978  	P  R1B	013 LEC  	MWF 11-12P  	89 DWINELLE  	Reading and Composition	4	YOON, I	NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+28213  	P  27	003 LEC  	TuTh 330-5P  	243 DWINELLE  	Introduction to the Study of Fiction	4	BREITWIESER, M R	20	UG & L & S & BY CATEGORY
+28234  	S  45A	202 DIS  	F 3-4P  	223 DWINELLE  	Literature in English: Through Milton				
+28285  	P  C77	001 LEC  	TuTh 1230-2P  	145 DWINELLE  	Introduction to Environmental Studies	4	HASS, R	17	BY CATEGORY
+ 	 	 	Note: Cross-listed with Environ Sci, Policy, and Management C12 section 1. 
+28288  	S  C77	101 DIS  	M 4-530P  	255 DWINELLE  	Introduction to Environmental Studies				
+28291  	S  C77	102 DIS  	M 4-530P  	254 DWINELLE  	Introduction to Environmental Studies				CURRENTLY FULL
+SEE DEPT  	P  98	004 GRP  	M 6-8P  	182 DWINELLE  	Directed Group Study for Freshmen and Sophomores	2: PF	ABEL, E	NONE	
+SEE DEPT  	P  98	006 GRP  	M 6-7P  	89 DWINELLE  	Directed Group Study for Freshmen and Sophomores	2: PF	GOLDSMITH, S	NONE	
+SEE DEPT  	P  98	008 GRP  	M 630-8P  	106 DWINELLE  	Directed Group Study for Freshmen and Sophomores	2: PF	KNAPP, J D	NONE	
+SEE DEPT  	P  98	009 GRP  	Th 5-7P  	83 DWINELLE  	Directed Group Study for Freshmen and Sophomores	2: PF	LANGAN, C G	NONE	
+SEE DEPT  	P  98	010 GRP  	W 6-7P  	87 DWINELLE  	Directed Group Study for Freshmen and Sophomores	1: PF	MARNO, D	NONE	
+28402  	S  C107	104 DIS  	F 3-4P  	215 DWINELLE  	The English Bible As Literature				
+28429  	P  125C	001 LEC  	TuTh 330-5P  	88 DWINELLE  	The European Novel	4	PAPERNO, I	20	BY CATEGORY
+28456  	P  131	001 LEC  	TuTh 330-5P  	160 DWINELLE  	American Poetry	4	O'BRIEN, G	20	BY CATEGORY
+28468  	P  139	001 LEC  	MWF 11-12P  	223 DWINELLE  	The Cultures of English	4	JONES, D V	2	BY CATEGORY
+28492  	P  165	001 SEM  	MW 4-530P  	235 DWINELLE  	Special Topics	4	GAYDOS, R	TBA	UG & L & S & BY CATEGORY
+28516  	P  166	001 LEC  	MWF 12-1P  	215 DWINELLE  	Special Topics	4	THORNBURY, E V	18	BY CATEGORY
+28518  	P  166	002 LEC  	MWF 11-12P  	219 DWINELLE  	Special Topics	4	SAHA, P	2	BY CATEGORY
+28528  	P  180L	001 LEC  	TuTh 930-11A  	219 DWINELLE  	Lyric Verse	4	FALCI, E	7	BY CATEGORY; CURRENTLY FULL
+SEE DEPT  	P  198	004 GRP  	M 6-8P  	182 DWINELLE  	Directed Group Study	2: PF	ABEL, E	NONE	JR, SR
+SEE DEPT  	P  198	006 GRP  	M 6-7P  	89 DWINELLE  	Directed Group Study	2: PF	GOLDSMITH, S	NONE	JR, SR
+SEE DEPT  	P  198	008 GRP  	M 630-8P  	106 DWINELLE  	Directed Group Study	2: PF	KNAPP, J D	NONE	JR, SR
+SEE DEPT  	P  198	009 GRP  	Th 5-7P  	83 DWINELLE  	Directed Group Study	2: PF	LANGAN, C G	NONE	JR, SR
+SEE DEPT  	P  198	010 GRP  	W 6-7P  	87 DWINELLE  	Directed Group Study	1: PF	MARNO, D	NONE	JR, SR
+28759  	P  203	004 LEC  	W 3-6P  	233 DWINELLE  	Graduate Readings	4	ABEL, E	NONE	GR
+
+ENVIRON SCI, POLICY, AND MANAGEMENT
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+29162  	S  2	103 DIS  	W 10-11A  	175 DWINELLE  	The Biosphere				
+29177  	P  C12	001 LEC  	TuTh 1230-2P  	145 DWINELLE  	Introduction to Environmental Studies	4	SPOSITO, G	17	
+ 	 	 	Note: Cross-listed with English C77 section 1. 
+29180  	S  C12	101 DIS  	M 4-530P  	255 DWINELLE  	Introduction to Environmental Studies				CURRENTLY FULL
+29183  	S  C12	102 DIS  	M 4-530P  	254 DWINELLE  	Introduction to Environmental Studies		KLAVON, E		
+29207  	S  15	101 DIS  	Tu 3-4P  	247 DWINELLE  	Introduction to Environmental Sciences				
+29210  	S  15	102 DIS  	Tu 4-5P  	247 DWINELLE  	Introduction to Environmental Sciences				
+29258  	S  50AC	103 DIS  	M 4-5P  	205 DWINELLE  	Introduction to Culture and Natural Resource Manage...				
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+29264  	S  50AC	105 DIS  	Tu 9-10A  	156 DWINELLE  	Introduction to Culture and Natural Resource Manage...				
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+29432  	P  102B	001 LEC  	TuTh 10-11A  	234 DWINELLE  	Natural Resource Sampling	2	BIGING, G S	19	BY CATEGORY
+29612  	S  161	102 DIS  	Tu 930-11A  	134 DWINELLE  	Environmental Philosophy and Ethics				
+30902  	S  168	102 DIS  	W 10-11A  	263 DWINELLE  	Political Ecology				
+30905  	S  168	103 DIS  	W 2-3P  	87 DWINELLE  	Political Ecology				
+30908  	S  168	104 DIS  	W 4-5P  	179 DWINELLE  	Political Ecology				
+29663  	S  169	101 DIS  	Tu 2-3P  	262 DWINELLE  	International Environmental Politics				CURRENTLY FULL
+29672  	S  169	104 DIS  	Th 8-9A  	134 DWINELLE  	International Environmental Politics				
+29678  	S  169	106 DIS  	Th 10-11A  	134 DWINELLE  	International Environmental Politics				
+  	P  198	004 GRP  	Tu 5-7P  	175 DWINELLE  	Directed Group Studies for Advanced Undergraduates	1-3: PF	CHAPELA, I H	NONE	JR, SR
+ 	 	 	Note: "Ambience: An Intro to Glove Lightshows" 
+
+ETHNIC STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+31293  	P  190	001 SEM  	F 2-5P  	225 DWINELLE  	Advanced Seminar in Comparative Ethnic Studies	4	FELDMAN, K P	15	JR, SR & ETHNIC STUDIES & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: "Race, War, Culture" - This seminar investigates regimes of racial relationality that have utilized and contested the concept of war. The course advances historical and theoretical approaches to what appear in the contemporary moment as new forms of racialization. It focuses on three overlapping lines of inquiry: Fanon's entanglement of anti-blackness, colonialism, and decolonization; Foucault's investigations of sovereignty and biopower; and Hall's Gramscian theorizations of race. Students will engage social, cultural, and political theory alongside critical culture work, and will produce a final seminar paper. 
+SEE DEPT  	P  H196A	001 IND  	Th 5-8P  	225 DWINELLE  	Senior Honors Thesis for Ethnic Studies Majors	3: T1	UM, K	NONE	SR & ETHNIC STUDIES
+ 	 	 	Note: For Ethnic Studies H196A enrollment information, see the Undergraduate Advisor, Dewey St. Germaine, in 530 Barrows Hall, (510) 643-6420 or deweystg@berkeley.edu. Students must be enrolled by the first class meeting. Attendance the first five weeks of honors seminars is mandatory. 
+
+FILM AND MEDIA
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+31612  	P  R1A	003 LEC  	TuTh 330-5P  	109 DWINELLE  	The Craft of Writing - Film Focus	4	ALFORD, R	NONE	FR, SO & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31615  	S  R1A	301 DIS  	Tu 7-9P  	215 DWINELLE  	The Craft of Writing - Film Focus		LI, C		CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; This section is for film screenings. 
+31624  	P  R1B	001 LEC  	TuTh 2-330P  	109 DWINELLE  	The Craft of Writing - Film Focus	4	VACCARO, J M	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31633  	S  R1B	101 DIS  	Tu 7-9P  	209 DWINELLE  	The Craft of Writing - Film Focus		VACCARO, J M		
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; This section is for film screenings. 
+31627  	P  R1B	002 LEC  	MWF 1-2P  	109 DWINELLE  	The Craft of Writing - Film Focus	4	AIRRIESS, H	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31636  	S  R1B	201 DIS  	M 4-7P  	109 DWINELLE  	The Craft of Writing - Film Focus		PRANOLO, J		
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31630  	P  R1B	003 LEC  	MW 4-530P  	156 DWINELLE  	The Craft of Writing - Film Focus	4	ELLIS, P	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31639  	S  R1B	301 DIS  	M 7-9P  	209 DWINELLE  	The Craft of Writing - Film Focus		BESSETTE, E		
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+31641  	P  20	001 LEC  	MW 930-11A  	142 DWINELLE  	Film and Media Cultures	4	YOUNG, D R	13	
+31978  	S  20	101 LAB  	M 6-9P  	142 DWINELLE  	Film and Media Cultures		YOUNG, D R		
+31960  	S  20	101 DIS  	W 5-6P  	262 DWINELLE  	Film and Media Cultures		THE STAFF		CURRENTLY FULL
+31966  	S  20	103 DIS  	W 4-5P  	263 DWINELLE  	Film and Media Cultures		THE STAFF		
+31969  	S  20	104 DIS  	W 3-4P  	262 DWINELLE  	Film and Media Cultures		THE STAFF		
+31987  	S  20	106 DIS  	W 5-6P  	175 DWINELLE  	Film and Media Cultures		THE STAFF		
+31642  	P  25A	001 LEC  	TuTh 930-11A  	142 DWINELLE  	The History of Film	4	NESBET, A	7	BY CATEGORY
+31645  	S  25A	101 LAB  	Tu 6-9P  	142 DWINELLE  	The History of Film		NESBET, A		
+31648  	P  25B	001 LEC  	MW 1230-2P  	188 DWINELLE  	The History of Film	4	JONES, E M	18	BY CATEGORY
+31651  	S  25B	101 DIS  	W 2-5P  	142 DWINELLE  	The History of Film		JONES, E M		
+31657  	S  26	101 LAB  	F 9-12P  	30 DWINELLE  	INTRO DIG VID PROD		GOETZ, C		
+31660  	S  26	102 LAB  	F 1-4P  	30 DWINELLE  	INTRO DIG VID PROD		GOETZ, C		CURRENTLY FULL
+31696  	P  108	001 LEC  	TuTh 930-11A  	188 DWINELLE  	Special Topics in Film Genre	4	CARPENTER, E C	7	BY CATEGORY
+ 	 	 	Note: "Romantic Comedy" 
+31699  	S  108	101 DIS  	Tu 1-3P  	188 DWINELLE  	Special Topics in Film Genre		CARPENTER, E C		
+ 	 	 	Note: This section is for film screenings. 
+31708  	P  129	001 LEC  	TuTh 2-330P  	142 DWINELLE  	History of Avant-Garde Film	4	SKOLLER, J A	5	BY CATEGORY
+31711  	S  129	101 LAB  	W 6-8P  	142 DWINELLE  	History of Avant-Garde Film		SKOLLER, J A		
+31714  	S  129	102 DIS  	Th 5-6P  	179 DWINELLE  	History of Avant-Garde Film		THE STAFF		
+31717  	S  129	103 DIS  	Th 4-5P  	254 DWINELLE  	History of Avant-Garde Film		THE STAFF		CURRENTLY FULL
+31720  	S  129	104 DIS  	Th 4-5P  	251 DWINELLE  	History of Avant-Garde Film		THE STAFF		
+31723  	S  129	105 DIS  	Th 5-6P  	251 DWINELLE  	History of Avant-Garde Film		THE STAFF		
+31726  	S  129	106 DIS  	Th 6-7P  	106 DWINELLE  	History of Avant-Garde Film				
+31729  	S  129	107 DIS  	Th 6-7P  	134 DWINELLE  	History of Avant-Garde Film				
+31732  	P  140	001 LEC  	F 10-1P  	142 DWINELLE  	Special Topics in Film	4	JONES, E M	1	BY CATEGORY
+ 	 	 	Note: "Color Theory" 
+31735  	P  140	002 LEC  	MW 11-1230P  	188 DWINELLE  	Special Topics in Film	4	CARPENTER, E C	14	BY CATEGORY
+ 	 	 	Note: "The 1950's" 
+31738  	S  140	201 LAB  	Tu 730-930P  	188 DWINELLE  	Special Topics in Film		CARPENTER, E C		
+31744  	P  140	004 LEC  	MW 2-330P  	188 DWINELLE  	Special Topics in Film	4	THE STAFF	15	
+ 	 	 	Note: "Italian Cinema" 
+31747  	S  140	401 LAB  	W 330-6P  	188 DWINELLE  	Special Topics in Film		THE STAFF		
+31750  	P  151	001 LEC  	MW 930-11A  	188 DWINELLE  	Auteur Theory	4	JONES, E M	13	BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: "Coen Brothers" 
+31753  	S  151	101 LAB  	M 3-6P  	142 DWINELLE  	Auteur Theory		JONES, E M		CURRENTLY FULL
+31755  	P  151	002 LEC  	MW 11-1230P  	142 DWINELLE  	Auteur Theory	4	BAO, W	14	BY CATEGORY
+ 	 	 	Note: "Contemporary Chinese Film Auteurs" 
+31975  	S  151	201 LAB  	M 1-3P  	142 DWINELLE  	Auteur Theory		BAO, W		
+31762  	P  160	001 LEC  	TuTh 11-1230P  	188 DWINELLE  	National Cinema	4	SAS, M B	9	
+ 	 	 	Note: "Japanese Cinema" 
+31765  	S  160	101 DIS  	Tu 5-7P  	188 DWINELLE  	National Cinema		SAS, M B		
+31767  	P  180	001 LEC  	M 9-12P  	226 DWINELLE  	Introduction to Screenwriting	4	KOPELL, J M	16	CLASS ENTRY CODE REQ
+31771  	P  180B	001 LEC  	M 1-4P  	226 DWINELLE  	Screenwriting	4	KOPELL, J M	12	CLASS ENTRY CODE REQ
+ 	 	 	Note: Preference is given to Film and Art Practice majors. To be considered, students should add themselves to the wait list and attend the first class meeting. Enrollment decisions will be made after interviews conducted during the first class meeting. 
+31773  	P  185	001 STD  	TuTh 9-12P  	135 DWINELLE  	Narrative Production	4	KOPELL, J M	7	CLASS ENTRY CODE REQ
+31821  	P  198	004 GRP  	Th 5-7P  	258 DWINELLE  	Directed Group Study	1-4: PF	CARPENTER, E C	NONE	JR, SR ; CLASS ENTRY CODE REQ
+31852  	P  200	001 SEM  	M 4-7P  	226 DWINELLE  	Graduate Film Theory Seminar	4	BAO, W	NONE	BY CATEGORY
+31854  	S  200	101 DIS  	M 7-9P  	226 DWINELLE  	Graduate Film Theory Seminar		BAO, W		
+31855  	P  203	001 SEM  	Th 11-2P  	226 DWINELLE  	Film Studies Proseminar	2-4: SU	DOANE, M	NONE	BY CATEGORY
+31858  	P  240	001 LEC  	W 11-2P  	226 DWINELLE  	Graduate Topics in Film	4	DOANE, M	NONE	BY CATEGORY
+ 	 	 	Note: "The Idea of a Medium" 
+31860  	S  240	101 DIS  	Tu 7-9P  	226 DWINELLE  	Graduate Topics in Film		DOANE, M		
+31873  	P  240	004 LEC  	M 1-6P  	282 DWINELLE  	Graduate Topics in Film	4	KAES, A J	NONE	BY CATEGORY
+ 	 	 	Note: Avant-Garde 
+
+FRENCH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+32203  	P  1	001 LEC  	MTWTF 9-10A  	246 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: If you have taken two years or less of high school French, sign up for French 1. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32209  	P  1	003 LEC  	MTWTF 10-11A  	206 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: If you have taken two years or less of high school French, sign up for French 1. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32224  	P  1	008 LEC  	MTWTF 1-2P  	279 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: If you have taken two years or less of high school French, sign up for French 1. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32233  	P  1	011 LEC  	MTWTF 2-3P  	206 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: If you have taken two years or less of high school French, sign up for French 1. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32236  	P  1	012 LEC  	MTWTF 3-4P  	106 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: If you have taken two years or less of high school French, sign up for French 1. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32239  	P  R1A	001 LEC  	TuTh 8-930A  	210 DWINELLE  	English Composition in Connection with the Reading ...	4	SINGER, J	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; "Paradise Lost or Apocalypse Now? French Utopian and Science Fiction" 
+32248  	P  R1B	001 LEC  	TuTh 1230-2P  	210 DWINELLE  	English Composition in Connection with the Reading ...	4	KOERNER, M	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; "Love, etc." 
+32257  	P  2	001 LEC  	MTWTF 9-10A  	206 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: Sign up for French 2 if you have a passing grade in a first-semester college French course, or three years of high school French. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32272  	P  2	006 LEC  	MTWTF 1-2P  	235 DWINELLE  	Elementary French	5	CHAVDARIAN, S	10	BY CATEGORY
+ 	 	 	Note: Sign up for French 2 if you have a passing grade in a first-semester college French course, or three years of high school French. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32281  	P  3	001 LEC  	MTWTF 9-10A  	228 DWINELLE  	Intermediate French	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: Sign up for French 3 if you have a passing grade in French 2 at UC Berkeley or four years of high school French. New students who have taken second or third-semester college French courses elsewhere or received an AP French score of 3, may also enroll in French 3. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32287  	P  3	003 LEC  	MTWTF 10-11A  	106 DWINELLE  	Intermediate French	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: Sign up for French 3 if you have a passing grade in French 2 at UC Berkeley or four years of high school French. New students who have taken second or third-semester college French courses elsewhere or received an AP French score of 3, may also enroll in French 3. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32302  	P  4	001 LEC  	MTWTF 9-10A  	106 DWINELLE  	Advanced Intermediate French	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: French 4 is open to students with a passing grade in French 3 at UC Berkeley. New students who have taken a fourth semester college French course elsewhere or received an AP French score of 4 or 5, should also enroll in French 4. If you are unsure of your ability to take this course, contact the instructor in charge. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32305  	P  4	002 LEC  	MTWTF 10-11A  	279 DWINELLE  	Advanced Intermediate French	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: French 4 is open to students with a passing grade in French 3 at UC Berkeley. New students who have taken a fourth semester college French course elsewhere or received an AP French score of 4 or 5, should also enroll in French 4. If you are unsure of your ability to take this course, contact the instructor in charge. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32311  	P  4	004 LEC  	MTWTF 12-1P  	206 DWINELLE  	Advanced Intermediate French	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: French 4 is open to students with a passing grade in French 3 at UC Berkeley. New students who have taken a fourth semester college French course elsewhere or received an AP French score of 4 or 5, should also enroll in French 4. If you are unsure of your ability to take this course, contact the instructor in charge. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32320  	P  13	001 LEC  	MWF 3-4P  	263 DWINELLE  	Intermediate Conversation	2	KERN, R	NONE	
+ 	 	 	Note: French 13 is open to students with a passing grade in French 2 at UC Berkeley or four years of high school French. Attendance is mandatory every day of the first week of classes. Students who do nto attend the entire first week will be dropped from the class. Not open to native speakers. 
+32326  	P  14	001 LEC  	MWF 3-4P  	134 DWINELLE  	Advanced Conversation	2	KERN, R	NONE	BY CATEGORY
+ 	 	 	Note: French 14 is open to students with a passing grade in French 3 at UC Berkeley or the equivalent. Attendance is mandatory every day of the first week of classes. Students who do not attend the entire first week will be dropped from the class. Not open to native speakers. 
+32332  	P  102	001 LEC  	MWF 10-11A  	235 DWINELLE  	Reading and Writing Skills in French	4	CHAVDARIAN, S	1	BY CATEGORY
+ 	 	 	Note: French 102 is open to students with a B- grade or above in French 4 at UC Berkeley. Students who have taken the equivalent of a third-year college-level French course elsewhere may enroll in French 102 via Tele-BEARS, and should contact the French Undergraduate Advising Office regarding French placement procedures by email at frendept@berkeley.edu. 
+32335  	P  102	002 LEC  	TuTh 11-1230P  	258 DWINELLE  	Reading and Writing Skills in French	4	PAIGE, N	9	BY CATEGORY
+ 	 	 	Note: French 102 is open to students with a B- grade or above in French 4 at UC Berkeley. Students who have taken the equivalent of a third-year college-level French course elsewhere may enroll in French 102 via Tele-BEARS, and should contact the French Undergraduate Advising Office regarding French placement procedures by email at frendept@berkeley.edu. 
+32344  	P  112A	001 LEC  	MW 4-530P  	206 DWINELLE  	Medieval Literature	4	HULT, D	13	
+32356  	P  142AC	001 LEC  	TuTh 2-330P  	215 DWINELLE  	The Cultures of Franco-America	4	BRITTO, K A	5	
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+32359  	P  146A	001 LEC  	TuTh 11-1230P  	B3 DWINELLE  	Introduction to French Linguistics	4	MCLAUGHLIN, M	9	BY CATEGORY
+32362  	P  150A	001 LEC  	TuTh 330-5P  	105 DWINELLE  	Women in French Literature	4	MASLAN, S A	20	BY CATEGORY
+32365  	P  151A	001 LEC  	MWF 11-12P  	235 DWINELLE  	Francophone Literature	4	TLATLI, T S	2	BY CATEGORY
+32370  	P  162B	001 LEC  	MWF 2-3P  	242 DWINELLE  	Perspectives on History	4	TLATLI, T S	15	
+32515  	P  200	001 SEM  	F 1-2P  	4226 DWINELLE  	Proseminar	1: SU	HAMPTON, T	NONE	GR
+32518  	P  201	001 LEC  	Tu 4-7P  	4226 DWINELLE  	History of the French Language	4	MCLAUGHLIN, M	NONE	GR ; CURRENTLY FULL
+32524  	P  211A	001 SEM  	M 1-4P  	4226 DWINELLE  	Reading and Interpretation of Old French Texts	4	HULT, D	NONE	
+32529  	P  245B	001 SEM  	Tu 1-4P  	4226 DWINELLE  	Early Modern Studies	4	PAIGE, N	NONE	
+32532  	P  250B	001 SEM  	W 3-6P  	4226 DWINELLE  	Studies in 19th-Century Literature	4	GUERLAC, S	NONE	GR
+32533  	P  270A	001 SEM  	Th 1-4P  	4226 DWINELLE  	Literary Criticism: Recent Work in French	4	COLON, E L	NONE	
+32638  	P  301	001 LEC  	W 1-3P  	4226 DWINELLE  	Teaching French in College: First Year	4: SU	CHAVDARIAN, S	NONE	GR
+
+GENDER AND WOMEN'S STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+32969  	P  115	001 LEC  	Tu 4-6P  	106 DWINELLE  	Engaged Scholarship in Women and Gender	4	BACCHETTA, P	NONE	
+
+GEOGRAPHY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+36242  	S  C32	102 DIS  	W 2-3P  	279 DWINELLE  	Introduction to Development				
+36251  	S  C32	105 DIS  	M 4-5P  	106 DWINELLE  	Introduction to Development				
+36263  	S  C32	109 DIS  	M 4-5P  	187 DWINELLE  	Introduction to Development				
+36368  	S  123	104 DIS  	Th 2-3P  	254 DWINELLE  	Postcolonial Geographies				CURRENTLY FULL
+
+GERMAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+37203  	P  1	001 LEC  	MW 8-10A  	243 DWINELLE  	Elementary German 1	5	HENCH, C L 	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets three days per week for a total of five hours per week. Also: class meets Fridays from 9-10am.  EUBA, N
+37206  	P  1	002 LEC  	MTWTF 9-10A  	187 DWINELLE  	Elementary German 1	5	HARRIS, S M	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets five days per week for a total of five hours per week. 
+37209  	P  1	003 LEC  	MTWTF 10-11A  	255 DWINELLE  	Elementary German 1	5	THE STAFF	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets five days per week for a total of five hours per week. 
+37212  	P  1	004 LEC  	MTWTF 11-12P  	255 DWINELLE  	Elementary German 1	5	THE STAFF	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets five days per week for a total of five hours per week. 
+37215  	P  1	005 LEC  	MTWTF 12-1P  	254 DWINELLE  	Elementary German 1	5	THE STAFF	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets five days per week for a total of five hours per week. 
+37218  	P  1	006 LEC  	MTWTF 1-2P  	130 DWINELLE  	Elementary German 1	5	THE STAFF	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets five days per week for a total of five hours per week. 
+37221  	P  1	007 LEC  	TuTh 330-5P  	228 DWINELLE  	Elementary German 1	5	THE STAFF 	10	
+ 	 	 	Note: Take German 1 if you have had a) no prior exposure to German or b) not more than two years of high school German. Students enrolled in German 1 will be dropped for non-attendance after the second class meeting. This section of German 1 meets three days per week for a total of five hours per week.  Also: EUBA, N
+37224  	P  1G	001 LEC  	MTWTF 8-9A  	89 DWINELLE  	Elementary German for Graduate Students	0: SU	DZIEDZIAK, Z B	NONE	
+ 	 	 	Note: German 1G is an elementary German course specifically designed for graduate students preparing for reading examinations. One year of prior college level German instruction is required. Must be taken on a satisfactory/unsatisfactory basis.  Also: EUBA, N
+37227  	P  2	001 LEC  	MW 8-10A  	205 DWINELLE  	Elementary German 2	5	VAIS, C M 	10	
+ 	 	 	Note: Take German 2 if you have successfully completed a) German 1 or German 1E, or b) another first semester college German course, or c) three years of high school German. Students enrolled in German 2 will be dropped for non-attendance after the second class meeting. This section of German 2 meets three days per week for a total of five hours per week. Also: class meets Fridays 9-10am.  EUBA, N
+37230  	P  2	002 LEC  	MTWTF 10-11A  	87 DWINELLE  	Elementary German 2	5	PELTNER, S D	10	
+ 	 	 	Note: Take German 2 if you have successfully completed a) German 1 or German 1E, or b) another first semester college German course, or c) three years of high school German. Students enrolled in German 2 will be dropped for non-attendance after the second class meeting. This section of German 2 meets five days per week for a total of five hours per week. 
+37236  	P  3	001 LEC  	MTWTF 9-10A  	255 DWINELLE  	Intermediate German I	5	ESTES, G A	10	
+ 	 	 	Note: Take German 3 if you have successfully completed a) German 2, or b) another 2nd or 3rd semester college German course, or c) 4 years of high school German, or d) have an AP score of 3. This section of German 3 meets five days per week for a total of five hours per week. 
+37239  	P  3	002 LEC  	MTWTF 10-11A  	187 DWINELLE  	Intermediate German I	5	TOVEY, C E	10	
+ 	 	 	Note: Take German 3 if you have successfully completed a) German 2, or b) another 2nd or 3rd semester college German course, or c) 4 years of high school German, or d) have an AP score of 3. This section of German 3 meets five days per week for a total of five hours per week. 
+37242  	P  3	003 LEC  	MTWTF 12-1P  	251 DWINELLE  	Intermediate German I	5	ROY, A A	10	
+ 	 	 	Note: Take German 3 if you have successfully completed a) German 2, or b) another 2nd or 3rd semester college German course, or c) 4 years of high school German, or d) have an AP score of 3. This section of German 3 meets five days per week for a total of five hours per week. 
+37245  	P  4	002 LEC  	MTWTF 11-12P  	234 DWINELLE  	Intermediate German II	5	CHO POLIZZI, J A	NONE	
+ 	 	 	Note: Take German 4 if you have successfully completed a) German 3, or b) another 4th semester college German course, or c) have an AP score of 4. This section of German 4 meets five days per week for a total of five hours per week. 
+37248  	P  R5A	001 LEC  	MWF 8-9A  	189 DWINELLE  	Reading and Composition	4	MEYER, S E	NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+37251  	P  R5A	002 LEC  	MWF 4-5P  	189 DWINELLE  	Reading and Composition	4	WOODS, P C	NONE	FR, SO & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+37254  	P  R5A	003 LEC  	MWF 4-5P  	89 DWINELLE  	Reading and Composition	4	SHELL, S T	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+37260  	P  R5A	005 LEC  	TuTh 8-930A  	189 DWINELLE  	Reading and Composition	4	FOCKELE, K E	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+37266  	P  C25	001 LEC  	MWF 9-10A  	219 DWINELLE  	Revolutionary Thinking: Marx, Nietzsche, Freud	4	FELDMAN, K S	16	
+ 	 	 	Note: This course explores the ways in which Marx, Nietzsche, and Freud--three of the most important thinkers in modern Western thought--can be read as responding to the Enlightenment and its notions of reason and progress. We will consider how each remakes a scientific understanding of truth, knowledge, and subjectivity, such that rationality, logic, and the powers of human cognition are shown to be distorted, limited, and subject to forces outside our individual control. All lectures and readings in English. 
+37268  	S  C25	101 DIS  	Tu 2-3P  	189 DWINELLE  	Revolutionary Thinking: Marx, Nietzsche, Freud		THE STAFF		CURRENTLY FULL
+37269  	P  39N	001 LEC  	MWF 1-2P  	250 DWINELLE  	Freshman Seminar	3	THE STAFF	TBA	
+ 	 	 	Note: "Imagined Environments". How have literature and art contributed to modern environmental consciousness? This seminar examines the imagination of natural environments in German literature and visual media from the eighteenth century to the present. We will study how poetic and artistic works have modeled the relationship between landscapes and human life, as well as between the natural and the artificial. 
+37284  	P  100	001 LEC  	MWF 11-12P  	242 DWINELLE  	Introduction to Reading Culture	3	DEWULF, J	2	
+ 	 	 	Note: This course is intended to acquaint students with selected works from German cultural history and to familiarize them with various methods of interpretation and analysis. Required of all German majors. Taught in German. 
+37287  	P  101	001 LEC  	MWF 10-11A  	242 DWINELLE  	Advanced German: Conversation, Composition and Styl...	3	EUBA, N	NONE	
+ 	 	 	Note: Focusing on five central themes, this advanced-level language course will help students to improve and expand on spoken and written language functions utilizing a variety of works from different genres in journalism, broadcasting, literature, fine arts, and the cinema. The final goal is to enable students to participate in the academic discourse, written and spoken, at a linguistic and stylistic level appropriate for an advanced student of German in upper division courses. Taught in German. Students with native fluency in German are not eligible to enroll. 
+37290  	P  102D	001 LEC  	MWF 4-5P  	251 DWINELLE  	Advanced Language Practice: Popular Culture in Germ...	3	JERNIGAN, H V	13	
+ 	 	 	Note: This course focuses on enhancing speaking and writing skills by exploring pop culture in Germany, Austria, and Switzerland. Drawing on music, film, literature and social media, students will present their understandings of pop culture in German-speaking countries in a final project. Taught in German. Students with native fluency are not eligible to enroll. Prerequisite: German 4. 
+37293  	P  103	001 LEC  	TuTh 11-1230P  	105 DWINELLE  	Introduction to German Linguistics	3	SHANNON, T F	9	
+ 	 	 	Note: Overview of linguistic study of German; gateway course, required for majors, minors. 
+37296  	P  105	001 LEC  	Tu 8-10A  	282 DWINELLE  	Middle High German for Undergraduates	3	LARGIER, N E 	11	
+ 	 	 	Note: The aim of the course is to help students develop proficiency in Middle high German language to enable them to read original texts written in German before 1400. The course necessarily emphasizes grammar, though the cultural context of the literary documents and of the production of texts during the Middle Ages will be discussed as well. Students will read selections from major works of the medieval period. Reading material in German. The course is open to graduate students.  Also: LARGIER, N E
+37302  	P  148	001 LEC  	MWF 3-4P  	258 DWINELLE  	Topics in Narrative	3	THE STAFF	8	
+ 	 	 	Note: "Family Stories". This course examines how family has been constructed and contested within narrative works from the nineteenth century to the present. Focusing on short prose, drama, and film, we will study texts that narrate the formation and transformation of family in its many valences: an emotional union, a politically defined institution, an economic unit, and a gender regime. We will consider how family stories from a range of cultural periods (romanticism, realism, modernism, the postwar era, and the present) communicate with critical theories of family from Engels and Freud onward. Readings and discussion in German. 
+37311  	P  160B	001 LEC  	TuTh 2-330P  	223 DWINELLE  	Facism and Propaganda	4	SINN, A A	5	
+ 	 	 	Note: Europe's 20th century was marked by two of the largest and bloodiest conflicts ever seen by mankind, the First and the Second World War, the rise of extreme ideologies, the Cold War, and finally a unification process that caused many citizens of European states to assume new identities as Europeans. This course will focus on the theory and practice of propaganda during the 12 years of the Third Reich. The course is divided into two main parts, which address (1) the historical developments in Nazi Germany until the outbreak of the War, 1933-1939; and (2) the Second World War and the destruction of European Jewry, 1939-1945. 
+37314  	P  160D	001 LEC  	MW 1130-1P  	282 DWINELLE  	Multicultural Germany	4	GOKTURK, D	18	
+ 	 	 	Note: This course will deal with the culture and politics of minorities in contemporary Germany. We will discuss how ethnic identities are perceived, constructed, and marketed. We also engage critically with such concepts as migration, assimilation, citizenship, diaspora, hybridity, and authenticity, as well as rhetorical strategies of "speaking back." We will focus on exemplary texts and films from Germany, but include comparisons with minority experiences in other countries. 
+37356  	P  201B	001 LEC  	Th 3-6P  	282 DWINELLE  	16th and 17th Century	4	LARGIER, N E	20	
+ 	 	 	Note: "Image and Imagination in Early Modern Literature" 
+37359  	P  204	001 SEM  	F 1-4P  	282 DWINELLE  	Compact Seminar	2	THE STAFF	12	
+ 	 	 	Note: "Bertolt Brecht: HAUSPOSTILLE (1927). Ein Jahrhundertbuch uber existenzielle Erfahrungen" - "Von Uberwolbungen ist nichts zu erwarten, ausser, dass sie einsturzen!" Ein Satz des Philosophen Helmuth Plessner gegen Ende der Republik. Mitte der Republik erscheinen die fruhen Gedichte Brechts in seiner HAUSPOSTILLE, in welcher die Arbeit an der Dekonstruktion der uberwolbenden Werte von VATERLAND, MORAL; LIEBE zu beobachten ist. Das klingt abstrakt; die Motive dieser Gedichte sind aber von einer existenziellen Energie geladen, die sich bis heute auf Leserinnen und Leser ubertragen kann. 
+37362  	P  207	001 SEM  	Tu 4-7P  	282 DWINELLE  	Reading the German Literary Text	4	TANG, C	NONE	
+ 	 	 	Note: This graduate seminar is intended to introduce students to the following areas of study: Germanistik as a discipline in Germany and its counterparts in the USA; literary theory; and basic elements of professional academic writing, including genres other than the seminar paper. 
+37368  	P  214	001 SEM  	M 1-6P  	282 DWINELLE  	Studies in the 20th Century	4	KAES, A J	NONE	
+ 	 	 	Note: "Avant-garde". This seminar will focus on the emergence of a new visual language in film and photography in the 1920s. We will analyze works and manifestoes of avant-garde movements (Dada, Bauhaus, New Objectivity, Surrealism) and explore the entanglement of modernist aesthetics with political thought and praxis. Writings by Georg Simmel, Walter Benjamin, Theodor W. Adorno, Siegfried Kracauer, Roland Barthes and Jacques RanciÛre will help us discuss theories and concepts of the historical avant-garde that still resonate in contemporary art. All texts will be in English. 
+37371  	P  256	001 SEM  	W 1-4P  	282 DWINELLE  	Problems of Literary Theory	4	FELDMAN, K S	NONE	
+ 	 	 	Note: "Benjamin and Adorno" - This course will examine 1930s Frankfurt-School thought. Topics will include the exchanges between Adorno and Benjamin on the autonomy of art and the philosophy of history. 
+37374  	P  263A	001 SEM  	Th 1-3P  	282 DWINELLE  	The Process of Translating	4	KUDSZUS, W G	NONE	
+ 	 	 	Note: "Translation Seminar" - In this seminar, we will think about and critically engage past and present practices and theories of translation. Following their particular interests in research & writing, participants will choose a text or a constellation of texts for their individual semester projects. These projects will be introduced in an oral presentation and develop into a semester paper. Texts will mostly, but not exclusively, involve German and English. Course work in English or German, lectures and discussions in English. 
+37377  	P  270	001 SEM  	Tu 11-1P  	282 DWINELLE  	History of the German Language	4	RAUCH, I	9	
+ 	 	 	Note: "Designed for graduate and undergraduate students interested in the external and internal history of the German language from prehistoric times to the present and its interchange with closely and remotely related languages. Genetic language processes informing the German language across time are illustrated through the interface with literary documents from ancient Cattle Raids though Runic, Gothic, Medieval German and English texts, as well as excerpts from Luther's era, Modern and Contemporary German. No prerequisites. 
+37380  	P  273	001 LEC  	Tu 2-4P  	282 DWINELLE  	Gothic	4	RAUCH, I	NONE	
+ 	 	 	Note: Study of the orthography, phonology, morphology, syntax, and lexicon of the earliest Germanic dialect with a sizeable corpus. The Indo-European origins of the Gothic language as well as the relationship with North and West Germanic are considered. The cultural environment in which Bishop Wulfila translated the Scriptures in the fourth century is discussed. Very much alive as a prime research tool, newly discovered documents such as leaf VI of the Skeireins (found in 1955), leaf 188 of the Codex Argenteus in 1970, and the Gothica Bononiensis fragment in 2009, enrich the debate. No prerequisites. 
+37434  	P  375A	001 SEM  	W 4-6P  	254 DWINELLE  	Seminar in Foreign Language Pedagogy: Teaching Coll...	3: SU	EUBA, N	NONE	
+ 	 	 	Note: The continued focus of this course is on the theory and practice of foreign language pedagogy. It is designed to provide graduate student instructors with knowledge and tools for their career as teachers in the language classroom and beyond, ultimately promoting continual professional growth. 
+
+DUTCH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+38006  	P  107	001 LEC  	TuTh 330-5P  	134 DWINELLE  	The Structure of Modern Dutch	3	SHANNON, T F	20	
+ 	 	 	Note: The Structure of Modern Dutch. (3) Three hours of lecture/discussion per week. A course designed for undergraduates and graduates on the structure of modern Dutch covering all aspects of Dutch, with comparison to English and German. 
+
+GLOBAL POVERTY AND PRACTICE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+38315  	S  115	101 DIS  	F 1-2P  	243 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38318  	S  115	102 DIS  	M 4-5P  	243 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38324  	S  115	104 DIS  	W 9-10A  	229 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				CURRENTLY FULL
+38327  	S  115	105 DIS  	W 3-4P  	234 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38330  	S  115	106 DIS  	W 4-5P  	105 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38336  	S  115	111 DIS  	M 9-10A  	229 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38348  	S  115	122 DIS  	Th 8-9A  	182 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38354  	S  115	124 DIS  	M 1-2P  	229 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+38357  	S  115	125 DIS  	M 1-2P  	223 DWINELLE  	Global Poverty: Challenges and Hopes in the New Mil...				
+
+HISTORY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+39048  	S  3	102 DIS  	W 12-2P  	263 DWINELLE  	After the Roman Empire: the East		THE STAFF		
+39054  	S  3	104 DIS  	F 10-12P  	211 DWINELLE  	After the Roman Empire: the East		THE STAFF		
+39087  	S  5	101 DIS  	M 10-12P  	134 DWINELLE  	European Civilization from the Renaissance to the P...		THE STAFF		
+39090  	S  5	102 DIS  	M 4-6P  	283 DWINELLE  	European Civilization from the Renaissance to the P...		THE STAFF		
+39147  	S  7A	101 DIS  	M 12-2P  	134 DWINELLE  	The United States from Settlement to Civil War		THE STAFF		
+ 	 	 	Note: SATISFIES AMERICAN HISTORY + CULTURES REQ 
+39162  	S  7A	106 DIS  	W 10-12P  	134 DWINELLE  	The United States from Settlement to Civil War		THE STAFF		
+ 	 	 	Note: SATISFIES AMERICAN HISTORY + CULTURES REQ 
+39186  	S  7A	114 DIS  	F 12-2P  	263 DWINELLE  	The United States from Settlement to Civil War		THE STAFF		
+ 	 	 	Note: SATISFIES AMERICAN HISTORY + CULTURES REQ 
+39222  	S  10	102 DIS  	Tu 4-6P  	206 DWINELLE  	African History		THE STAFF		
+39226  	P  11	001 LEC  	MWF 10-11A  	223 DWINELLE  	India	4	THE STAFF	1	
+39242  	P  24	001 SEM  	Tu 10-12P  	3205 DWINELLE  	Freshman Seminar	1: PF	KANOGO, T M	TBA	FR
+ 	 	 	Note: "Endangered Children And Youth In Contemporary Africa: Documentaries" 
+39282  	P  98BC	002 SEM  	M 4-5P  	3205 DWINELLE  	Berkeley Connect for Lower Division Students	1: PF	THE STAFF	NONE	
+ 	 	 	Note: Berkeley Connect for Lower Division students. See: http://history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+39285  	P  98BC	003 SEM  	Tu 5-6P  	3205 DWINELLE  	Berkeley Connect for Lower Division Students	1: PF	THE STAFF	NONE	
+ 	 	 	Note: Berkeley Connect for Lower Division students. See: http://history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+39288  	P  98BC	004 SEM  	Tu 6-7P  	3205 DWINELLE  	Berkeley Connect for Lower Division Students	1: PF	THE STAFF	NONE	
+ 	 	 	Note: Berkeley Connect for Lower Division students. See: http://history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+39339  	P  100B	001 LEC  	MWF 2-3P  	160 DWINELLE  	Special Topics in European History	4	CONNELLY, J	15	
+ 	 	 	Note: "Yugoslavia" 
+39356  	S  100U	101 DIS  	Th 4-5P  	106 DWINELLE  	Special Topics in Comparative History				CURRENTLY NOT OPEN
+39552  	S  106A	102 DIS  	Tu 2-3P  	254 DWINELLE  	The Roman Republic		THE STAFF		
+39681  	P  124A	001 LEC  	MWF 10-11A  	145 DWINELLE  	The United States from the Late 19th Century to the...	4	ZUBOVICH, Y	1	
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+39705  	S  125B	103 DIS  	Th 4-5P  	206 DWINELLE  	Soul Power: African American History 1861-1980		THE STAFF		
+39708  	S  125B	104 DIS  	W 5-6P  	187 DWINELLE  	Soul Power: African American History 1861-1980		THE STAFF		
+39765  	S  138T	101 DIS  	F 12-2P  	211 DWINELLE  	History of Science in the US CalTeach		THE STAFF		
+ 	 	 	Note: SATISFIES HISTORY REQUIREMENT; 
+39768  	P  140B	001 LEC  	TuTh 330-5P  	219 DWINELLE  	Modern Mexico	4	CHOWNING, M	20	
+39843  	P  159B	001 LEC  	MWF 2-3P  	219 DWINELLE  	European Economic History	4	MILIVOJEVIC, A	15	
+39857  	S  159B	104 DIS  	Tu 1-2P  	134 DWINELLE  	European Economic History				CURRENTLY NOT OPEN
+39870  	P  162A	001 LEC  	MW 4-530P  	145 DWINELLE  	Europe and the World: Wars, Empires, Nations 1648-1...	4	WETZEL, D	13	
+39887  	P  166B	001 LEC  	MWF 3-4P  	219 DWINELLE  	Old Regime and Revolutionary France	4	LANGE, T C	8	
+39902  	P  172	001 LEC  	MWF 11-12P  	156 DWINELLE  	Russian Intellectual History	4	FREDE-MONTEMAYOR,	2	
+39920  	P  177A	001 LEC  	TuTh 11-1230P  	243 DWINELLE  	Armenia from Ethnogenesis to the Dark Ages	4	ASTOURIAN, S H	9	
+39975  	S  C187	104 DIS  	Th 1-2P  	246 DWINELLE  	The History and Practice of Human Rights		THE STAFF		
+39978  	S  C187	105 DIS  	Th 4-5P  	83 DWINELLE  	The History and Practice of Human Rights		THE STAFF		
+40023  	P  198BC	002 SEM  	M 6-7P  	3205 DWINELLE  	Berkeley Connect for Upper Division Students	1: PF	THE STAFF	NONE	JR, SR
+ 	 	 	Note: This section of Berkeley Connect is intended for new junior transfers. See history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+40026  	P  198BC	003 SEM  	W 5-6P  	3205 DWINELLE  	Berkeley Connect for Upper Division Students	1: PF	THE STAFF	NONE	JR, SR
+ 	 	 	Note: This section of Berkeley Connect is intended for new junior transfers. See history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+40029  	P  198BC	004 SEM  	M 5-6P  	3205 DWINELLE  	Berkeley Connect for Upper Division Students	1: PF	THE STAFF	NONE	JR, SR
+ 	 	 	Note: This section of Berkeley Connect is intended for upper division students (juniors and seniors). See history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+40032  	P  198BC	005 SEM  	Th 5-6P  	3205 DWINELLE  	Berkeley Connect for Upper Division Students	1: PF	THE STAFF	NONE	JR, SR
+ 	 	 	Note: This section of Berkeley Connect is intended for upper division students (juniors and seniors). See history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+40035  	P  198BC	006 SEM  	W 6-7P  	3205 DWINELLE  	Berkeley Connect for Upper Division Students	1: PF	THE STAFF	NONE	JR, SR
+ 	 	 	Note: This section of Berkeley Connect is intended for upper division students (juniors and seniors). See history.berkeley.edu/undergraduate/berkeley-connect-history for details. 
+40056  	P  275B	001 SEM  	Tu 3-6P  	3104 DWINELLE  	Europe	4	LAQUEUR, T W	NONE	BY CATEGORY
+40059  	P  275B	002 SEM  	Tu 3-6P  	2303 DWINELLE  	Europe	4	KOZIOL, G	NONE	
+ 	 	 	Note: "The Middle Ages" 
+40068  	P  275D	001 SEM  	Th 2-4P  	3104 DWINELLE  	United States	4	MCLENNAN, R M	NONE	BY CATEGORY
+ 	 	 	Note: "Introduction to U.S. History and Historiography" 
+40079  	P  275F	001 SEM  	Th 3-6P  	2303 DWINELLE  	Asia	4	BERRY, M E	NONE	
+ 	 	 	Note: "Japan" 
+40089  	P  280A	001 SEM  	W 2-5P  	2231 DWINELLE  	Ancient	4	MACKIL, E M	NONE	BY CATEGORY
+ 	 	 	Note: "Property and Power in the Ancient Greek World" 
+40092  	P  280A	002 SEM  	Th 2-5P  	2231 DWINELLE  	Ancient	4	ELM, S	NONE	
+ 	 	 	Note: "On Wealth" 
+40095  	P  280B	001 SEM  	W 12-2P  	3205 DWINELLE  	Europe	4	JAY, M E	NONE	BY CATEGORY
+ 	 	 	Note: "The Idea of Reason" 
+40097  	P  280B	003 SEM  	W 12-2P  	2303 DWINELLE  	Europe	4	SAHLINS, P	NONE	
+40098  	P  280B	004 SEM  	Th 4-6P  	3401 DWINELLE  	Europe	4	SLEZKINE, Y	NONE	
+ 	 	 	Note: "Introduction to Soviet Historiograpy" 
+40116  	P  280D	001 SEM  	W 2-4P  	2303 DWINELLE  	United States	4	BRILLIANT, M	NONE	
+ 	 	 	Note: "From the New Deal to the New Gilded Age" 
+40134  	P  280F	001 SEM  	Tu 2-5P  	3205 DWINELLE  	Asia (For M.A. Candidates)	4	BAKHLE, J	NONE	BY CATEGORY
+ 	 	 	Note: "Caste, Culture, Religion: The Anthro-History of South Asia" 
+40140  	P  280F	003 SEM  	W 12-2P  	3104 DWINELLE  	Asia (For M.A. Candidates)	4	ZINOMAN, P B	NONE	BY CATEGORY
+40143  	P  280F	004 SEM  	W 10-12P  	3205 DWINELLE  	Asia (For M.A. Candidates)	4	COOK, A C	NONE	
+ 	 	 	Note: "Modern China" 
+40158  	P  280H	001 SEM  	Th 10-12P  	2231 DWINELLE  	Africa	4	KANOGO, T M	NONE	
+ 	 	 	Note: "Topics in the History of Africa: Decolonization and Nationalism in Post-1945 Africa" 
+40161  	P  280S	001 SEM  	F 12-2P  	2303 DWINELLE  	History of Science	4	THE STAFF	NONE	BY CATEGORY
+40176  	P  283	001 SEM  	M 10-12P  	211 DWINELLE  	Historical Method and Theory	4	MILLER, M C	NONE	BY CATEGORY
+ 	 	 	Note: "Historical Method and Theory" 
+40182  	P  285A	002 SEM  	Th 2-5P  	2231 DWINELLE  	Ancient	4	ELM, S	NONE	
+ 	 	 	Note: "On Wealth" 
+40197  	P  285D	001 SEM  	W 10-12P  	3104 DWINELLE  	United States	4	DELAY, B	NONE	
+ 	 	 	Note: "America to 1900" 
+40200  	P  285D	002 SEM  	W 12-2P  	2231 DWINELLE  	United States	4	SARGENT, D J	NONE	
+ 	 	 	Note: "America since 1900" 
+40212  	P  285F	003 SEM  	W 12-2P  	3104 DWINELLE  	Asia	4	ZINOMAN, P B	NONE	
+ 	 	 	Note: "Southeast Asia" 
+40215  	P  285H	001 SEM  	Th 10-12P  	2231 DWINELLE  	Africa	4	KANOGO, T M	NONE	
+ 	 	 	Note: "Topics in the History of Africa: Decolonization and Nationalism in Post-1945 Africa" 
+
+INDUSTRIAL ENGIN AND OPER RESEARCH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+41144  	P  222	001 LEC  	TuTh 2-330P  	79 DWINELLE  	Financial Engineering Systems I	3	GUO, X	NONE	
+
+INTEGRATIVE BIOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+42280  	P  C107L	001 LEC  	M 1-2P  	182 DWINELLE  	Principles of Plant Morphology with Laboratory	4	SPECHT, C D	12	JR, SR & BY CATEGORY
+ 	 	 	Note: Cross-listed with Plant and Microbial Biology C107L section 1. 
+42412  	S  137	101 DIS  	F 8-9A  	205 DWINELLE  	Human Endocrinology				
+42421  	S  137	104 DIS  	F 8-9A  	209 DWINELLE  	Human Endocrinology				
+42427  	S  137	106 DIS  	F 3-4P  	79 DWINELLE  	Human Endocrinology				
+42433  	S  139	101 DIS  	M 3-4P  	156 DWINELLE  	The Neurobiology of Stress				
+42481  	P  153	001 LEC  	TuTh 2-330P  	88 DWINELLE  	Ecology	3	SOUSA, W P	5	BY CATEGORY
+42529  	P  159	001 LEC  	M 2-4P  	88 DWINELLE  	The Living Planet: Impact of the Biosphere on the E...	3	LOOY, C	15	BY CATEGORY
+
+INTERDISCIPLINARY STUDIES FIELD MAJ
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+45572  	P  190	001 SEM  	TuTh 10-11A  	263 DWINELLE  	Senior Thesis	4	KLEE, E B	NONE	SR & INTERDISCIPL STUDIES
+ 	 	 	Note: Attendance in ISF 190 is required during the first two weeks of class. Open to declared majors only. 
+
+INTERNATIONAL AND AREA STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+46403  	P  45	001 LEC  	TuTh 11-1230P  	145 DWINELLE  	Survey of World History	4	BEECHER, D I	9	BY CATEGORY; CURRENTLY FULL
+46418  	S  45	105 DIS  	M 2-3P  	83 DWINELLE  	Survey of World History				CURRENTLY FULL
+46435  	P  102	003 LEC  	M 2-5P  	262 DWINELLE  	Scope and Methods of Research in International and ...	4	BARTU, P A	15	
+46445  	S  107	101 DIS  	M 2-3P  	187 DWINELLE  	Intermediate Macroeconomic Theory				
+46475  	P  150	001 LEC  	TuTh 11-1230P  	219 DWINELLE  	Advanced Studies in International and Area Studies	4	NATHAN, L	9	
+ 	 	 	Note: "Poverty and Social Policy" - This course is designed to provide a comparative overview of how poverty is addressed in the United States and in rich European member countries of the Organisation for Economic Co-operation and Development (OECD). In this class we will examine values, assumptions, definitions and theories that shape the understanding and measurement of poverty. We will consider explanations for the persistence of poverty and review relevant research on proposed causal factors. We will look at how theory and research have guided the design of anti-poverty policy and will analyze policies for their impact on poverty alleviation. 
+46487  	P  150	005 LEC  	TuTh 11-1230P  	223 DWINELLE  	Advanced Studies in International and Area Studies	4	BALLENGER, S	9	
+ 	 	 	Note: "Latin American Development" - Course examines Latin American development from the 19th century to the present. We will evaluate the explanations offered for the region's classification as "underdeveloped" or "developing" and then use a case study/country approach to critique those explanations. Major themes include dependency theory and commodity chain analysis, industrial and agrarian developments, labor militancy and indigenous politics. A main purpose of this course is to provide context for students seeking to understand contemporary issues and challenges confronting the region and its citizens. No prior knowledge of the region is required. 
+46529  	P  194	003 LEC  	Tu 2-4P  	210 DWINELLE  	Senior Seminar in International and Area Studies	4	BALLENGER, S	NONE	BY CATEGORY
+ 	 	 	Note: "Commodities, Trade and Global Labor Regimes" - From silver to cocaine, sugar and tobacco, to cotton, oil and electronics, the nature of work has been shaped by expanding global demand for products whose origins - whether in the soil or the factory - remain mysterious. This course will explore the worlds of production and consumption and ask how global demand for specific commodities has shaped local, national and global politics. We will examine legal and illegal products, the cultural context in which products are made and acquire value, and the tangled relationship between production, ownership, labor discipline and human rights. 
+
+ITALIAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+46903  	P  1	001 LEC  	MTWTF 8-9A  	130 DWINELLE  	Elementary Italian	5	PERCO, G	4	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46906  	P  1	002 LEC  	MTWTF 9-10A  	130 DWINELLE  	Elementary Italian	5	PERCO, G	16	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46909  	P  1	003 LEC  	MTWTF 10-11A  	254 DWINELLE  	Elementary Italian	5	PERCO, G	1	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46915  	P  1	005 LEC  	MTWTF 11-12P  	179 DWINELLE  	Elementary Italian	5	PERCO, G	14	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46918  	P  1	006 LEC  	MTWTF 12-1P  	130 DWINELLE  	Elementary Italian	5	PERCO, G	18	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46921  	P  1	007 LEC  	MTWTF 3-4P  	251 DWINELLE  	Elementary Italian	5	PERCO, G	8	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46923  	P  1S	001 LEC  	MTWTF 10-11A  	130 DWINELLE  	Intensive Italian for Spanish Speakers	6	BELLEZZA, A M	10	
+47314  	S  1S	101 CON  	MW 1-2P  	B33B DWINELLE  	Intensive Italian for Spanish Speakers		BELLEZZA, A M		
+47317  	S  1S	102 CON  	MW 2-3P  	B33B DWINELLE  	Intensive Italian for Spanish Speakers		BELLEZZA, A M		
+46927  	P  2	002 LEC  	MTWTF 10-11A  	179 DWINELLE  	Elementary Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46930  	P  2	003 LEC  	MTWTF 11-12P  	130 DWINELLE  	Elementary Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46933  	P  2	004 LEC  	MTWTF 12-1P  	179 DWINELLE  	Elementary Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46936  	P  2	005 LEC  	MTWTF 3-4P  	179 DWINELLE  	Elementary Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46939  	P  3	001 LEC  	MTWTF 9-10A  	251 DWINELLE  	Intermediate Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46942  	P  3	002 LEC  	MTWTF 11-12P  	251 DWINELLE  	Intermediate Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46945  	P  4	001 LEC  	MTWTF 10-11A  	251 DWINELLE  	Advanced Italian	5	PERCO, G	10	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend the first day of classes and attend at least the first 4 out of 5 class meetings to maintain their place. Students are advised that those enrolled who have not met the attendance criteria will be dropped by their instructors by the end of the first week of classes and their space given to other students on the waiting list for the course section. No auditors are permitted. Taught in Italian. 
+46957  	P  R5B	002 LEC  	TuTh 8-930A  	242 DWINELLE  	Reading and Composition	4	THE STAFF	NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Italian Studies R5B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. 
+46960  	P  30	001 LEC  	MW 1-2P  	88 DWINELLE  	Dante (in English)	3	THE STAFF	12	
+ 	 	 	Note: Taught in English with readings in English. 
+46969  	S  30	103 DIS  	F 2-3P  	183 DWINELLE  	Dante (in English)		THE STAFF		
+46978  	S  40	102 DIS  	F 2-3P  	87 DWINELLE  	Italian Culture (in English)		THE STAFF		
+46981  	S  40	103 DIS  	F 3-4P  	205 DWINELLE  	Italian Culture (in English)		THE STAFF		
+46987  	S  40	105 DIS  	F 2-3P  	279 DWINELLE  	Italian Culture (in English)		THE STAFF		
+46990  	S  40	106 DIS  	F 3-4P  	87 DWINELLE  	Italian Culture (in English)		THE STAFF		
+47017  	P  101A	001 LEC  	MWF 1-2P  	283 DWINELLE  	Advanced Grammar, Reading, and Composition	4	PERCO, G	12	
+ 	 	 	Note: Taught in Italian. 
+47020  	P  102	001 LEC  	MWF 2-3P  	179 DWINELLE  	Italian through Theater: Advanced Language in Perfo...	4	BELLEZZA, A M	NONE	
+ 	 	 	Note: Taught in Italian. 
+47029  	P  160	001 LEC  	TuTh 330-5P  	259 DWINELLE  	Studies in the History, Society, and Politics of th...	4	THE STAFF	20	
+ 	 	 	Note: Taught in Italian. 
+47032  	P  170	001 LEC  	MW 2-330P  	188 DWINELLE  	The Italian Cinema: History, Genres, Authors	4	THE STAFF	15	
+ 	 	 	Note: Taught in English with readings in English. 
+47035  	S  170	101 LAB  	W 330-6P  	188 DWINELLE  	The Italian Cinema: History, Genres, Authors		THE STAFF		
+47104  	P  205	001 SEM  	M 2-5P  	6331 DWINELLE  	Proseminar I: Italian Literary Studies	2,4	SPACKMAN, B G	NONE	
+47107  	P  215	001 SEM  	W 2-5P  	6331 DWINELLE  	Seminar in Renaissance Literature and Culture	2,4	ASCOLI, A R	NONE	
+ 	 	 	Note: Taught in English. 
+47110  	P  248	001 SEM  	F 1-4P  	6331 DWINELLE  	Special Topics in Interdisciplinary Italian Studies	2,4	THE STAFF	NONE	
+47191  	P  290A	001 COL  	Th 5-8P  	219 DWINELLE  	Graduate Colloquium in Italian Studies	2	ASCOLI, A R	NONE	
+ 	 	 	Note: Enrollment in Italian 290A is limited to graduate students in the Department of Italian Studies. 
+47242  	P  302	001 IND  	Th 2-5P  	6331 DWINELLE  	Practicum in College Teaching of Italian	2-4: SU	PERCO, G	NONE	
+ 	 	 	Note: Enrollment in Italian 302 is limited to graduate student instructors teaching Italian Studies 1, 2, 3 and 4. 
+47245  	P  303	001 LEC  	F 2-4P  	6325 DWINELLE  	Practicum in the Teaching of Italian Literature, Hi...	2-4: SU	ASCOLI, A R	NONE	
+ 	 	 	Note: Required of Italian Studies GSI's not enrolled in Italian Studies 355 or 302 or in an approved Reading and Composition pedagogy course. 
+47248  	P  303	002 LEC  	MWF 8-9A  	6315 DWINELLE  	Practicum in the Teaching of Italian Literature, Hi...	2-4: SU	FULLER, M G	NONE	
+ 	 	 	Note: Required of Italian Studies GSI's teaching Italian 40. 
+47254  	P  375	001 SEM  	Tu 2-5P  	6331 DWINELLE  	Seminar in Language Pedagogy	4	PERCO, G	NONE	
+ 	 	 	Note: Required of Italian Studies GSIs teaching Italian 1 through 4. 
+
+LATIN AMERICAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+49112  	S  10	103 DIS  	M 1-2P  	234 DWINELLE  	Introduction to Latin American Studies				
+49115  	P  150	001 LEC  	W 4-7P  	182 DWINELLE  	Advanced Studies in Latin American Studies	4	NICHOLLS, C I	13	
+ 	 	 	Note: "Perspectives for Sustainable Rural Development in Latin America" 
+
+LEGAL STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+51524  	S  100	101 DIS  	M 4-5P  	105 DWINELLE  	Foundations of Legal Studies		PARHAM, L C		
+51527  	S  100	102 DIS  	Tu 8-9A  	223 DWINELLE  	Foundations of Legal Studies		MARTIN, M B		
+51530  	S  100	103 DIS  	W 4-5P  	228 DWINELLE  	Foundations of Legal Studies		PARHAM, L C		
+51566  	S  145	101 DIS  	Tu 8-9A  	106 DWINELLE  	Law and Economics I		CHEN, M B		
+51608  	S  163	102 DIS  	Th 2-3P  	283 DWINELLE  	Adolescence, Crime and Juvenile Justice		BURTON, C S		CURRENTLY FULL
+51629  	S  182	103 DIS  	Th 3-4P  	242 DWINELLE  	Law, Politics and Society		DILLON, J R		
+
+LETTERS AND SCIENCE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+51906  	S  1	101 DIS  	Th 8-9A  	106 DWINELLE  	Exploring the Liberal Arts				
+51921  	S  1	106 DIS  	Th 4-5P  	255 DWINELLE  	Exploring the Liberal Arts				
+52224  	S  23	101 DIS  	W 8-9A  	235 DWINELLE  	The Humanities				
+52230  	S  23	103 DIS  	W 2-3P  	262 DWINELLE  	The Humanities				
+52011  	S  C30T	122 DIS  	F 12-1P  	156 DWINELLE  	Drugs and the Brain				
+52035  	P  C60U	001 LEC  	MWF 9-10A  	219 DWINELLE  	Revolutionary Thinking: Marx, Nietzsche, Freud	4	FELDMAN, K S	16	
+ 	 	 	Note: Cross-listed with German C25 section 1. 
+52037  	S  C60U	101 DIS  	Tu 2-3P  	189 DWINELLE  	Revolutionary Thinking: Marx, Nietzsche, Freud				CURRENTLY FULL
+52179  	S  C140V	101 DIS  	M 5-6P  	259 DWINELLE  	The History and Practice of Human Rights				
+52188  	S  C140V	104 DIS  	Th 1-2P  	246 DWINELLE  	The History and Practice of Human Rights				CURRENTLY FULL
+52191  	S  C140V	105 DIS  	Th 4-5P  	83 DWINELLE  	The History and Practice of Human Rights				
+
+LINGUISTICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+52403  	P  1A	001 LEC  	TuTh 8-10A  	B4 DWINELLE  	American Sign Language I	5	HICKS, S L	11	CURRENTLY FULL
+52406  	S  1A	101 LAB  	Th 10-11A  	B4 DWINELLE  	American Sign Language I		HICKS, S L		CURRENTLY FULL
+52409  	P  1A	002 LEC  	TuTh 12-2P  	B4 DWINELLE  	American Sign Language I	5	HICKS, S L	17	CURRENTLY FULL
+52412  	S  1A	201 LAB  	Tu 11-12P  	B4 DWINELLE  	American Sign Language I		HICKS, S L		CURRENTLY FULL
+52415  	P  R1B	001 LEC  	TuTh 930-11A  	262 DWINELLE  	Endangered Languages: What We Lose when a Language ...	4		NONE	FR, SO & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+52442  	S  5	105 DIS  	Th 11-12P  	233 DWINELLE  	Language and Linguistics				
+52445  	S  5	106 DIS  	Th 10-11A  	211 DWINELLE  	Language and Linguistics				
+52448  	S  5	107 DIS  	F 11-12P  	233 DWINELLE  	Language and Linguistics				
+52451  	S  5	108 DIS  	F 12-1P  	189 DWINELLE  	Language and Linguistics				
+52454  	S  5	109 DIS  	F 2-3P  	233 DWINELLE  	Language and Linguistics				
+52469  	P  100	001 LEC  	MWF 12-1P  	145 DWINELLE  	Introduction to Linguistic Science	4	GARRETT, A J	18	BY CATEGORY
+ 	 	 	Note: Discussion sections for Linguistics 100 will not meet during the first week of classes. 
+52475  	S  100	102 DIS  	M 2-3P  	175 DWINELLE  	Introduction to Linguistic Science				CURRENTLY FULL
+52490  	S  100	107 DIS  	W 1-2P  	210 DWINELLE  	Introduction to Linguistic Science				CURRENTLY FULL
+52493  	S  100	108 DIS  	W 2-3P  	233 DWINELLE  	Introduction to Linguistic Science				CURRENTLY FULL
+52496  	S  100	109 DIS  	W 2-3P  	211 DWINELLE  	Introduction to Linguistic Science				
+52502  	S  100	111 DIS  	Th 2-3P  	210 DWINELLE  	Introduction to Linguistic Science				
+52505  	S  100	112 DIS  	Th 2-3P  	134 DWINELLE  	Introduction to Linguistic Science				CURRENTLY FULL
+52508  	P  106	001 LEC  	TuTh 930-11A  	88 DWINELLE  	Metaphor	4	SWEETSER, E E	NONE	BY CATEGORY
+ 	 	 	Note: Prerequisite: Lower division students must have instructor approval. Discussion sections for Linguistics 106 will not meet during the first week of classes. 
+52511  	S  106	101 DIS  	W 9-10A  	225 DWINELLE  	Metaphor				
+52514  	S  106	102 DIS  	W 11-12P  	225 DWINELLE  	Metaphor				
+52517  	S  106	103 DIS  	W 12-1P  	210 DWINELLE  	Metaphor				
+52532  	S  110	104 DIS  	W 8-9A  	211 DWINELLE  	Introduction to Phonetics and Phonology				
+SEE DEPT  	S  110	107 DIS  	Tu 8-9A  	104 DWINELLE  	Introduction to Phonetics and Phonology		LIN, S S		
+ 	 	 	Note: Section 107 is for graduate students only. 
+52544  	P  121	001 LEC  	MWF 12-1P  	182 DWINELLE  	Logical Semantics	4	DEAL, A	18	BY CATEGORY
+52547  	S  121	101 DIS  	Tu 2-3P  	211 DWINELLE  	Logical Semantics				
+52550  	S  121	102 DIS  	W 2-3P  	225 DWINELLE  	Logical Semantics				
+52559  	P  123	001 LEC  	TuTh 11-1230P  	134 DWINELLE  	Pragmatics	3	LAKOFF, G P	9	BY CATEGORY; CURRENTLY FULL
+52565  	S  130	101 DIS  	Tu 9-10A  	263 DWINELLE  	Comparative and Historical Linguistics				
+52568  	S  130	102 DIS  	Tu 1-2P  	263 DWINELLE  	Comparative and Historical Linguistics				CURRENTLY FULL
+52574  	S  130	104 DIS  	W 9-10A  	134 DWINELLE  	Comparative and Historical Linguistics				
+52583  	P  170	001 LEC  	MWF 2-3P  	263 DWINELLE  	History, Structure, and Sociolinguistics of a Parti...	3	HOLLAND, G B	NONE	
+ 	 	 	Note: "Sanskrit" - Prerequisite: Linguistics 100 
+52586  	P  175	001 LEC  	TuTh 330-5P  	250 DWINELLE  	American Indian Languages	3	RHODES, R A	20	
+52730  	P  200	001 SEM  	M 2-3P  	1303 DWINELLE  	Graduate Proseminar in Linguistics	1	GAHL, S	NONE	
+ 	 	 	Note: Required of graduate students during the first year of the program. 
+52733  	P  201A	001 SEM  	Th 10-11A  	1303 DWINELLE  	Second-Year Proseminar in Linguistics	1: SU	GAHL, S	NONE	
+52736  	P  201B	001 SEM  	W 10-12P  	1303 DWINELLE  	Advanced Graduate Proseminar in Linguistics	2: SU	MIKKELSEN, L H	NONE	
+52739  	P  205	001 LEC  	TuTh 330-5P  	1303 DWINELLE  	Advanced Cognitive Linguistics	3	LAKOFF, G P	NONE	
+52742  	P  208	001 SEM  	TuTh 1230-2P  	1303 DWINELLE  	Psycholinguistics	3	GAHL, S	17	
+52748  	P  220A	001 LEC  	TuTh 2-330P  	1303 DWINELLE  	Syntax and Semantics 1	3	MIKKELSEN, L H	NONE	BY CATEGORY
+52751  	P  240A	001 SES  	WF 1-3P  	1303 DWINELLE  	Field Methods	4: T1	HYMAN, L M	NONE	
+ 	 	 	Note: Prerequisite: Linguistics 211A and 220A. 
+52754  	P  290B	001 SEM  	W 3-6P  	87 DWINELLE  	Semantics	3	THE STAFF	NONE	
+52757  	P  290E	001 SEM  	F 9-12P  	1303 DWINELLE  	Phonology	3	JOHNSON, K A	NONE	
+SEE DEPT  	P  298	001 SEM  	M 12-2P  	242 DWINELLE  	Special Group Study	2	LIN, S S	NONE	
+ 	 	 	Note: "Phono Phorum" 
+SEE DEPT  	P  298	002 SEM  	F 2-4P  	204 DWINELLE  	Special Group Study	2	MIKKELSEN, L H	NONE	
+ 	 	 	Note: "Syntax Circle" 
+SEE DEPT  	P  375	001 IND  	Tu 9-11A  	1303 DWINELLE  	Training for Linguistics Teaching Assistants	2: SU	INKELAS, S	NONE	BY CATEGORY
+SEE DEPT  	P  999	001 COL  	M 4-6P  	182 DWINELLE  			THE STAFF	NONE	
+ 	 	 	Note: Department Colloquia. 
+
+MATHEMATICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+53354  	P  1A	002 LEC  	MWF 9-10A  	155 DWINELLE  	Calculus	4	COWARD, A	16	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53384  	S  1A	210 DIS  	TuTh 2-330P  	228 DWINELLE  	Calculus				CURRENTLY FULL
+53393  	S  1A	213 DIS  	TuTh 5-630P  	87 DWINELLE  	Calculus				
+53402  	S  1A	216 DIS  	TuTh 5-630P  	235 DWINELLE  	Calculus				
+53471  	P  1B	001 LEC  	MWF 11-12P  	155 DWINELLE  	Calculus	4	HALD, O H	2	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53525  	P  1B	002 LEC  	TuTh 2-330P  	155 DWINELLE  	Calculus	4	VOJTA, P A	5	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53570  	P  10A	001 LEC  	MWF 8-9A  	155 DWINELLE  	Methods of Mathematics: Calculus, Statistics, and C...	4	EVANS, L C	4	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53573  	P  10A	002 LEC  	MWF 4-5P  	155 DWINELLE  	Methods of Mathematics: Calculus, Statistics, and C...	4	BAMLER, R H	13	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+55289  	S  10A	218 DIS  	TuTh 5-630P  	183 DWINELLE  	Methods of Mathematics: Calculus, Statistics, and C...				
+55292  	S  10A	219 DIS  	TuTh 5-630P  	187 DWINELLE  	Methods of Mathematics: Calculus, Statistics, and C...				CURRENTLY FULL
+53636  	P  16A	001 LEC  	MWF 12-1P  	155 DWINELLE  	Analytic Geometry and Calculus	3	PAULIN, A	18	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53663  	S  16A	109 DIS  	Tu 2-330P  	283 DWINELLE  	Analytic Geometry and Calculus				
+53849  	S  53	105 DIS  	MWF 11-12P  	229 DWINELLE  	Multivariable Calculus				
+53852  	S  53	106 DIS  	MWF 3-4P  	228 DWINELLE  	Multivariable Calculus				CURRENTLY FULL
+53885  	S  53	117 DIS  	MWF 5-6P  	183 DWINELLE  	Multivariable Calculus				CURRENTLY FULL
+53888  	P  53	002 LEC  	MWF 3-4P  	155 DWINELLE  	Multivariable Calculus	4	GIVENTAL, A B	8	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53924  	S  53	212 DIS  	TuTh 2-330P  	187 DWINELLE  	Multivariable Calculus				
+53942  	P  54	001 LEC  	TuTh 8-930A  	155 DWINELLE  	Linear Algebra and Differential Equations	4	NADLER, D	11	
+ 	 	 	Note: Enrollment instructions are available at math.berkeley.edu/courses/enrollment-scheduling. 
+53996  	S  54	118 DIS  	MWF 5-6P  	83 DWINELLE  	Linear Algebra and Differential Equations				
+54059  	S  54	219 DIS  	MWF 4-5P  	246 DWINELLE  	Linear Algebra and Differential Equations				CURRENTLY FULL
+54098  	S  55	109 DIS  	MW 4-5P  	247 DWINELLE  	Discrete Mathematics				
+54290  	P  130	001 LEC  	TuTh 8-930A  	205 DWINELLE  	The Classical Geometries	4	MANN, K P	11	
+54518  	P  270	001 LEC  	Tu 2-330P  	87 DWINELLE  	Hot Topics Course in Mathematics	2: SU	SRIVASTAVA, N	NONE	
+
+MEDIA STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+56703  	P  10	001 LEC  	TuTh 11-1230P  	155 DWINELLE  	Introduction to Media Studies	4	JACKSON, J	9	BY CATEGORY
+ 	 	 	Note: New transfer students who have indicated interest in Media Studies on their UC admissions application should put themselves on the wait list. Wait lists for Media Studies courses are not automatic and will not open until Tele-BEARS Phase II. All students enrolled and on the wait list are required to attend the first lecture or they will be dropped. For more information about enrolling in these courses, please review the Tele-BEARS Enrollment Tips on the Media Studies website at mediastudies.ugis.berkeley.edu. 
+56730  	S  10	109 DIS  	MW 2-3P  	79 DWINELLE  	Introduction to Media Studies				
+56760  	S  102	107 DIS  	TuTh 2-3P  	255 DWINELLE  	Effects of Mass Media				CURRENTLY FULL
+56769  	S  102	110 DIS  	MW 4-5P  	134 DWINELLE  	Effects of Mass Media				
+
+MIDDLE EASTERN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+57009  	P  102	001 LEC  	M 2-5P  	262 DWINELLE  	Scope and Methods of Research in Middle Eastern Stu...	4	BARTU, P A	NONE	BY CATEGORY
+
+MOLECULAR AND CELL BIOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+57506  	S  32	101 DIS  	M 1-2P  	243 DWINELLE  	Introduction to Human Physiology				
+57515  	S  32	104 DIS  	Tu 8-9A  	105 DWINELLE  	Introduction to Human Physiology				
+57518  	S  32	105 DIS  	W 12-1P  	156 DWINELLE  	Introduction to Human Physiology				
+57521  	S  32	106 DIS  	W 1-2P  	229 DWINELLE  	Introduction to Human Physiology				
+  	S  32	101 VOL  	Tu 4-5P  	179 DWINELLE  	Introduction to Human Physiology		MACHEN, T E		CURRENTLY NOT OPEN
+57629  	S  C62	122 DIS  	F 12-1P  	156 DWINELLE  	Drugs and the Brain				
+57641  	S  C64	101 DIS  	M 12-1P  	229 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				CURRENTLY FULL
+57644  	S  C64	102 DIS  	M 1-2P  	156 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				CURRENTLY FULL
+57647  	S  C64	103 DIS  	M 2-3P  	156 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+57650  	S  C64	104 DIS  	M 3-4P  	243 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				CURRENTLY FULL
+57659  	S  C64	107 DIS  	F 12-1P  	223 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				CURRENTLY FULL
+57662  	S  C64	108 DIS  	F 1-2P  	242 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+58082  	P  102	001 LEC  	MWF 10-11A  	155 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...	4	THORNER, J W	1	BY CATEGORY
+ 	 	 	Note: Some evening exams will be given. 
+58085  	S  102	101 DIS  	M 9-10A  	156 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58088  	S  102	102 DIS  	M 1-2P  	209 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				CURRENTLY FULL
+58091  	S  102	103 DIS  	M 2-3P  	205 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58094  	S  102	104 DIS  	M 3-4P  	79 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58097  	S  102	105 DIS  	Tu 8-9A  	109 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58109  	S  102	109 DIS  	W 8-9A  	209 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58112  	S  102	110 DIS  	W 9-10A  	209 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58115  	S  102	111 DIS  	W 1-2P  	234 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58118  	S  102	112 DIS  	W 2-3P  	243 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58121  	S  102	113 DIS  	W 3-4P  	243 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58124  	S  102	115 DIS  	Th 1-2P  	219 DWINELLE  	Survey of the Principles of Biochemistry and Molecu...				
+58133  	S  104	102 DIS  	M 2-3P  	105 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58136  	S  104	103 DIS  	Tu 8-9A  	234 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58139  	S  104	104 DIS  	Tu 1-2P  	219 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58142  	S  104	105 DIS  	W 12-1P  	229 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58145  	S  104	106 DIS  	W 3-4P  	242 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58148  	S  104	107 DIS  	F 12-1P  	242 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58151  	S  104	108 DIS  	F 1-2P  	234 DWINELLE  	Genetics, Genomics, and Cell Biology				
+58166  	S  110	102 DIS  	M 12-1P  	156 DWINELLE  	Molecular Biology: Macromolecular Synthesis and Cel...				
+58199  	S  C112	104 DIS  	Th 9-10A  	134 DWINELLE  	General Microbiology				CURRENTLY FULL
+58202  	S  C112	105 DIS  	Th 1-2P  	134 DWINELLE  	General Microbiology				CURRENTLY FULL
+58205  	S  C112	106 DIS  	F 1-2P  	134 DWINELLE  	General Microbiology				CURRENTLY FULL
+58265  	S  135A	101 DIS  	M 12-1P  	223 DWINELLE  	Topics in Cell and Developmental Biology: Molecular...				
+58271  	S  135A	103 DIS  	M 12-1P  	209 DWINELLE  	Topics in Cell and Developmental Biology: Molecular...				
+58277  	P  136	001 LEC  	MWF 11-12P  	145 DWINELLE  	Physiology	4	HARIHARAN, I K	2	BY CATEGORY
+58286  	S  136	103 DIS  	F 12-1P  	247 DWINELLE  	Physiology				
+58310  	S  140	103 DIS  	W 12-1P  	89 DWINELLE  	General Genetics				
+58313  	S  140	104 DIS  	F 12-1P  	89 DWINELLE  	General Genetics				
+58328  	S  150	102 DIS  	Th 2-3P  	105 DWINELLE  	Molecular Immunology				
+58331  	S  150	103 DIS  	F 9-10A  	229 DWINELLE  	Molecular Immunology				
+58334  	S  150	104 DIS  	F 12-1P  	209 DWINELLE  	Molecular Immunology				
+58388  	S  166	102 DIS  	W 4-5P  	183 DWINELLE  	Biophysical Neurobiology				
+59528  	P  236	001 LEC  	MWF 11-12P  	145 DWINELLE  	Advanced Mammalian Physiology	5	HARIHARAN, I K	NONE	GR & BY CATEGORY
+
+NEAR EASTERN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+61590  	P  123	001 SEM  	Tu 4-7P  	225 DWINELLE  	Mesopotamian Archaeology	4	CATANZARITI, A	20	
+61644  	P  190C	001 LEC  	TuTh 330-5P  	189 DWINELLE  	Jewish Studies	4	DUARTE DE OLIVEIRA	20	
+ 	 	 	Note: Trailing Berkeley's long tradition of understanding the "other," this course pursues the search for one of the civilizations that deeply marked and inspired Western civilization. The Jewish tradition, one of the cornerstones of Europe and the New World, belongs to a group of ancient cultures originated in the Fertile Crescent, which throughout time was crystallized in evolving oral and written references, around which were condensed and preserved fundamental moments of the relation between God and humanity. This course will examine thoughts of Jewish authors who dedicated themselves to the study of their tradition in a particularly creative mode. 
+
+ARABIC
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+62136  	P  100A	001 LEC  	MWF 11-12P  	B3 DWINELLE  	Advanced Arabic	3	MOHAMED, H S	2	
+62148  	P  111A	001 LEC  	TuTh 1230-2P  	204 DWINELLE  	Survey of Arabic Literature (in Arabic)	3	KHANKAN, N	17	
+
+HEBREW
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+62623  	P  190A	001 LEC  	TuTh 11-1230P  	211 DWINELLE  	Special Topics in Hebrew	3	BOYARIN, C	9	
+ 	 	 	Note: This course is intended for students who have some prior knowledge of Hebrew language: either being heritage speakers or from studying at Hebrew school. The course will cover materials from first year Hebrew in greater depth with additional focus on grammatical materials, mostly having to do with Hebrew verb forms. Acceptance to the course will be determined by the instructor. 
+
+PERSIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+62912  	P  100A	001 LEC  	TuTh 1230-2P  	189 DWINELLE  	Advanced Persian	3	AHMADI, S	17	
+
+NEUROSCIENCE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+63680  	S  C129	104 DIS  	W 2-3P  	106 DWINELLE  	The Aging Human Brain				
+
+NUTRITIONAL SCIENCES AND TOXICOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+64566  	S  10	121 DIS  	Tu 4-5P  	255 DWINELLE  	Introduction to Human Nutrition				
+64569  	S  10	122 DIS  	Tu 4-5P  	254 DWINELLE  	Introduction to Human Nutrition				
+64602  	P  24	001 SEM  	W 10-12P  	211 DWINELLE  	Freshman Seminar	1: PF	CHANG, G W	TBA	FR ; CURRENTLY FULL
+ 	 	 	Note: "Mentorship in Movies and at Cal" 
+64674  	S  110	102 DIS  	W 3-4P  	215 DWINELLE  	Toxicology				
+64683  	P  161A	001 LEC  	MW 10-12P  	79 DWINELLE  	Medical Nutrition Therapy	4	MCCOIN, M C	1	SR & BY CATEGORY
+64695  	P  192	001 LEC  	M 2-3P  	109 DWINELLE  	Junior Seminar in Dietetics	1	MCCOIN, M C	15	BY CATEGORY
+
+PEACE AND CONFLICT STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+66718  	S  10	105 DIS  	Th 2-3P  	179 DWINELLE  	Introduction to Peace and Conflict Studies				
+66721  	S  10	106 DIS  	Tu 2-3P  	179 DWINELLE  	Introduction to Peace and Conflict Studies				
+66727  	P  100	001 LEC  	TuTh 5-630P  	160 DWINELLE  	Peace Theory: Approaches and Analyses	3	ZOOK, D C	14	
+66748  	P  150	001 LEC  	TuTh 2-330P  	160 DWINELLE  	Conflict Resolution: Theory and Practice	3	BHANGOO RANDHAWA,	5	CURRENTLY FULL
+66754  	P  170	001 LEC  	TuTh 11-1230P  	88 DWINELLE  	Conflict Resolution, Social Change, and the Culture...	4	OGATA, T	9	
+
+PHILOSOPHY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+67196  	P  98BC	001 DIS  	M 5-6P  	89 DWINELLE  	Berkeley Connect	1: PF		NONE	CURRENTLY FULL
+ 	 	 	Note: This section of Berkeley Connect is intended for lower division students (freshmen and sophomores). 
+67256  	P  134	001 LEC  	TuTh 2-330P  	219 DWINELLE  	Form and Meaning	4	YALCIN, S	5	PHILOSOPHY
+ 	 	 	Note: An additional one hour discussion will be arranged during the first two weeks of instruction. 
+
+PHYSICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+69441  	S  137A	102 DIS  	W 4-5P  	283 DWINELLE  	Quantum Mechanics				
+69759  	P  290E	001 SEM  	W 4-6P  	109 DWINELLE  	Seminar	2: SU		NONE	
+ 	 	 	Note: Consult bulletin board outside 366 LeConte for seminar listings. 
+
+PLANT AND MICROBIAL BIOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+70465  	P  C107L	001 LEC  	M 1-2P  	182 DWINELLE  	Principles of Plant Morphology with Laboratory	4	SPECHT, C D	12	BY CATEGORY
+ 	 	 	Note: Cross-listed with Integrative Biology C107L section 1. 
+70498  	S  C112	104 DIS  	Th 9-10A  	134 DWINELLE  	General Microbiology				
+70501  	S  C112	105 DIS  	Th 1-2P  	134 DWINELLE  	General Microbiology				
+70504  	S  C112	106 DIS  	F 1-2P  	134 DWINELLE  	General Microbiology				CURRENTLY FULL
+70885  	P  290	003 SEM  	Tu 3-4P  	225 DWINELLE  	Seminar	1-2: SU	TAGA, M	NONE	
+ 	 	 	Note: "Microbial Interactions" 
+
+POLITICAL ECONOMY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+71212  	S  100	102 DIS  	M 4-5P  	183 DWINELLE  	Classical Theories of Political Economy				
+71218  	S  100	104 DIS  	W 4-5P  	187 DWINELLE  	Classical Theories of Political Economy				
+71233  	S  101	102 DIS  	M 4-5P  	242 DWINELLE  	Contemporary Theories of Political Economy				
+71245  	S  101	106 DIS  	F 10-11A  	79 DWINELLE  	Contemporary Theories of Political Economy				
+
+POLITICAL SCIENCE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+71424  	S  1	107 DIS  	W 8-10A  	182 DWINELLE  	Introduction to American Politics				
+ 	 	 	Note: SATISFIES INSTITUTIONS REQUIREMENT; 
+71505  	S  5	104 DIS  	Tu 2-330P  	243 DWINELLE  	Introduction to International Relations				
+71529  	S  5	112 DIS  	Th 5-630P  	243 DWINELLE  	Introduction to International Relations				
+71565  	S  112B	101 DIS  	Tu 2-330P  	205 DWINELLE  	History of Political Theory				CURRENTLY FULL
+71568  	S  112B	102 DIS  	Tu 5-630P  	79 DWINELLE  	History of Political Theory				CURRENTLY FULL
+71571  	S  112B	103 DIS  	Th 2-330P  	258 DWINELLE  	History of Political Theory				CURRENTLY FULL
+71574  	S  112B	104 DIS  	Th 5-630P  	79 DWINELLE  	History of Political Theory				CURRENTLY FULL
+73176  	S  124M	101 DIS  	W 530-7P  	79 DWINELLE  	The Scientific Study of International Conflict				CURRENTLY FULL
+73179  	S  124M	102 DIS  	W 4-530P  	242 DWINELLE  	The Scientific Study of International Conflict				
+71727  	S  C135	105 DIS  	W 2-3P  	234 DWINELLE  	Game Theory in the Social Sciences				
+71736  	S  C135	108 DIS  	Th 2-3P  	242 DWINELLE  	Game Theory in the Social Sciences				
+71748  	S  138E	101 DIS  	Tu 2-330P  	234 DWINELLE  	The Varieties of Capitalism: Political Economic Sys...				
+71751  	S  138E	102 DIS  	Tu 330-5P  	215 DWINELLE  	The Varieties of Capitalism: Political Economic Sys...				
+71754  	S  138E	103 DIS  	Th 2-330P  	205 DWINELLE  	The Varieties of Capitalism: Political Economic Sys...				
+71757  	S  138E	104 DIS  	Th 5-630P  	215 DWINELLE  	The Varieties of Capitalism: Political Economic Sys...				
+71759  	S  138E	105 DIS  	Th 330-5P  	215 DWINELLE  	The Varieties of Capitalism: Political Economic Sys...				
+71772  	S  143B	101 DIS  	F 11-12P  	79 DWINELLE  	Japanese Politics				
+73194  	S  143C	101 DIS  	Th 5-630P  	105 DWINELLE  	Chinese Politics				
+71835  	S  147F	102 DIS  	W 3-4P  	229 DWINELLE  	Contemporary French Politics: The Republican Model ...				
+73152  	S  164A	101 DIS  	Th 2-4P  	234 DWINELLE  	Political Psychology and Involvement				CURRENTLY FULL
+73158  	S  164A	103 DIS  	M 2-4P  	234 DWINELLE  	Political Psychology and Involvement				CURRENTLY FULL
+71919  	S  167AC	101 DIS  	W 11-12P  	243 DWINELLE  	Racial and Ethnic Politics in the New American Cent...				CURRENTLY FULL
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+71931  	S  171	102 DIS  	Th 2-330P  	243 DWINELLE  	California Politics				CURRENTLY FULL
+SEE DEPT  	P  H190A	002 SEM  	M 10-12P  	225 DWINELLE  	Honors Seminar	4: PF	BIMES, T L	1	
+SEE DEPT  	P  198	001 GRP  	Th 5-7P  	259 DWINELLE  	Directed Group Study for Undergraduates	1-4: PF	STOKER, L	NONE	JR, SR
+SEE DEPT  	P  198	003 GRP  	W 530-730P  	156 DWINELLE  	Directed Group Study for Undergraduates	1-4: PF	BIMES, T L	NONE	JR, SR
+
+PSYCHOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+73521  	S  1	106 DIS  	M 3-4P  	105 DWINELLE  	General Psychology				
+73524  	S  1	107 DIS  	Tu 8-9A  	215 DWINELLE  	General Psychology				
+73539  	S  1	112 DIS  	Tu 1-2P  	187 DWINELLE  	General Psychology				
+73542  	S  1	113 DIS  	W 11-12P  	283 DWINELLE  	General Psychology				
+73548  	S  1	115 DIS  	W 1-2P  	182 DWINELLE  	General Psychology				
+73554  	S  1	117 DIS  	W 8-9A  	229 DWINELLE  	General Psychology				
+73557  	S  1	118 DIS  	W 4-5P  	83 DWINELLE  	General Psychology				
+73566  	S  1	121 DIS  	Th 1-2P  	187 DWINELLE  	General Psychology				
+73569  	S  1	122 DIS  	Th 2-3P  	251 DWINELLE  	General Psychology				
+73575  	S  1	124 DIS  	Th 4-5P  	179 DWINELLE  	General Psychology				
+73587  	S  1	128 DIS  	F 12-1P  	229 DWINELLE  	General Psychology				
+73590  	S  1	129 DIS  	F 1-2P  	209 DWINELLE  	General Psychology				
+73593  	S  1	130 DIS  	F 2-3P  	83 DWINELLE  	General Psychology				
+73704  	S  C19	122 DIS  	F 12-1P  	156 DWINELLE  	Drugs and the Brain				
+73719  	S  C64	101 DIS  	M 12-1P  	229 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+73722  	S  C64	102 DIS  	M 1-2P  	156 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				CURRENTLY FULL
+73725  	S  C64	103 DIS  	M 2-3P  	156 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+73728  	S  C64	104 DIS  	M 3-4P  	243 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+73737  	S  C64	107 DIS  	F 12-1P  	223 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+73740  	S  C64	108 DIS  	F 1-2P  	242 DWINELLE  	Exploring the Brain: Introduction to Neuroscience				
+73956  	P  C127	001 LEC  	TuTh 9-10A  	145 DWINELLE  	Cognitive Neuroscience	3	GALLANT, J L	7	BY CATEGORY
+ 	 	 	Note: Enrollment is reserved for declared psychology majors during Tele-Bears Phase I. Enrollment will be open to all students during Phase II on a first-come, first-served basis. A wait list will not be available until Phase II. For detailed enrollment guidelines and course information, please visit http://psychology.berkeley.edu/students/undergraduate-program/course-information. Cross-listed with Cognitive Science C127 section 1. 
+74016  	P  131	001 LEC  	TuTh 2-3P  	145 DWINELLE  	Developmental Psychopathology	3	ZHOU, Q	5	BY CATEGORY
+ 	 	 	Note: Enrollment is reserved for declared psychology majors during Tele-Bears Phase I. Enrollment will be open to all students during Phase II on a first-come, first-served basis. A wait list will not be available until Phase II. For detailed enrollment guidelines and course information, please visit http://psychology.berkeley.edu/students/undergraduate-program/course-information. 
+
+PUBLIC HEALTH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+76883  	S  C129	104 DIS  	W 2-3P  	106 DWINELLE  	The Aging Human Brain				
+75377  	S  142	103 DIS  	W 2-4P  	105 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75380  	S  142	104 DIS  	W 2-4P  	205 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75383  	S  142	105 DIS  	W 2-4P  	182 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75392  	S  142	108 DIS  	W 12-2P  	209 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75395  	S  142	109 DIS  	W 12-2P  	242 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75398  	S  142	110 DIS  	W 12-2P  	223 DWINELLE  	Introduction to Probability and Statistics in Biolo...				
+75964  	S  227A	101 DIS  	W 2-3P  	109 DWINELLE  	Health Care Finance		MAC PHERSON, K		
+75989  	P  C242C	001 LEC  	TuTh 11-1230P  	209 DWINELLE  	Longitudinal Data Analysis	4	JEWELL, N P	NONE	
+ 	 	 	Note: Cross-listed with Statistics C247C section 1. 
+76112  	P  285A	001 LEC  	F 2-4P  	262 DWINELLE  	Public Health Injury Prevention and Control	2	RAGLAND, D R	NONE	
+
+RELIGIOUS STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+77606  	S  90A	101 DIS  	Th 3-4P  	247 DWINELLE  	Introductory Topics in Religious Studies				
+77636  	S  C119	104 DIS  	F 3-4P  	215 DWINELLE  	The English Bible As Literature				
+
+RHETORIC
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+77803  	P  R1A	001 LEC  	MWF 11-12P  	215 DWINELLE  	The Craft of Writing	4	BUDNY, A C	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+77809  	P  R1A	003 LEC  	MWF 10-11A  	209 DWINELLE  	The Craft of Writing	4	YU, J M	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+77815  	P  R1A	005 LEC  	TuTh 5-630P  	223 DWINELLE  	The Craft of Writing	4	POTTS, M	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+77821  	P  R1B	002 LEC  	MWF 10-11A  	215 DWINELLE  	The Craft of Writing	4	WRIGHT, A E	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+77827  	P  R1B	004 LEC  	TuTh 330-5P  	223 DWINELLE  	The Craft of Writing	4	GUTIERREZ, N R	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+77836  	S  10	101 DIS  	W 1-2P  	156 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77839  	S  10	102 DIS  	W 2-3P  	83 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77842  	S  10	103 DIS  	Tu 4-5P  	130 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77845  	S  10	104 DIS  	W 4-5P  	255 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77848  	S  10	105 DIS  	W 5-6P  	251 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77851  	S  10	106 DIS  	Tu 5-6P  	179 DWINELLE  	Introduction to Practical Reasoning and Critical An...		THE STAFF		
+77866  	S  103A	101 DIS  	Tu 6-7P  	179 DWINELLE  	Approaches and Paradigms in the History of Rhetoric...		THE STAFF		
+77869  	S  103A	102 DIS  	Tu 5-6P  	130 DWINELLE  	Approaches and Paradigms in the History of Rhetoric...		THE STAFF		
+77872  	S  103A	103 DIS  	W 2-3P  	183 DWINELLE  	Approaches and Paradigms in the History of Rhetoric...		THE STAFF		
+77875  	S  103A	104 DIS  	W 6-7P  	183 DWINELLE  	Approaches and Paradigms in the History of Rhetoric...		THE STAFF		
+77878  	S  103A	105 DIS  	W 5-6P  	179 DWINELLE  	Approaches and Paradigms in the History of Rhetoric...		THE STAFF		
+78283  	P  106	001 LEC  	MW 4-530P  	209 DWINELLE  	Rhetoric of Historical Discourse	4	WIMMER, M	13	
+ 	 	 	Note: The History of the Everyday 
+77884  	P  107	001 LEC  	MWF 10-11A  	109 DWINELLE  	Rhetoric of Scientific Discourse	4	ZAKARIYA, N	1	
+77887  	P  108	001 LEC  	TuTh 930-11A  	209 DWINELLE  	Rhetoric of Philosophical Discourse	4	PORTER, J I	NONE	BY CATEGORY
+ 	 	 	Note: ""Dangerous Subjects: In Search of the Ancient Self, from Plato to Foucault" 
+77899  	P  114	001 LEC  	TuTh 1230-2P  	215 DWINELLE  	Rhetoric of New Media	4	GUTTERRIEZ, F R	17	BY CATEGORY
+77908  	P  121	001 LEC  	TuTh 1230-2P  	109 DWINELLE  	Rhetoric of Fiction	4	MASCUCH, M J	NONE	BY CATEGORY
+77910  	P  122	001 LEC  	TuTh 2-330P  	183 DWINELLE  	Rhetoric of Drama	4	THE STAFF	NONE	BY CATEGORY
+77917  	P  132T	001 LEC  	MW 930-11A  	188 DWINELLE  	Auteur in Film	4	JONES, E M	13	BY CATEGORY
+ 	 	 	Note: "Coen Brothers" 
+77920  	S  132T	101 DIS  	M 3-6P  	142 DWINELLE  	Auteur in Film		JONES, E M		
+77923  	P  135T	001 LEC  	F 10-1P  	142 DWINELLE  	Selected Topics in Film	4	JONES, E M	1	BY CATEGORY
+ 	 	 	Note: "Color Theory" 
+77932  	P  152AC	001 LEC  	TuTh 10-12P  	109 DWINELLE  	Race and Order in the New Republic	4	PERMAUL, N	19	SO, JR, SR & BY CATEGORY
+ 	 	 	Note: SATISFIES AMERICAN CULTURES REQUIREMENT; 
+77935  	P  157B	001 LEC  	TuTh 330-5P  	209 DWINELLE  	Rhetoric of Contemporary Political Theory	4	GUTTERRIEZ, F R	20	BY CATEGORY
+ 	 	 	Note: "The Aesthetic Turn in Political Thought" 
+77941  	P  160	001 LEC  	MW 4-530P  	215 DWINELLE  	Introduction to the Rhetoric of Legal Discourse	4	WESTON, N A	13	BY CATEGORY
+77944  	P  164	001 LEC  	TuTh 930-11A  	215 DWINELLE  	Rhetoric of Legal Theory	4	ESMEIR, S	7	BY CATEGORY
+78094  	P  230	001 SEM  	Tu 10-1P  	7415 DWINELLE  	Rhetoric and History	4	WINTROUB, A M	NONE	BY CATEGORY
+78099  	P  240F	001 SEM  	Th 2-5P  	7415 DWINELLE  	Legal Rhetoric and Philosophy	4	CONSTABLE, M	NONE	
+ 	 	 	Note: ""Nietzsche, Heidegger and Law" 
+78100  	P  240G	001 SEM  	Tu 2-5P  	7415 DWINELLE  	Rhetorical Theory	4	CHEAH, P	NONE	BY CATEGORY
+ 	 	 	Note: "Biopolitics Reconsidered: The Politics and Rights of Life" 
+78103  	P  240G	002 SEM  	Th 11-2P  	7415 DWINELLE  	Rhetorical Theory	4	ESMEIR, S	NONE	BY CATEGORY
+ 	 	 	Note: "Itineraries of Dissent: Treason, Rebellion, Revolution" 
+78106  	P  240G	003 SEM  	W 2-5P  	7415 DWINELLE  	Rhetorical Theory	4	PORTER, J I	NONE	BY CATEGORY
+ 	 	 	Note: "Postcoloniality and Its Critical Tools" 
+78196  	P  375	001 SEM  	Tu 530-730P  	7415 DWINELLE  	Teaching Rhetoric	2: SU	GUTTERRIEZ, F R	NONE	GR & BY CATEGORY
+
+SCANDINAVIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+78503  	P  R5A	001 LEC  	TuTh 8-930A  	79 DWINELLE  	Reading and Composition	4	THE STAFF	NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Scandinavian R5A daily for non-attendance during the first two weeks of classes to accommodate students needing entry. 
+78515  	P  R5B	003 LEC  	TuTh 330-5P  	279 DWINELLE  	Reading and Composition	4	THE STAFF	NONE	FR, SO & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Scandinavian R5B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. 
+78521  	P  75	001 LEC  	MWF 10-11A  	88 DWINELLE  	Literature and Culture of the Nordic World	4	RUGG, L H	1	
+ 	 	 	Note: Taught in English with readings in English. 
+78553  	P  101A	001 LEC  	TuTh 1230-2P  	6415 DWINELLE  	INTRO OLD NORSE	4	THE STAFF	17	
+78557  	P  123	001 LEC  	MWF 12-1P  	160 DWINELLE  	Viking and Medieval Scandinavia	4	THE STAFF	18	
+ 	 	 	Note: Taught in English with readings in English. 
+78559  	P  125	001 LEC  	MWF 12-1P  	235 DWINELLE  	Old Norse Literature	4	CRAWFORD, J	18	
+78598  	P  180	001 LEC  	TuTh 330-5P  	87 DWINELLE  	Special Topics in Scandinavian	4	CRAWFORD, J	20	
+78641  	P  220	001 LEC  	Th 1-4P  	6415 DWINELLE  	Early Scandinavian Literature	4	HESLOP, K S	17	
+78644  	P  235	001 LEC  	W 1-4P  	6415 DWINELLE  	Studies in Romanticism and Realism	4	SANDERS, K L	NONE	
+78674  	P  298	003 TUT  	TuTh 11-12P  	6415 DWINELLE  	Special Study	2	MOLLER, K	NONE	
+78722  	P  300B	001 SES  	MWF 8-9A  	6410 DWINELLE  	Teaching Practicum	1: SU	MOLLER, K	NONE	
+ 	 	 	Note: This practicum course is required of all continuing graduate student language instructors teaching in the Department of Scandinavian. To be taken in conjunction with Scandinavian 301 section 1 (Teaching Methodology for Languages). 
+78725  	P  300B	002 SES  	MWF 8-9A  	6409 DWINELLE  	Teaching Practicum	1: SU	WELLENDORF, J	NONE	
+ 	 	 	Note: This practicum course is required of all continuing graduate student Reading and Composition instructors teaching in the Department of Scandinavian. To be taken in conjunction with Scandinavian 301 section 2 (Teaching Methodology for Reading & Composition). 
+78728  	P  301	001 IND  	TuTh 8-930A  	6410 DWINELLE  	Scandinavian Teaching Methods	3: SU	MOLLER, K	NONE	
+ 	 	 	Note: This methodology course is required of all continuing graduate student instructors teaching languages in the Department of Scandinavian. To be taken in conjunction with Scandinavian 300B section 1 (Teaching Practicum for Languages). 
+78731  	P  301	002 IND  	TuTh 8-930A  	6409 DWINELLE  	Scandinavian Teaching Methods	3: SU	WELLENDORF, J	NONE	
+ 	 	 	Note: This methodology course is required of all continuing graduate student instructors teaching Reading and Composition in the Department of Scandinavian. To be taken in conjunction with Scandinavian 300B section 2 (Teaching Practicum for Reading & Composition). 
+
+DANISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+78803  	P  1A	001 LEC  	TuTh 2-330P  	B33B DWINELLE  	Beginning Danish	4	MOLLER, K	5	
+
+FINNISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+78903  	P  1A	001 LEC  	TuTh 11-1230P  	B33B DWINELLE  	Beginning Finnish	4	TUOMAINEN, S M	9	
+78906  	P  102A	001 LEC  	TuTh 2-330P  	B37 DWINELLE  	Intermediate Finnish	4	TUOMAINEN, S M	5	
+
+ICELANDIC
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+79000  	P  1A	001 LEC  	MWF 9-10A  	6415 DWINELLE  	Beginning Icelandic I	4	CRAWFORD, J	16	
+
+SWEDISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+79203  	P  1A	001 LEC  	MWF 9-10A  	235 DWINELLE  	Beginning Swedish	4	MOLLER, K	16	
+
+SLAVIC LANGUAGES AND LITERATURES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+79709  	P  R5B	001 LEC  	TuTh 8-930A  	243 DWINELLE  	Reading and Composition	4	THE STAFF	NONE	FR, SO & BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Slavic R5B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. See the Slavic department website at slavic.berkeley.edu for detailed descriptions and prerequisites. 
+79715  	P  R5B	003 LEC  	TuTh 330-5P  	283 DWINELLE  	Reading and Composition	4	THE STAFF	NONE	FR, SO & BY CATEGORY; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Students will be dropped from Slavic R5B daily for non-attendance during the first two weeks of classes to accommodate students needing entry. See the Slavic department website at slavic.berkeley.edu for detailed descriptions and prerequisites. 
+79717  	P  24	001 SEM  	W 8-9A  	6115 DWINELLE  	Freshman Seminar	1: PF	ALEXANDER, R	TBA	FR
+79718  	P  39C	001 SEM  	TuTh 330-5P  	183 DWINELLE  	Freshman/Sophomore Seminar	3	FRICK, D A	TBA	
+ 	 	 	Note: Taught in English with readings in English. 
+79721  	P  45	001 LEC  	MWF 10-11A  	182 DWINELLE  	Nineteenth-Century Russian Literature	3	GOLBURT, L	1	
+ 	 	 	Note: Russian literature course is taught in English with readings in English. 
+79778  	P  132	001 LEC  	TuTh 330-5P  	88 DWINELLE  	Dostoevsky, Tolstoy, and the English Novel	4	PAPERNO, I	20	
+ 	 	 	Note: Taught in English with readings in English. 
+79781  	P  134E	001 LEC  	TuTh 2-330P  	182 DWINELLE  	Chekhov	4	MUZA, A	5	
+79790  	P  158	001 LEC  	MWF 2-3P  	160 DWINELLE  	Topics in East European/Eurasian Cultural History	4	ALEXANDER, R	15	
+ 	 	 	Note: "The Rise and Fall of the Former Yugoslavia" - Cultural studies course is taught in English with readings in English. 
+79795  	P  182	001 LEC  	MWF 12-1P  	6115 DWINELLE  	Pushkin	4	GOLBURT, L	18	
+79901  	P  200	001 COL  	M 4-7P  	160 DWINELLE  	Graduate Colloquium	0: SU	PAPERNO, I	NONE	
+79904  	P  210	001 LEC  	TuTh 930-11A  	6115 DWINELLE  	Old Church Slavic	4	FRICK, D A	7	
+79910  	P  245A	001 LEC  	W 2-5P  	6115 DWINELLE  	Russian Sentimentalism and Romanticism (1790s-1840s...	4	RAM, H	NONE	
+79913  	P  281	001 SEM  	Tu 2-5P  	6115 DWINELLE  	Proseminar: Aims and Methods of Literary Scholarshi...	4	NAIMAN, E	NONE	
+80006  	P  375A	001 IND  	M 2-5P  	6112 DWINELLE  	Teaching Methods for Slavic Languages	3: SU	LITTLE, L C	NONE	
+ 	 	 	Note: This teaching methodology course is required of all graduate stud ent instructors teaching Russian language courses Slavic 1, 2, 3, 4 and 6A through 6B. 
+80009  	P  375B	001 IND  	TuTh 8-930A  	6209 DWINELLE  	Teaching Methods of Reading and Composition	3: SU	NESBET, A	NONE	
+ 	 	 	Note: This teaching methodology course is required of all graduate stud ent instructors teaching Reading and Composition courses in the S lavic Department. 
+
+ARMENIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+80303  	P  1A	001 SES  	TuTh 11-1230P  	89 DWINELLE  	Introductory Armenian	3	THE STAFF	9	
+
+HUNGARIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+80903  	P  1A	001 LEC  	TuTh 1230-2P  	6115 DWINELLE  	Introductory Hungarian	3,4	SZOKE, E S	17	
+80906  	P  100	001 LEC  	TuTh 11-12P  	6115 DWINELLE  	Readings in Hungarian	2	SZOKE, E S	NONE	
+
+POLISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+81006  	P  115A	001 LEC  	MWF 10-11A  	104 DWINELLE  	Continuing Polish	4	ZACHA, K	1	
+
+RUSSIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+81206  	P  1	002 LEC  	MTWTF 12-1P  	106 DWINELLE  	Elementary Russian	5	LITTLE, L C	18	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend at least the first 4 class meetings of the course. Students who do not will be dropped on the Tele-BEARS system and their spaces given to other students wishing to access the course. Students who lose their places or drop out are responsible for dropping the course from their study lists through Tele-BEARS. Removal of a student's name from the course from the study list. No auditors permitted. 
+81209  	P  1	003 LEC  	MTWTF 1-2P  	106 DWINELLE  	Elementary Russian	5	LITTLE, L C	12	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend at least the first 4 class meetings of the course. Students who do not will be dropped on the Tele-BEARS system and their spaces given to other students wishing to access the course. Students who lose their places or drop out are responsible for dropping the course from their study lists through Tele-BEARS. Removal of a student's name from the course from the study list. No auditors permitted. 
+81212  	P  2	001 LEC  	MTWTF 11-12P  	104 DWINELLE  	Elementary Russian	5	LITTLE, L C	14	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend at least the first 4 class meetings of the course. Students who do not will be dropped on the Tele-BEARS system and their spaces given to other students wishing to access the course. Students who lose their places or drop out are responsible for dropping the course from their study lists through Tele-BEARS. Removal of a student's name from the course from the study list. No auditors permitted. 
+81215  	P  3	001 LEC  	MTWTF 11-12P  	206 DWINELLE  	Intermediate Russian	5	LITTLE, L C	14	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend at least the first 4 class meetings of the course. Students who do not will be dropped on the Tele-BEARS system and their spaces given to other students wishing to access the course. Students who lose their places or drop out are responsible for dropping the course from their study lists through Tele-BEARS. Removal of a student's name from the course from the study list. No auditors permitted. 
+81218  	P  4	001 LEC  	MTWTF 11-12P  	106 DWINELLE  	Intermediate Russian	5	LITTLE, L C	14	
+ 	 	 	Note: Students whose enrollments are confirmed on Tele-BEARS must attend at least the first 4 class meetings of the course. Students who do not will be dropped on the Tele-BEARS system and their spaces given to other students wishing to access the course. Students who lose their places or drop out are responsible for dropping the course from their study lists through Tele-BEARS. Removal of a student's name from the course from the study list. No auditors permitted. 
+81224  	P  103A	001 LEC  	TuTh 11-1230P  	189 DWINELLE  	Advanced Russian	4	MUZA, A	9	
+81233  	P  201	001 LEC  	M 1-4P  	6115 DWINELLE  	Advanced Russian Proficiency Maintenance	2-3	MUZA, A	NONE	
+
+SOCIOLOGY
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+81906  	S  1	101 DIS  	MW 8-9A  	134 DWINELLE  	Introduction to Sociology				CURRENTLY FULL
+81909  	S  1	102 DIS  	MW 9-10A  	189 DWINELLE  	Introduction to Sociology				CURRENTLY FULL
+81930  	S  1	109 DIS  	MW 8-9A  	263 DWINELLE  	Introduction to Sociology				
+81933  	S  1	110 DIS  	MW 9-10A  	263 DWINELLE  	Introduction to Sociology				CURRENTLY FULL
+81939  	S  1	112 DIS  	TuTh 11-12P  	279 DWINELLE  	Introduction to Sociology				CURRENTLY FULL
+81978  	S  5	107 DIS  	MW 8-9A  	233 DWINELLE  	Evaluation of Evidence				
+81981  	S  5	108 DIS  	MW 9-10A  	262 DWINELLE  	Evaluation of Evidence				CURRENTLY FULL
+82068  	S  101	109 DIS  	MW 8-9A  	262 DWINELLE  	Sociological Theory I				
+82173  	P  166	001 LEC  	MWF 2-3P  	145 DWINELLE  	Society and Technology	4	HUANG, L B	15	
+ 	 	 	Note: All seats are reserved for declared sociology majors only in Tele-BEARS Phase I. Enrollment may open up for undeclared and outside majors in Phase II depending on space availability, and according to priorities. Wait lists for all upper division sociology courses are not available until Phase II. For questions, course descriptions, enrollment priorities and procedures in sociology courses go to sociology.berkeley.edu/?page=undergradcourses. You must be present at the first lecture or you will be subject to instructor drop. 
+
+SOUTH AND SOUTHEAST ASIAN STUDIES
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+83515  	S  C52	101 DIS  	Tu 1-2P  	228 DWINELLE  	Introduction to the Study of Buddhism				
+83518  	S  C52	102 DIS  	Tu 2-3P  	251 DWINELLE  	Introduction to the Study of Buddhism				
+83530  	S  C52	106 DIS  	W 2-3P  	187 DWINELLE  	Introduction to the Study of Buddhism				
+83533  	P  84	001 SEM  	F 4-6P  	175 DWINELLE  	Sophomore Seminar	2	BARRIOS-LEBLANC, M	TBA	SO
+ 	 	 	Note: "Contemporary Southeast Asian Society and Culture through Film" 
+83560  	P  120	001 LEC  	TuTh 11-1230P  	79 DWINELLE  	Topics in South and Southeast Asian Studies	4	BARRIOS-LEBLANC, M	9	BY CATEGORY
+83566  	P  120	003 LEC  	TuTh 1230-2P  	283 DWINELLE  	Topics in South and Southeast Asian Studies	4	WENTWORTH, B T	17	BY CATEGORY
+83568  	P  150	001 LEC  	TuTh 330-5P  	246 DWINELLE  	Southeast Asian Mythology	4	TIWON, S C	NONE	BY CATEGORY
+83686  	P  294	001 LEC  	M 2-5P  	204 DWINELLE  	Methods in South & Southeast Asian Studies	4	HADLER, J A	NONE	
+
+SOUTH ASIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84003  	P  1A	001 LEC  	MWF 1-2P  	160 DWINELLE  	Introduction to the Civilization of Early India	4	VON ROSPATT, A	12	BY CATEGORY
+84006  	S  1A	101 DIS  	M 3-4P  	205 DWINELLE  	Introduction to the Civilization of Early India				
+84012  	P  R5A	001 LEC  	MWF 9-10A  	210 DWINELLE  	Great Books of India	4		NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+84018  	P  R5A	003 LEC  	TuTh 1230-2P  	262 DWINELLE  	Great Books of India	4		NONE	FR, SO ; CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+84030  	P  C215	001 SEM  	W 3-6P  	288 DWINELLE  	Readings in Indian Buddhist Texts	2-4	VON ROSPATT, A	NONE	GR
+ 	 	 	Note: Cross-listed with Buddhist Studies C215 section 1. 
+84033  	P  C224	001 SEM  	Th 2-5P  	288 DWINELLE  	Readings in Tibetan Buddhist Texts	2,4	DALTON, J	NONE	GR
+ 	 	 	Note: Cross-listed with Tibetan C224 section 1 and Buddhist Studies C224 section 1. 
+
+SOUTHEAST ASIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84106  	S  10A	101 DIS  	Th 3-4P  	175 DWINELLE  	Introduction to the Civilization of Southeast Asia				
+
+BENGALI
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84403  	P  1A	001 LEC  	MW 12-2P  	189 DWINELLE  	Introductory Bengali	5	BASU, A 	18	
+
+FILIPINO
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84503  	P  1A	001 LEC  	MTWTF 11-12P  	175 DWINELLE  	Introductory Filipino	5	ABAN, C C	14	
+84506  	P  1A	002 LEC  	MTWTF 12-1P  	233 DWINELLE  	Introductory Filipino	5	ABAN, C C	18	
+84509  	P  1A	003 LEC  	MTWTF 1-2P  	233 DWINELLE  	Introductory Filipino	5	ABAN, C C	12	
+84512  	P  1A	004 LEC  	MTWTF 3-4P  	104 DWINELLE  	Introductory Filipino	5		8	
+84524  	P  100A	001 LEC  	TuTh 1230-2P  	105 DWINELLE  	Intermediate Filipino	5	LLAGAS, K	17	
+
+HINDI-URDU
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84603  	P  1A	001 LEC  	MTWTF 11-12P  	204 DWINELLE  	Introductory Hindi	5	SIRASAO, P	10	
+84606  	P  1A	002 LEC  	MTWTF 12-1P  	175 DWINELLE  	Introductory Hindi	5	SIRASAO, P	10	
+84612  	P  100A	001 LEC  	MWF 10-11A  	204 DWINELLE  	Intermediate Hindi	4	SIRASAO, P	1	
+84618  	P  101A	001 LEC  	MWF 12-1P  	104 DWINELLE  	Readings in Modern Hindi	3	JAIN, U R	18	
+84624  	P  104A	001 LEC  	MWF 5-6P  	104 DWINELLE  	Advanced Urdu	3	JALIL, Q	19	
+
+KHMER
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+84806  	P  100A	001 LEC  	MTuWTh 4-530P  	33 DWINELLE  	Intermediate Khmer	5	SMITH, F J	13	
+84809  	P  101A	001 LEC  	TuTh 930-11A  	33 DWINELLE  	Advanced Khmer	3	SMITH, F J	7	
+
+MALAY/INDONESIAN
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+85003  	P  1A	001 LEC  	MW 10-12P  	233 DWINELLE  	Introductory Indonesian	5	LUNDE, N K 	10	
+85006  	P  100A	001 LEC  	MW 12-2P  	204 DWINELLE  	Intermediate Indonesian	5	LUNDE, N K 	18	
+85009  	P  100A	002 LEC  	TuTh 10-12P  	225 DWINELLE  	Intermediate Indonesian	5	LUNDE, N K 	19	
+85012  	P  210A	001 SEM  	W 3-6P  	225 DWINELLE  	Seminar in Malay Letters and Oral Traditions	4	TIWON, S C	NONE	GR
+
+PUNJABI
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+85203  	P  1A	001 LEC  	TuTh 930-11A  	210 DWINELLE  	Introductory Punjabi	5	UBHI, U K 	7	
+85206  	P  100A	001 LEC  	TuTh 2-330P  	107 MULFORD  	Intermediate Punjabi	5	UBHI, U K 	5	
+
+SANSKRIT
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+85303  	P  100A	001 LEC  	MWF 8-10A  	204 DWINELLE  	Elementary Sanskrit	5	GOLDMAN, S J	10	
+85306  	P  101B	001 LEC  	MF 12-2P  	210 DWINELLE  	Intermediate Sanskrit: Sastraic (Scientific) Sanskr...	5	GOLDMAN, S J	18	
+85309  	P  200A	001 LEC  	MF 2-330P  	346B DWINELLE  	Sanskrit Literature	4	GOLDMAN, R P	NONE	GR
+
+THAI
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+85903  	P  1A	001 LEC  	MF 5-630P  	233 DWINELLE  	Introduction to Thai	5	CHOWCHUVECH, S	19	
+ 	 	 	Note: "Introduction to Thai language and Culture" 
+85909  	P  101A	001 REA  	TuTh 9-11A  	33 DWINELLE  	Advanced Thai	3	CHOWCHUVECH, S	7	
+ 	 	 	Note: This course is designed to enhance the students' competence in reading and writing Thai. The students will be reading texts from The Thai Cultural Reader, newspapers, news from internet, selected short stories. The students will improve listening skill from listening to audio recording, clips from Youtube and internet. The students will discuss both orally and writing in great length on selected topics. The course is taught long-distance, real time, from University of Wisconsin. 
+
+VIETNAMESE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+86009  	P  1A	003 LEC  	MTWTF 11-12P  	210 DWINELLE  	Introductory Vietnamese	5	TRAN, H	14	
+86012  	P  100A	001 LEC  	MTWTF 1-2P  	175 DWINELLE  	Intermediate Vietnamese	5	TRAN, H	12	
+
+SPANISH
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+86103  	P  1	001 REC  	MTWTF 8-9A  	254 DWINELLE  	Elementary Spanish	5	THE STAFF	4	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86106  	P  1	002 REC  	MTWTF 9-10A  	183 DWINELLE  	Elementary Spanish	5	THE STAFF	16	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86109  	P  1	003 REC  	MTWTF 10-11A  	183 DWINELLE  	Elementary Spanish	5	THE STAFF	1	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86112  	P  1	004 REC  	MTWTF 11-12P  	83 DWINELLE  	Elementary Spanish	5	THE STAFF	14	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86115  	P  1	005 REC  	MTWTF 12-1P  	255 DWINELLE  	Elementary Spanish	5	THE STAFF	18	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86118  	P  1	006 REC  	MTWTF 1-2P  	251 DWINELLE  	Elementary Spanish	5	THE STAFF	12	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86121  	P  1	007 REC  	MTWTF 8-9A  	179 DWINELLE  	Elementary Spanish	5	THE STAFF	4	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86124  	P  1	008 REC  	MTWTF 9-10A  	83 DWINELLE  	Elementary Spanish	5	THE STAFF	16	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86127  	P  R1A	001 LEC  	MWF 8-9A  	234 DWINELLE  	Reading and Composition Through Readings from the S...	4	THE STAFF	NONE	FR, SO
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; 
+86130  	P  2	001 REC  	MTWTF 8-9A  	251 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86133  	P  2	002 REC  	MTWTF 9-10A  	254 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86136  	P  2	003 REC  	MTWTF 10-11A  	83 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86139  	P  2	004 REC  	MTWTF 11-12P  	254 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86142  	P  2	005 REC  	MTWTF 1-2P  	179 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86148  	P  2	007 REC  	MTWTF 9-10A  	87 DWINELLE  	Elementary Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 2 if you have 3 years of high school Spanish or received a 2 on the AP Spanish language exam. Not for heritage speakers. 
+86151  	P  3	001 REC  	MTWTF 8-9A  	255 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 3 if you have 4 years of high school Spanish or received a 3 on the AP Spanish language exam. Not for heritage speakers. 
+86154  	P  3	002 REC  	MTWTF 9-10A  	279 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 3 if you have 4 years of high school Spanish or received a 3 on the AP Spanish language exam. Not for heritage speakers. 
+86157  	P  3	003 REC  	MTWTF 10-11A  	228 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 3 if you have 4 years of high school Spanish or received a 3 on the AP Spanish language exam. Not for heritage speakers. 
+86163  	P  3	005 REC  	MTWTF 12-1P  	279 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 3 if you have 4 years of high school Spanish or received a 3 on the AP Spanish language exam. Not for heritage speakers. 
+86166  	P  3	006 REC  	MTWTF 1-2P  	259 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 3 if you have 4 years of high school Spanish or received a 3 on the AP Spanish language exam. Not for heritage speakers. 
+86169  	P  3	007 REC  	MTWTF 12-1P  	83 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES 
+86187  	P  4	006 REC  	MTWTF 1-2P  	206 DWINELLE  	Intermediate Spanish	5	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: EARLY DROP DEADLINE (END OF 2ND WEEK) APPLIES; Enroll in Spanish 4 if you have more than 4 years of high school Spanish or received a 4 on the AP Spanish language exam. 
+86193  	P  21	001 LEC  	MWF 11-12P  	263 DWINELLE  	Spanish for Bilingual Students, First Course	3	THE STAFF	2	BY CATEGORY
+86199  	P  24	001 SEM  	W 11-12P  	5125 DWINELLE  	Freshman Seminars	1: PF	AZEVEDO, M M	TBA	FR ; CURRENTLY FULL
+ 	 	 	Note: "Talking Funny: Language Variation in Spanish and English Literary Texts" 
+86201  	P  24	002 SEM  	M 2-3P  	104 DWINELLE  	Freshman Seminars	1: PF	BRIZUELA, N	TBA	FR ; CURRENTLY FULL
+ 	 	 	Note: "Latin American Photography" 
+86202  	P  25	001 LEC  	MWF 8-9A  	105 DWINELLE  	Reading and Analysis of Literary Texts	3	THE STAFF	4	BY CATEGORY
+ 	 	 	Note: Enroll in Spanish 25 if you have received a 5 on the AP Spanish language exam. This course has a prerequisite of Spanish 4 or Spanish 22. It is required for anyone wishing to major or minor in Spanish, including heritage speakers. 
+86211  	P  25	004 LEC  	MWF 11-12P  	258 DWINELLE  	Reading and Analysis of Literary Texts	3	THE STAFF	2	BY CATEGORY
+ 	 	 	Note: Enroll in Spanish 25 if you have received a 5 on the AP Spanish language exam. This course has a prerequisite of Spanish 4 or Spanish 22. It is required for anyone wishing to major or minor in Spanish, including heritage speakers. 
+86214  	P  25	005 LEC  	MWF 12-1P  	258 DWINELLE  	Reading and Analysis of Literary Texts	3	THE STAFF	18	BY CATEGORY
+ 	 	 	Note: Enroll in Spanish 25 if you have received a 5 on the AP Spanish language exam. This course has a prerequisite of Spanish 4 or Spanish 22. It is required for anyone wishing to major or minor in Spanish, including heritage speakers. 
+86217  	P  25	006 LEC  	MWF 1-2P  	205 DWINELLE  	Reading and Analysis of Literary Texts	3	THE STAFF	12	BY CATEGORY
+ 	 	 	Note: Enroll in Spanish 25 if you have received a 5 on the AP Spanish language exam. This course has a prerequisite of Spanish 4 or Spanish 22. It is required for anyone wishing to major or minor in Spanish, including heritage speakers. 
+86223  	P  98	002 GRP  	W 6-8P  	247 DWINELLE  	Directed Group Study	1-4: PF	SLATER, C	NONE	
+86226  	P  98	003 GRP  	W 4-5P  	262 DWINELLE  	Directed Group Study	1-4: PF	SAUM PASCUAL, A	NONE	
+86229  	P  100	001 LEC  	MWF 11-12P  	105 DWINELLE  	Introduction to Spanish Linguistics	3	MCFARLAND, T A	2	BY CATEGORY
+ 	 	 	Note: Participants must be currently enrolled UC Berkeley students (concurrent enrollment is okay if there is space); no auditors. 
+86231  	P  100	002 LEC  	MWF 9-10A  	79 DWINELLE  	Introduction to Spanish Linguistics	3	THE STAFF	16	
+86232  	P  102A	001 LEC  	MWF 9-10A  	242 DWINELLE  	Advanced Grammar and Composition	3	ROBERTSON, V M	16	BY CATEGORY
+ 	 	 	Note: Prerequisite: Spanish 25 
+86237  	P  102C	001 SEM  	MWF 10-11A  	205 DWINELLE  	Advanced Writing Workshop	3	BARILI, A R	1	
+ 	 	 	Note: Volunteering, Global Education and Good Writing 
+86238  	P  104A	001 LEC  	MWF 12-1P  	79 DWINELLE  	Survey of Spanish American Literature	3	THE STAFF	18	BY CATEGORY
+ 	 	 	Note: "Representaciìn, apropiaciìn, y continuidad del mundo colonial (siglos 16 al 18)" 
+86241  	P  107A	001 LEC  	TuTh 930-11A  	229 DWINELLE  	Survey of Spanish Literature	3	ROBERTSON, V M	7	BY CATEGORY
+86246  	P  135	001 LEC  	TuTh 1230-2P  	5125 DWINELLE  	Studies in Hispanic Literature	3	DOMINGUEZ, D	17	BY CATEGORY
+ 	 	 	Note: "The Cuban Revolution: Literature, Culture & Politics" 
+86250  	P  135	003 LEC  	TuTh 1230-2P  	205 DWINELLE  	Studies in Hispanic Literature	3	BERGMANN, E L	17	BY CATEGORY
+ 	 	 	Note: "Literature, Film & the Politics of Childhood" 
+86253  	P  135	004 LEC  	MWF 10-11A  	234 DWINELLE  	Studies in Hispanic Literature	3	BRIZUELA, N	1	BY CATEGORY
+ 	 	 	Note: "Juan Rulfo" 
+86259  	P  135	006 LEC  	TuTh 330-5P  	187 DWINELLE  	Studies in Hispanic Literature	3	DOMINGUEZ, D	20	BY CATEGORY
+ 	 	 	Note: "Costumbrismo in the Americas & in the Caribbean" 
+86271  	P  135W	002 LEC  	TuTh 930-11A  	189 DWINELLE  	Studies in Hispanic Literature - Writing Intensive	3	TARICA, E C	7	BY CATEGORY
+ 	 	 	Note: "Vanguardias hispanoamericanas" 
+86274  	P  161	001 LEC  	MWF 1-2P  	228 DWINELLE  	Spanish Phonetics and Phonology	3	MCFARLAND, T A	12	BY CATEGORY
+86361  	P  198	002 GRP  	W 6-8P  	247 DWINELLE  	Supervised Group Study	1-4: PF	SLATER, C	NONE	JR, SR
+86364  	P  198	003 GRP  	W 4-5P  	262 DWINELLE  	Supervised Group Study	1-4: PF	SAUM PASCUAL, A	NONE	JR, SR
+86367  	P  198	004 GRP  	W 2-3P  	5125 DWINELLE  	Supervised Group Study	1-4: PF	DEL VALLE, I	NONE	JR, SR
+86379  	P  200A	001 LEC  	F 1-230P  	5125 DWINELLE  	Spanish Proseminar	1: SU	IAROCCI, M	NONE	GR
+86388  	P  280	001 SEM  	Th 2-5P  	5125 DWINELLE  	Seminar in Spanish American Literature	4	TARICA, E C	NONE	
+ 	 	 	Note: "Indigenismo" 
+86391  	P  280	002 SEM  	W 3-6P  	211 DWINELLE  	Seminar in Spanish American Literature	4	DEL VALLE, I	NONE	
+ 	 	 	Note: "Tecnologia y Colonizacion" 
+86397  	P  285	001 SEM  	Th 3-6P  	210 DWINELLE  	Seminar in Spanish Literature	4	SAUM PASCUAL, A	NONE	
+86402  	P  285	003 SEM  	Tu 3-6P  	211 DWINELLE  	Seminar in Spanish Literature	4	BERGMANN, E L	NONE	
+ 	 	 	Note: Poetics of the Transatlantic Baroque: Sor Juana, Severo Sarduy, & Jos© Lezama Lima Read Gìngora 
+SEE DEPT  	P  302	001 IND  	F 2-5P  	5125 DWINELLE  	Practicum in College Teaching of Spanish and Portug...	3-6: SU	HERNANDEZ-RODRIGUE	NONE	
+86529  	P  375	001 LEC  	MW 1-230P  	5125 DWINELLE  	Teaching Spanish in College	3: SU	HERNANDEZ-RODRIGUE	NONE	
+
+PORTUGUESE
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+86603  	P  24	001 SEM  	Th 2-3P  	262 DWINELLE  	Freshman Seminar	1: PF	SLATER, C	TBA	FR ; CURRENTLY FULL
+ 	 	 	Note: "Hello Brazil: Literature, Arts, Society" - An introduction to Brazil - no Portuguese required. 
+86612  	P  101A	003 LEC  	MWF 12-1P  	105 DWINELLE  	Portuguese for Advanced Students	3	THE STAFF	10	BY CATEGORY
+ 	 	 	Note: Prerequisites: Knowledge equivalent to two college years of Spanish language or consent of instructor. This is an introductory course for students with no previous study of Portuguese, designed to introduce the basics of the language, through readings in a variety of fields. Students must enroll concurrently in a section of 101B. The combination of 101A-101B constitutes an intensive introduction to Portuguese and prepares the student for further upper division language course work. 
+86615  	P  101A	004 LEC  	MWF 1-2P  	187 DWINELLE  	Portuguese for Advanced Students	3	THE STAFF	10	
+ 	 	 	Note: Prerequisites: Knowledge equivalent to two college years of Spanish language or consent of instructor. This is an introductory course for students with no previous study of Portuguese, designed to introduce the basics of the language, through readings in a variety of fields. Students must enroll concurrently in a section of 101B. The combination of 101A-101B constitutes an intensive introduction to Portuguese and prepares the student for further upper division language course work. 
+86621  	P  101B	002 WOR  	TuTh 10-11A  	223 DWINELLE  	Portuguese for Advanced Students: Workshop	2	CARVALHO PINHEIRO,	19	BY CATEGORY
+ 	 	 	Note: Portuguese 101B is a language skills workshop designed to complement 101A; enrollment must be concurrent with that course. There is an emphasis on understanding, speaking, and writing Portuguese. 
+86627  	P  102	001 LEC  	MWF 11-12P  	205 DWINELLE  	Readings in Portuguese	3	DONOVAN, C F	2	BY CATEGORY
+86630  	P  103	001 LEC  	MWF 12-1P  	205 DWINELLE  	Advanced Grammar and Composition	3	DONOVAN, C F	18	BY CATEGORY
+86636  	P  135	001 LEC  	MWF 10-11A  	243 DWINELLE  	Studies in Luso-Brazilian Literature	3	CARVALHO PINHEIRO,	1	
+ 	 	 	Note: "Short Stories in Portuguese" 
+86639  	P  135	002 LEC  	TuTh 1230-2P  	258 DWINELLE  	Studies in Luso-Brazilian Literature	3	SLATER, C	17	
+ 	 	 	Note: "Translating Brazil: Brazilian Literature & Culture" 
+86678  	P  375	001 SEM  	MW 1-230P  	5125 DWINELLE  	Teaching Portuguese at Berkeley	3: SU	DONOVAN, C F	NONE	
+
+STATISTICS
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+87363  	P  20	001 LEC  	TuTh 930-11A  	155 DWINELLE  	Introduction to Probability and Statistics	4	D'ABRERA, H M	7	
+87636  	P  153	001 LEC  	TuTh 1230-2P  	160 DWINELLE  	Introduction to Time Series	4	BRUNA ESTRACH, J	17	
+87732  	P  201A	001 LEC  	MWF 10-12P  	160 DWINELLE  	Introduction to Probability at an Advanced Level	4	PITMAN, J W	TBA	GR & BY CATEGORY
+ 	 	 	Note: This is a seven week course beginning Wednesday, August 26, and ending October 16, 2015. All student enrollments will be subject to instructor drop the first week of classes. The final exam will be held on Friday, October 16, 2015. 
+87741  	P  201B	001 LEC  	MWF 10-12P  	160 DWINELLE  	Introduction to Statistics at an Advanced Level	4	SUN, Y	1	GR & BY CATEGORY
+ 	 	 	Note: This is a seven week course beginning Monday, October 19, and ending December 4, 2015. The final exam will take place during the regular Final Exam Week. All student enrollments will be subject to instructor drop the first week of classes. 
+87804  	P  C247C	001 LEC  	TuTh 11-1230P  	209 DWINELLE  	Longitudinal Data Analysis	4	JEWELL, N P	NONE	BY CATEGORY
+ 	 	 	Note: Cross-listed with Public Health C242C section 1. 
+
+THEATER, DANCE, AND PERFORMANCE ST
+ 	Control
+Number  	Course
+Number  	Section	Day-Hour	Room	Course Title	Unit
+Credit  	Instructor	Exam
+Group  	Restrictions
+88103  	P  R1A	001 LEC  	TuTh 930-11A  	235 DWINELLE  	Performance: Writing and Research	4	KWAN, S	NONE	CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Languages in the Theater: Multilingual Plays of Canada and the US 
+88109  	P  R1A	003 LEC  	TuTh 1230-2P  	89 DWINELLE  	Performance: Writing and Research	4	KWAN, S	NONE	CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Performance on the Global Stage 
+88115  	P  R1A	005 LEC  	TuTh 330-5P  	262 DWINELLE  	Performance: Writing and Research	4	KWAN, S	NONE	CURRENTLY FULL
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; "Queer Disability Studies" 
+88118  	P  R1A	006 LEC  	TuTh 8-930A  	235 DWINELLE  	Performance: Writing and Research	4	KWAN, S	NONE	
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Writing Movements 
+88121  	P  R1B	001 LEC  	TuTh 930-11A  	89 DWINELLE  	Performance: Writing and Research	4	KWAN, S	NONE	
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; Your Silence Will Not Protect You: Feminism, Literature, and Performance 
+88124  	P  R1B	002 LEC  	TuTh 11-1230P  	235 DWINELLE  	Performance: Writing and Research	4	THE STAFF	NONE	BY CATEGORY
+ 	 	 	Note: SATISFIES READING AND COMPOSITION REQUIREMENT; "Writing About Performance" 
+88157  	P  26	001 LEC  	MWF 9-10A  	160 DWINELLE  	Introduction to Performance Studies	4	DE KOSNIK, A T	16	
+88160  	S  26	101 DIS  	Th 8-9A  	105 DWINELLE  	Introduction to Performance Studies		JOHNSON, P M		
+88184  	P  60	001 LEC  	MWF 12-1P  	88 DWINELLE  	Introduction to Technical Theater and Production	4	KUMARAN, L	18	
+88226  	P  121	002 LEC  	TuTh 11-1230P  	182 DWINELLE  	Performance and Culture	4	BELMAR, S V	9	
+ 	 	 	Note: "Race, Gender, and Embodiment on the American Stage and Screen" 
+88228  	P  122	001 LEC  	MW 4-530P  	88 DWINELLE  	African Theater and Performance	4	COLE, C M	13	
+88229  	P  125	001 LEC  	TuTh 930-11A  	182 DWINELLE  	Performance and History	4	MARINO, A	7	
+ 	 	 	Note: "Theater and Revolutions" 
+88235  	P  126	002 LEC  	TuTh 2-330P  	182 DWINELLE  	Performance Literatures	4	MUZA, A	5	
+ 	 	 	Note: "Chekhov" 
+SEE DEPT  	P  166	002 LEC  	M 12-2P  	126 DWINELLE AN  	Special Topics: Theater Arts	2	BELMAR, S V	18	
+ 	 	 	Note: Undergraduate Research Seminar. Required for students doing Honors Thesis. Highly recommended for students planning on future honors thesis, independent study, or capstone project. Interested students email Dr. Belmar at simabelmar@berkeley.edu, indicating your name, year, major/minor, phone number, email. 
+88286  	P  172	001 LEC  	MWF 930-11A  	126 DWINELLE AN  	Advanced Production Study	4	KUMARAN, L	13	
+88403  	P  200A	001 COL  	Tu 930-1130A  	126 DWINELLE AN  	Introductory Colloquium on Interdisciplinary Resear...	2	KWAN, S	NONE	GR & GRAD DIV PERFORMANCE STUDIES & BY CATEGORY
+88406  	P  202	001 SEM  	Th 1-4P  	126 DWINELLE AN  	Methodologies in Performance Studies	4	MARINO, A	NONE	GR
+
+
+Total: 981 
+
+	© 2003, 2015, The Regents of the University of California. All Rights Reserved.
