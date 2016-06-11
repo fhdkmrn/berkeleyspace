@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Propositional Logic Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Propositional Logic Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. Suppose P(k) ---> P(k+2) <br>
+Answer A for always true, N for never true, or C for can be true. <br>
+&nbsp; &nbsp;a. P(0) =⇒ ∀n P(n+2) <br>
+&nbsp; &nbsp;b. P(n) =⇒ [∃m > n s.t P(m)] <br>
+&nbsp; &nbsp;c. (∀n ≤ 10, P(n))∧(∀n > 10 , ¬P(n)) <br>
+&nbsp; &nbsp;d. ∃n∃m > n s.t [P(2n)∧ ¬P(2m)] <br>
+&nbsp; &nbsp;e. P(0) =⇒ ∀n P(n+1)
+</p>
+
+    <div class="sol"> <pre><span class="solution-prompt">a. C
+b. A
+c. N
+d. N
+e. C   </pre></span></div>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. True or False:  (∀n ∈ N)(P(n) =⇒ Q(n)) =⇒ (¬∃n ∈ N)(Q(n) =⇒ ¬P(n)) for all P,Q? Explain. 
+    <div class="sol2"> <pre><span class="solution-prompt">False, suppose P(n) and Q(n) are both false for all n. </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. True or False: ∀x (P(x)∧Q(x)) is equivalent to (∀x,P(x))∧(∀x,Q(x)). Explain. </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">True. Recall that to prove A ⇔ B, we have to prove both A ⇒ B and B ⇒ A.
+Suppose the first statement ∀x (P(x)∧ Q(x)) is true. This means for all x, P(x)∧ Q(x) is true, so P(x)
+and Q(x) are both true. Thus, the statement (∀x, P(x)) is true, and similarly the statement (∀x, Q(x)) is
+true, so the conjunction (∀x,P(x))∧(∀x,Q(x)) is true.
+Conversely, suppose the second statement (∀x,P(x))∧(∀x,Q(x)) is true. This means for all x, both P(x)
+is true and Q(x) is true, which implies P(x)∧ Q(x) is true. Thus, the first statement ∀x (P(x)∧ Q(x)) is
+true. This completes the proof of the equivalence </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

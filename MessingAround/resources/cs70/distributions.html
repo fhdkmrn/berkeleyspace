@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Discrete Distributions Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Discrete Distributions Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+      <p id="problems">1. Suppose Alex encodes 40 packets of data into 100 packets to transmit to bob, using error correction as we have already described in class. What is the probability that Bob can recover the data? </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">It is important to notice that this is a Binary Distribution, where X = Bin(100, .5). Hence, we know we can tolerate 60 packets lost, so we must find the Pr[X<=60] = &sum; i=0 to 60 of (100 choose i) * .5<sup>i</sup> * .5<sup>100-i</sup> = &sum; i=0 to 60 of (100 choose i) * .5<sup>100</sup>.  </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Name the following types of distributions: <br>
+    &nbsp;  &nbsp; a. The amount of people that punch a tree before it breaks in half. <br>
+   &nbsp;  &nbsp;  b. The number of girls in a family. <br>
+    &nbsp;   &nbsp; c. The number of heads in 421 coin flips. <br>
+    &nbsp;  &nbsp; d. The number of dogs James sees on campus between 1 pm and 4 pm. <br>
+   &nbsp; &nbsp;    e. Number of red lights Natasha runs through on her commute to and from school. <br>
+     &nbsp; &nbsp; f. The amount of times I need to message Santa Clause before he responds. 
+    <div class="sol2"> <pre><span class="solution-prompt">a. Geometric
+b. Binomial
+c. Binomial
+d. Poisson
+e. Poisson
+f. Geometric  </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. A normal textbook barely ever has a misprint in it. Assume, on average, a textbook as one mispring per page. What is the chance that you see exactly 4 misprings on the first page?</p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">We can model this using a poisson distribution with a mean of 1. Hence, Pr[exactly 4] = 1<sup>4</sup> * e<sup>-1</sup> / 4! = 1/(4!e). </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

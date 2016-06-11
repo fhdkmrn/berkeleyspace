@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Modular Arithmetic Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Modular Arithmetic Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. What is the invrese of 7 mod 48 (if it exists). </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">7. Notice that 7 *7 = 49 = 1 mod 48, which is the requirement for the inverse. </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Let p, q be distinct prime numbers. Prove that p<sup>q-1</sup> + q<sup>p-1</sup> = 1 (mod pq)</p> 
+    <div class="sol2"> <pre><span class="solution-prompt">Since p,q are unequal prime numbers, we know that gcd(p,q) = 1. So, we can apply fermat's little theorem both ways. 
+
+First, p<sup>q-1</sup> = 1 (mod q) by Fermat's little theorem, and q<sup>p-1</sup> = 0 (mod q), so their sums are equal to 1 (mod q). 
+
+Moreover, by a similar argument as above but by switching the roles of p and q, we get that p<sup>q-1</sup> + q<sup>p-1</sup> = 1 (mod p).
+
+Now, we get that p<sup>q-1</sup> + q<sup>p-1</sup> - 1 is divisible by both p and q and, since p and q are relatively prime, we know that the above equation is divisble by pq. Now, we have that p<sup>q-1</sup> + q<sup>p-1</sup> - 1 = 0 (mod pq), and adding 1 to both sides of the equation gets us what we are trying to prove.  </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Disprove one of Euler's conjectures. Show that there is some positive integer <var>n</var> such that 133<sup>5</sup> + 110<sup>5</sup> + 84<sup>5</sup> + 27<sup>5</sup> = n<sup>5</sup>. </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">We're looking for some n, so it will be extremely useful to find some remainders n has after certain divisions. 
+
+To begin, let's look at the equation mod 5, keeping in mind Fermat's Little Theorem which claims that n<sup>5</sup> is n (mod 5). Taking each value mod 5, we get 3 + 0 + 4 + 7 = n (mod 5), so 4 = n (mod 5). We now that n has a remainder of 4 when divided by 5. 
+
+Continuing, let's look at the equation mod 3. We get 1 + 2 + 0 + 0 = n<sup>5</sup> (mod 3), so 0 = n (mod 3). We now know that n is perfectly divisible by 3. 
+
+By inspection, it n must be either 144 or 174. From there, we see that 175 is too large to satisfy the original equation, so we conclude that n = 144.</span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Polynomials and Error Correcting Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Polynomials and Error Correcting Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. You would liek to send a message of length n over a channel. You know that, at most, k packets may be dropped along the way and of the packets not dropped, at most j may be corrupted. How many packets do we need to send in order to guarentee a successful decoding? Why?</p>
+
+    <div class="sol"> <pre><span class="solution-prompt">We must send n + k + 2j packets. Let's say the worst thing happens and all k possible packets are dropped and all j packets are corrupted. We ned to send k extra packets in order to protect from the erasure errors, and then 2j more packets to protect from general errors. </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. How many different polynomials of degree <var>d</var> over GF(p) are there if we know k values, where k <= d?</p> 
+    <div class="sol2"> <pre><span class="solution-prompt">p<sup>d+1-k</sup>. We need d+1 points to make the polynomial, and if we know 0 points, then every point can be anything in the span of p. As soon as we start finding more points, the amount of non-fixed points becomes less and less, until k = d+1, where we are left with one polynomial.</span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Secret sharing is a crucial application of Polynomials. We have 4 TAs and 14 readers, and we want to share a secret among them such that either 2 or more TAs, at least 1 TA and at least 2 readers, or at least 4 readers can reconstruct the secret. Describe such a scheme. </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">A TA is essentially 2 readers, so if we make a polynomial of degree 3 such that P(0) is the secret, each reader gets one point while each TA gets 2 points. This will be a perfect scheme. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

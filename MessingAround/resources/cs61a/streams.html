@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Streams Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Streams Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.
+
+      Moreover, for this section, we will be using the scheme version of streams taught in Fall 2015.</p>
+
+      <p id="problems">1. Answer the following questions:<br>
+      &nbsp; &nbsp; a. Why do we use streams?<br>
+      &nbsp; &nbsp; b. How large can a stream be?<br>
+      &nbsp; &nbsp; c. When does a value of a stream get computed?</p>
+
+    <div class="sol"> <pre><code><span class="solution-prompt">a. Lazy Computation
+b. Infinitely large
+c. Once that specific section of the stream is called.  </span></code></pre></div>
+    <div class="q"><pre><code><span class="solution-p">"YOUR ANSWERS HERE"</span></code></pre></div>  
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. I have a scheme list of items, each of which is a scheme list of length two, the first element being the name of the number, the second is the string “naughty” or “nice”. Help implement Santas Nice-Or-Naughty stream, which is just a stream of name of the <strong>nice</strong> numbers. Because Santa is infinitely giving, the stream should be infinite and loop around. Assume the list is non-empty and contains atleast one nice element because not everyone is evil.  </p> 
+    <div class="sol2"> <pre><code><span class="solution-prompt">(define (norn lst)
+    (if (= (car (cdr (car lst))) ‘nice) (cons-stream (car (car lst)) 
+    (norn (append (cdr lst) (list (car lst)))) (norn (cdr lst)) </span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">(define (norn lst)
+"""
+(car lst) is a scheme lst of two items, the first being a number and the second being nice or naughty, e.g: ('nine', 'naughty'). 
+(norn '(('nine', 'nice'), ('seven', 'naughty'))) should return a Stream with 'nine' in it forever. 
+"""
+    </div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+</body>
+</html>

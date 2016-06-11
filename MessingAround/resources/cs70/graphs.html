@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Graph Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Graph Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. A Hamiltonian path in an undirected graph G = (V,E) is a path that goes through every vertex exactly once. A Hamiltonian cycle (or Hamiltonian tour) is a cycle that goes through every vertex exactly once. Note that, in a graph with n vertices, a Hamiltonian path consists of n−1 edges, and a Hamiltonian cycle consists of n edges. Prove that for every n ≥ 2, the n-dimensional hypercube has a Hamiltonian cycle. </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">Base case: n=2, a two dimensional hypercube is just a square, so we can just take a clockwise path from any specific vertex. 
+
+Inductive Hypothesis: Assume this is true for all dimensions up to n-1. 
+
+Inductive step: Suppose now that every (n − 1)-dimensional hypercube has an Hamiltonian cycle. Let v ∈ {0,1}<sup>n−1</sup> be a vertex adjacent to 0<sup>n−1</sup> (the notation 0<sup>n−1</sup> means a sequence of n−1 zeroes) in the Hamiltonian cycle in a (n−1)-dimensional hypercube. The following is a Hamiltonian cycle in an n-dimensional hypercube: have a path that goes from 0 n to 0v by passing through all vertices of the form 0x (this is simply a copy of the Hamiltonian path in dimension (n−1), minus the edge from v to 0 n−1 ), then an edge from 0v to 1v, then a path from 1v to 10<sup>n−1</sup> that passes through all vertices of the form 1x, and finally an edge from 10<sup>n−1</sup> to 0<sup>n</sup> </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. A tournament is defined to be a directed graph such that for every pair of distinct nodes v and w, exactly one of (v,w) and (w, v) is an edge (representing which player beat the other in a round-robin tournament). Prove that every tournament has a Hamiltonian path. In other words, you can always arrange the players in a line so that each player beats the next player in the line.</p> 
+    <div class="sol2"> <pre><span class="solution-prompt"> Base case: With either 0 players or 1 player, the base case trivially holds. 
+
+
+Induction Hypothesis: Assume that this is true for all values less than or equal to n-1.  
+
+Inductive Step: Let's look at a tournament with n players and take on specific player. Take this player out of the game and create two sets: one which beat this player and one who this player beat. By the induction hypothesis, we can arrange both of these sets so that each player beats the next player. Now, place our current player between the last person in the set who beat our current player and the first person in the set who our current player beat. We now have a directed graph in which every player beats the next person in the line for n players, and hence, by induction, it is true for all n. </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Show that every simple finite graph has two vertices of the same degree.</p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">This can be shown using the pigeon hole principle. Assume that the graph has n vertices. Each of those vertices is connected to either 0, 1, 2, . . . , n − 1 other vertices. If any of the vertices is connected to n − 1 vertices, then it is connected to all the others, so there cannot be a vertex connected to 0 others. Thus it is impossible to have a graph with n vertices where one is vertex has degree 0 and another has degree n − 1. Thus the vertices can have at most n − 1 different degrees, but since there are n vertices, at least two must have the same degree. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

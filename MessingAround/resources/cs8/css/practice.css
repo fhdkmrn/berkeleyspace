@@ -1,0 +1,69 @@
+body {
+	background: url(tweed.png) repeat 0 0;
+}
+
+.navbar-default {
+	background: url(tweed.png) repeat 0 0;
+}
+
+
+
+#smaller {
+	font-size: 100%;
+	color: #C0C0C0;
+}
+
+#header {
+	font-family: 'Bree Sarif', serif;
+	color: #C0C0C0;
+}
+
+#main {
+	font-family: 'Alegraya Sans', serif;
+	color: #C0C0C0;
+}
+
+h1 {
+	font-size: 400%;
+}
+
+#main {
+	font-size: 200%;
+}
+
+#larger {
+	font-size: 175%;
+	color: #008B8B;
+}
+
+.sol {
+	display: none;
+}
+
+.sol2 {
+	display: none;
+
+}
+
+.sol3 {
+	display: none;
+}
+
+.solution-toggle-p, .solution-toggle-p2 {
+	margin-bottom: 20px;
+}
+
+#problems {
+	margin-top: 20px;
+	font-size: 125%;
+	color: #C0C0C0;
+}
+
+.solution-toggle-p3 {
+	margin-bottom: 20px;
+}
+
+td {
+	font-size: 130%;
+	color: #C0C0C0;
+}

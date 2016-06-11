@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>RSA Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">RSA Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. Why do we never let e be equal to 2?</p>
+
+    <div class="sol"> <pre><span class="solution-prompt">We know that d = e<sup>-1</sup> mod (p-1)(q-1). For this to happen, we need GCD(e, (p-1)(q-1)) to be equal to 1. If we let e = 2, then we need for GCD(2, (p-1)(q-1)) = 1, which means (p-1)(q-1) must be odd. For this to happen, both p-1 and q-1 must be odd, making p,q both even. We know importantly, however, that the RSA method requires p and q to be primes, and the only even prime is 2. As we have determined what p and q must be, we can now solve for d, breaking the RSA system. </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. What is 2<sup>147</sup> mod 21?</p> 
+    <div class="sol2"> <pre><span class="solution-prompt">8. From our proofs about RSA, we learned that x<sup>(p-1)(q-1)</sup> = 1 mod (pq). Here, it's easy to tell that p = 7 and q = 3, so (p-1)(q-1) = 12. We notice that, 2<sup>147</sup> = 2<sup>12(12)</sup>2<sup>3</sup> = 1<sup>12</sup>2<sup>3</sup> = 2<sup>3</sup> = 8. </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Jack is sending Tommy a message with RSA. The public key is 3, while N is 55. What is the value of d that Tommy must use to decrypt the message? </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">If N = 55, then p = 5 and q = 11, as these are the only two primes whose product is equal to 55. 
+
+Next, we want d = e<sup>-1</sup> mod (p-1)(q-1). To do this, we must run the extended-gcd algorithm. 
+
+  1 = 40 - 3(13)
+  1 = 40(1) + 3(-13)
+
+So, d = -13, which, mod 40, is 27. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

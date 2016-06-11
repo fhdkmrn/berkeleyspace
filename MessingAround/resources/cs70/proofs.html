@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Proofs Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Proofs Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. Prove or disprove the following statement: If every even number greater than 2 is the sum of 2 prime numbers, then every odd numbers greater than 7 is the sum of 3 prime numbers. </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">Let <var>x</var> be an odd natural number greater than or equal to 7. Then, x - 3 is an even number which is greater than x. As we know that every even natural number greater than 2 is the sum of two primes, we know that we can represent x as the sum two prime numbers that add to x-3 and 3 which, itself, is a prime number.   </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Prove of disprove the following statement: If n is a positive integer such that n / 3 leaves a remainder of 2, then n is not a perfect square. </p> 
+    <div class="sol2"> <pre><span class="solution-prompt"> This is easiest done by looking at the contrapositive of the statement. We shall prove that if n is a perfect square, then n / 3 does not leave a remainder of 2. 
+
+Any number divided by 3 can only have a remainder of 0, 1, or 2. Let's examine every case. 
+
+Case 1: Let's say n = (3m)^2, where m is some integer, then n = 9m^2, which is divisible by 3 and leaves no remainder. 
+
+Case 2: Let's say n = (3m + 1)^2, then n = 9m^2 + 6m + 1, which is equal to 3(3m^2 + 2m)+1, which is a number divisible by 3 plus one. Hence, when we take n to be this number and divide it by 3, we will have a remainder of 1. 
+
+Case 3: Let's say n = (3m + 2)^2, then n = 9m^2 + 12m + 4, which is equal to 3(3m^2 + 4m + 1) + 1, which is a number divisibly by 3 plus 1. When we set n to be this number and divide it by 3, we obtain a remainder of 1.
+
+Hence, in every case, we either obtain a remainder of 0 or a remainder of 1, but never a remainder of 2. We have proven the contrapositive to be true and hence, the original statement is True.  </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Assume we have a circular race track with n cars distributed randomly, each of which is stationary. Assume that, distributed randomly among the cars is enough gas for one car to get around the track. Prove that there exists one car which can reach the next car. </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">Proof by contradiction: Assume one car needs D fuel in order to get around the whole track. If, for the sake of contradiction, no car can reach the next car on the track, then this means that the total fuel available is less than D, as the sum of all distances between the cars should be the distance of the whole track. Contradiction, and hence, there must exist atleast one car that can get to the next car along this track.  </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>
