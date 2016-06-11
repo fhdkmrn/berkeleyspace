@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Continous Probability Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Continous Probability Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+      
+      <p id="problems">1. Suppose we have F(x) = ce<sup>g|x|</sup> for a continous random variable x, with x ranging from -oo to +oo. What values can g take on for this to be a valid probability density function? </p>
+
+    <div class="sol"> <pre><span class="solution-prompt"> First, let's note that c doesn't matter too much for this question. We should also know that the area under the curve of the probability density function in the range given must be 1. But, this area will be infinite if e is raised to any positive power or 0, hence, g must be less than 0 in order to prevent this.  </pre></span></div>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Consider the following game. Spin a wheel and wait until it comes to rest at some x between 0 and 359. The amount of money won is x/36 - 6 dollars. Let Y be a random variable for your winnings. First, define a probability density function. From there, calculate the expectation and variance. 
+    <div class="sol2"> <pre><span class="solution-prompt">For the probability density function, we know that the area under the curve must be 1. We know that we can either lose a maximum of -6 dollars or win a maximum of ~4 dollars, so our random variable Y can only range in between there. What will be the value at those points? We have 10 values and we need the area of this rectangle to be 1, so f(y) is 1/10 in this area between -6 <= y <= 4, and 0 elsewhere. 
+
+Expectation: &int; from -oo to oo of yf(y)dx which is actually &int; from -6 to 4 of y/10dy, which evaluates to 1/20 * (16-36) = -1. 
+
+Variance: &int; from -oo to oo of (y-E[Y])<sup>2</sup>f(y)dy which is actually &int; from -6 to 4 of (y+1)<sup>2</sup>/10 dy which evaluates to 1/30 * (125+125) = 25/3.</span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Suppose a brand new lightbulb has been installed in a classroom, and its lifespan is exponentially distributed with a mean of 50 days. What is the probability that the lightbulb will be broken in 30 days?</p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">Let X be the lifespan of the lightbulk. The parameter &lambda; is 1/mean, which is 1/50. Hence, Pr[X < 30] = &int; from 0 to 30 of 1/50 * e<sup>-x/50</sup>dx, which simplifies to 1-e<sup>-30/50</sup>. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Countability and Computability Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Countability and Computability Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. Prove that the set of all programs is countably infinite. </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">Take any language that is complete. The length of a program in that language is finite, so it can be expressed as a finite bitstring. The set of all finite bit strings is countably infinite, and the set of all programs isn't any bigger than this, so the set of all programs is a subset of this. Hence, the set of all programs is countably infinite. </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Prove this by a combinatorial argument. 
+      &sum; from k=0 to n of k*(n choose k) = n2<sup>n-1</sup></p> 
+    <div class="sol2"> <pre><span class="solution-prompt">The RHS says from n people, pick one person (n options), and then pick some, possibly empty, subset of other people. 
+
+The LHS says to first pick k people on the team, and then from the k people, pick the leader from them.
+
+These are two different ways of doing the same thing, and hence, they are equal.  </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Show that the deadcoe problem is undecideable. The problem is: given a program P, an inpux x, and a line n in P, does P on input x ever execute line n? </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">Let's reduce this to the halting problem. Let's say that given any program, we replace the instruction corresponding to half with go to the the last lien of the program. If we can solve the deadcode problem, we can see if we ever get to this line and, if the problem says we do, we know whether or not the program halts. This would solve the halting problem. 
+
+The halting probolem, however, is undecideable, so, the deadcode problem must be undecideable as well.  </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

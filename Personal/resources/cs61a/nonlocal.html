@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nonlocal and Environment Diagrams</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Nonlocal and Environment Diagrams Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Fill out a full environment diagram for the the following block of code.</p>
+      <pre><code>minions = [1,2,3,4]
+minions.append(minions)
+banana = lambda x, y: x ** y
+def kevin(banana):
+    tim = 2
+    if banana > 5:
+        tim += banana(3,4)
+    else:
+        tim += bob(5)()
+    return tim
+def bob(banana): 
+    def scarlett():
+        nonlocal banana
+        if banana == 5:
+            banana = max(banana, 12)
+        return -1
+    return scarlett
+stuart = kevin(banana(5, minions[4][0]))</code></pre>
+    <div class="sol"> <pre><code><span class="solution-prompt"><iframe width="1100" height="600" frameborder="0"  src="http://pythontutor.com/iframe-embed.html#code=minions+%3D+%5B1,2,3,4%5D%0Aminions.append(minions%29%0Abanana+%3D+lambda+x,+y%3A+x+**+y%0Adef+kevin(banana%29%3A%0A++++tim+%3D+2%0A++++if+banana+%3E+5%3A%0A++++++++tim+%2B%3D+banana(3,4%29%0A++++else%3A%0A++++++++tim+%2B%3D+bob(5%29(%29%0A++++return+tim%0Adef+bob(banana%29%3A+%0A++++def+scarlett(%29%3A%0A++++++++nonlocal+banana%0A++++++++if+banana+%3D%3D+5%3A%0A++++++++++++banana+%3D+max(banana,+12%29%0A++++++++return+-1%0A++++return+scarlett%0Astuart+%3D+kevin(banana(5,+minions%5B4%5D%5B0%5D%29%29&origin=opt-frontend.js&cumulative=true&heapPrimitives=false&textReferences=false&py=3&rawInputLstJSON=%5B%5D&curInstr=0&codeDivWidth=350&codeDivHeight=400"> </iframe> </span></code></pre></div>    
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Implement a function which returns a function that applies a passed in f, which takes in one argument, son a true valued variable x everytime it is called. Return this new value of x or, if this value of x returns a false value, reset x to be what it began as so that the value of x is always true.</p> 
+    <div class="sol2"> <pre><code><span class="solution-prompt">def always_true(f, x):
+  """Implement a non generator function which will return a function which keeps outputting the value of f applied onto x, or reset x back to its original state if it turns false. 
+  >>>new = always_true(lambda x: x-1, 3)
+  >>>new()
+  2
+  >>>new()
+  1
+  >>>new()
+  3
+  """
+  start = x
+  def inner():
+      nonlocal x
+      x = f(x)
+      if not x:
+          x = start
+      return x
+  return inner</span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">def always_true(f, x):
+  """Implement a non generator function which will return a function which keeps outputting the value of f applied onto x, or reset x back to its original state if it turns false. 
+  >>>new = always_true(lambda x: x-1, 3)
+  >>>new()
+  2
+  >>>new()
+  1
+  >>>new()
+  3
+  """
+  "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Induction Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Induction Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. Bob the Bug is on a window, trying to escape Sally the Spider. Sally has built her web from the ground to 2
+inches up the window. Every second, Bob jumps 1 inch vertically up the window, then loses grip and falls
+to half his vertical height.
+Prove that no matter how high Bob starts up the window, he will always fall into Sally’s net in a finite number
+of seconds.</p>
+
+    <div class="sol"> <pre><span class="solution-prompt">Base case: If he starts at a height less than 3, then he is guarenteed to go up 1 inch, to a maximum of 4, then fall back half of his height, which is 2. Hence, in one time step, he will end up in Sally's net. 
+
+Inductive Hypothesis: Assume he falls into the net in finite time if he starts for all height less than n inches above the ground. 
+
+Inductive step: We must now prove that in height n+1 inches above the ground, Bob will fall into Sally's net in finite time. If n+1 is less than 3 inches, then the base case applies directly. Otherwise, when he takes one step up, for n+1 > 3, the distance which he falls is euqal to (n+1) - (n+2) / 2, which is greater than 1 for n+1 > 3. Hence, Bob falls atleast an inch if not more from time time step, and applying the inductive hypothesis, we know from there, Bob will fall into Sally's net in finite time. </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Prove that &Sigma; from i=0 to n of i!i is equal to (n+1)! - 1 for n >= 1 and n in the natural numbers.</p> 
+    <div class="sol2"> <pre><span class="solution-prompt"> Base case: For n = 1, we get 0 + 1*1! = (1+1)! - 2, which is true as 1 = 1
+
+Induction Hypothesis: Assume that this is true for n = k. 
+
+Inductive Step: Let's prove this for k+1. &Sigma; from i = 0 to k+1 of (i)!*i = &Sigma; from i = 1 to k of i*(i+1) + (k+1)(k+1)!
+= (k+1)! - 1 + (k+1)(k+1)! by the inductive hypothesis, 
+=(k+1)!(k+2) - 1
+=(k+2)! - 1
+=(k+1+1)! - 1
+
+Hence, we have proven it for k+1, and it is true for all n. </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Let {0,1}<sup>*</sup> be the set of all binary strings, and let y * z be the concatenation of the strings y an z. Prove that every string x &isin; {0,1}<sup>*</sup> can be written in the form x = y * z, where the number of 0's in y is the same as the number of 1's in z. We can have empty strings.</p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">There are two answers, one using strong induction and one using weak. They follow the same idea, so I will prove it using simple induction. Let <var>n</var> denote the length of the string.
+
+Base case: n = 0, the empty string, which is the empty string * the empty string, which satisfies our contraints. 
+
+Inductive step: Assume for n = k, this holds true. 
+
+Inductive hypothesis: We must prove this for n = k+1. So, let's first worry about the first n elements of our substring which, from our inductive hypothesis can be split into some y and some z, which we will call y<sup>'</sup> and z<sup>'</sup>. Now, we must worry about this last element. There are only two cases: 
+
+X<sub>n+1</sub> = 0, then just add this element to z<sup>'</sup> as the amount of 0s in y<sup>'</sup> and the amount of 1s in z<sup>'</sup> will remain equal. 
+
+X<sub>n+1</sub> = 1, then we must worry about the first element of z<sup>'</sup>. Let's call this element the j+1th element. If it is a 0, then we will include this j+1th element in y<sup>'</sup> instead, as now it will have gained a 0 and z<sup>'</sup> will have gained a 1 (the n+1th element), so they will be equal. If the j+1th element, however, is a 1, then we can still include it in y<sup>'</sup> instead, as though z<sup>'</sup> gained a 1 in the n+1th element, it lost one in the j+1th element, so the amount of 1s didn't really change. 
+
+Hence, by induction, this proves for all n.  </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

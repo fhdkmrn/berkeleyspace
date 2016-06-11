@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Trees Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Trees Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Implement max_leaf, which takes in a tree and makes a <strong>new</strong> tree where each node is now the maximum distance away from a leaf node (essentially, each node is now its subtrees maximum height).</p>
+    <div class="sol"> <pre><code><span class="solution-prompt">def max_leaf(t):
+    """Create a new Tree with every node being the maximum distance away that node is from a leaf node. 
+    >>>t = Tree(3, [Tree(4), Tree(4, [Tree(1)])])
+    >>>new_t = max_leaf(t)
+    >>>new_t.entry
+    2 # The 3 node was 2 away from the 1 node
+    >>>[b.entry for b in new_t.branches]
+    [0 1]
+    """"
+    if not t.branches:
+        return Tree(0)
+    b = [max_leaf(branch) for branch in t.branches]
+    return Tree(max(branch.entry for branch in b) + 1, b)</span></code></pre></div>    
+    <div class="q"><pre><code><span class="question">def max_leaf(t):
+    """Create a new Tree with every node being the maximum distance away that node is from a leaf node. 
+    >>>t = Tree(3, [Tree(4), Tree(4, [Tree(1)])])
+    >>>new_t = max_leaf(t)
+    >>>new_t.entry
+    2 # The 3 node was 2 away from the 1 node
+    >>>[b.entry for b in new_t.branches]
+    [0 1]
+    """"
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Implement contains, which takes in a tree and an element and outputs <code>True</code> if the tree containts the element, and <code>False</code> otherwise.</p>
+    <div class="sol2"> <pre><code><span class="solution-prompt">def contains(t, elm):
+    """Return True if tree contains element, false otherwise.  
+    >>>t = Tree(4, [Tree(5), Tree(5, [Tree(6)])])
+    >>>contains(t, 6) == True
+    True
+    >>>contains(t, 1) == False
+    True
+    """
+    if elm == t.entry:
+      return True
+    if t.branches == []:
+      return False
+    else: 
+      for b in t.branches:
+        if contains(b, elm):
+          return True
+      return False</span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">def contains(t, elm):
+    """Return True if tree contains element, false otherwise.  
+    >>>t = Tree(4, [Tree(5), Tree(5, [Tree(6)])])
+    >>>contains(t, 6) == True
+    True
+    >>>contains(t, 1) == False
+    True
+    """
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Scheme and Tail Recursion</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Scheme and Tail Recursion Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Implement remove, which takes in a scheme list and outputs a new one without any instances of the passed in element. </p>
+
+    <div class="sol"> <pre><code><span class="solution-prompt">(define (remove lst elm))
+    (cond 
+      ((null? item) nil)
+      ((= (car lst) item) (remove (cdr lst) item))
+      (else (cons (car lst) (remove (cdr lst) item))))) </span></code></pre></div>
+    <div class="q"><pre><code><span class="solution-p">(define (remove lst elm))
+    "YOUR CODE HERE"</span></code></pre></div>  
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Implement the above function, remove, tail recurisvely. Assume now, however, that the item is only present in the list at most once. </p> 
+    <div class="sol2"> <pre><code><span class="solution-prompt">(define (remove-tail lst item)
+    (define (remove-help lst so-far)
+        (cond ((null? lst) so-far)
+              ((eq? (car lst) item) (append so-far (cdr lst)))
+              (else (remove-help (cdr lst)
+                                 (append so-far (list (car lst)))))))
+    (remove-help lst) </span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">(define (remove-tail lst item)
+  "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+
+
+
+
+</body>
+</html>

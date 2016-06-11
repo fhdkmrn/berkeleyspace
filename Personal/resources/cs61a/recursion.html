@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Recursion Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Recursion Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Fill in the lines below for the function subset_sum which takes in a list and a desired number and tries to find a subset of the list that adds to the desired number. If there exists such subset, return the first subset that does so, otherwise, return ‘NOPE’.</p>
+    <div class="sol"> <pre><code><span class="solution-prompt">def subsetsum(array,num): 
+    """Return the first subset of array that adds to num, or 'NOPE' if none exist. 
+    >>>subsetsum([1,3,5,7], 9).sorted()
+    [1,3,5]
+    >>>subsetsum([1,3,5,7], 2)
+    'NOPE'    
+    """ 
+    if num < 0: 
+      return ‘NOPE’ 
+    elif len(array) == 0: 
+      return ‘NOPE’
+    else: 
+      if array[0] == num: 
+        return [array[0]] 
+      else: 
+        with_v = subsetsum(array[1:],(num - array[0])) 
+        if with_v != ‘NOPE’: 
+          return [array[0]] + with_v 
+        else: 
+          return subsetsum(array[1:],num)</span></code></pre></div>    
+    <div class="q"><pre><code><span class="question">def subsetsum(array,num): 
+    """Return the first subset of array that adds to num, or 'NOPE' if none exist. 
+    >>>subsetsum([1,3,5,7], 9).sorted()
+    [1,3,5]
+    >>>subsetsum([1,3,5,7], 2)
+    'NOPE'    
+    """ 
+    if _____ < 0: 
+      return ______ 
+    elif _______ == 0: 
+      return ______
+    else: 
+      if array[0] == num: 
+        return ________
+      else: 
+        with_v = ________________
+        if with_v != _______: 
+          return _____________ 
+        else: 
+          return __________</div></pre></code></span>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Mario needs to jump over a sequence of Piranha plants, represented as a string of dashes (no plant) and P's (plant!). He only moves forward, and he can either step (move forward one space) or jump (move forward two spaces) from each position. How many different ways can Mario traverse a level without stepping or jumping into a Piranha plant? Assume that every level begins with a dash (where Mario starts) and ends with a dash (where Mario must end up)</p>
+    <div class="sol2"> <pre><code><span class="solution-prompt">def mario_number(level):
+    """Return the number of ways that Mario can perform a sequence of steps or jumps to reach the end of the level without ever landing in a Piranha plant. Assume that every level begins and ends with a dash.
+    >>> mario_number('-P-P-')   # jump, jump
+    1
+    >>> mario_number('-P-P--')   # jump, jump, step
+    1
+    >>> mario_number('--P-P-')  # step, jump, jump
+    1
+    >>> mario_number('---P-P-') # step, step, jump, jump or jump, jump, jump
+    2
+    >>> mario_number('-P-PP-')  # Mario cannot jump two plants
+    0
+    >>> mario_number('----')    # step, jump ; jump, step ; step, step, step
+    3
+    >>> mario_number('----P----')
+    9
+    >>> mario_number('---P----P-P---P--P-P----P-----P-')
+    180
+    """
+    if len(level) == 0 or level[0] == 'P':
+        return 0
+    elif len(level) <= 2:
+        return 1
+    else:
+        return mario_number(level[1:]) + mario_number(level[2:])</span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">def mario_number(level):
+    """Return the number of ways that Mario can perform a sequence of steps or jumps to reach the end of the level without ever landing in a Piranha plant. Assume that every level begins and ends with a dash.
+    >>> mario_number('-P-P-')   # jump, jump
+    1
+    >>> mario_number('-P-P--')   # jump, jump, step
+    1
+    >>> mario_number('--P-P-')  # step, jump, jump
+    1
+    >>> mario_number('---P-P-') # step, step, jump, jump or jump, jump, jump
+    2
+    >>> mario_number('-P-PP-')  # Mario cannot jump two plants
+    0
+    >>> mario_number('----')    # step, jump ; jump, step ; step, step, step
+    3
+    >>> mario_number('----P----')
+    9
+    >>> mario_number('---P----P-P---P--P-P----P-----P-')
+    180
+    """
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  </div>
+
+
+
+</body>
+</html>

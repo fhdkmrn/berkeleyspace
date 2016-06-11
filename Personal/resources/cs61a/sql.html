@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>SQL Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">SQL Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems"> For the all questions on this page, we will be using the following table named <strong>movies</strong>. </p>
+
+    <table border="1" style="width:100%">
+      <tr>
+        <td>Name</td>
+        <td>Rating</td>    
+        <td>Company</td>
+      </tr>
+      <tr>
+        <td>Inside Out</td>
+        <td>10</td>    
+        <td>Pixar</td>
+      </tr>
+      <tr>
+        <td>Cinderella</td>
+        <td>8.2</td>    
+        <td>Disney</td>
+      </tr>
+      <tr>
+        <td>Lion King</td>
+        <td>10</td>    
+        <td>Disney</td>
+      </tr>
+      <tr>
+        <td>Twilight</td>
+        <td>2.0</td>    
+        <td>Disney</td>
+      </tr>
+      <tr>
+        <td>Star Wars 7</td>
+        <td>10</td>    
+        <td>Disney</td>
+      </tr>
+      <tr>
+        <td>Up</td>
+        <td>10</td>    
+        <td>Disney</td>
+      </tr>
+    </table> 
+      <p id="problems">1. Select the company and its maximum rating, along with how many movies this company has made.</p>
+
+<div class="sol"> <pre><code><span class="solution-prompt">select company, count(*), max(ratings) from moves GROUP BY company  </span></code></pre></div>
+    <div class="q"><pre><code><span class="solution-p">"YOUR CODE HERE"</span></code></pre></div>  
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Write a query to select all movies for which at least 2 other movies have the same rating, and put them alphabetically. Write this query using absolutely no aggregation techniques.   </p> 
+    <div class="sol2"> <pre><code><span class="solution-prompt">   with
+        groups(name , score , n) as (
+        select  title , rating , 1 from  movies  union
+        select  title , score , n+1 from  groups , movies
+        where  title  >  name  and rating=score
+  )
+  select  title from groups,movies
+  where  n > 2 and ratings = score order  by ratings; </span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">"YOUR CODE HERE" </div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+</body>
+</html>

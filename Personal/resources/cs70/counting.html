@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Counting Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Counting Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. How many anagrams are there of the word CHOCOLATE? An anagram is a word made up of the letters of original word in any order.</p>
+
+    <div class="sol"> <pre><span class="solution-prompt">First, it is important to note that the word has 10 letters, with 2 C's and 2 O's. So, we have 10! ways of rearranging the words, but we must keep the 1 C's and 2 O's as if they are the same thing. Hence, the final answer is 10! / 2!2!.  </span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. How many solutions does 
+      x + y + z = 10
+have if all variables must be positive integers?</p> 
+    <div class="sol2"> <pre><span class="solution-prompt">p<sup>d+1-k</sup>. It's important to think of this as a stars and bars problem. We have 10 stars, and 3 groups where each group must have atleast one star, as in each variable must be atleast 1 (positive integers). Then, the real problem becomes putting 7 stars into 3 groups, which is n+k-1 choose k-1, which is 9C2.  </span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. In poker, where each hand has 6 cards, how many ways are there to pick 3 <strong>distinct</strong> pairs? </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">Pick 3 distinct numbers from the possible 13, and then for each pair, choose 2 suits from a possible 4. We get 13 choose 3 * (4 choose 2)<sup>3</sup>. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>

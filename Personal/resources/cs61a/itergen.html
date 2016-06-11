@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Iterators and Generators Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Iterators and Generators Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Implement a generator function which takes a non-empty list that it is given and always gives back the current element of the list, looping back if necessary. </p>
+    <div class="sol"> <pre><code><span class="solution-prompt">def neverending(l):
+    """Implement this generator function which will never end, sequentially outputting the elements of the original list passed in.  
+    >>>lst = ['h', 'i']
+    >>>neverending(lst)
+    h
+    >>>neverending(lst)
+    i
+    >>>neverending(lst)
+    h
+    """"
+    k = 0
+    while True:
+      yield lst[k]
+    k += 1
+    if k == len(lst):
+      k = 0</span></code></pre></div>    
+    <div class="q"><pre><code><span class="question">def neverending(l):
+    """Implement this generator function which will never end, sequentially outputting the elements of the original list passed in.  
+    >>>lst = ['h', 'i']
+    >>>neverending(lst)
+    h
+    >>>neverending(lst)
+    i
+    >>>neverending(lst)
+    h
+    """"
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Suppose our Linked List class is being annoying and decides that it now wants to become an Iterator class. Below is the beginning of the implementation for the class.</p> 
+    <pre><code>class IteratorLinkedlist:
+    class EmptyList:
+        pass
+
+    empty = EmptyList()
+
+    def __init__(self, first, rest=empty):
+        self.first = first
+        self.rest = rest
+        self.cur = self</code></pre>
+    <p id="problems">Add any extra methods and their implementation in order to complete the Linked List class' transformation into an Iterator. Hint: What methods must be added?</p>
+    <div class="sol2"> <pre><code><span class="solution-prompt">"""Add as many methods to the above class to make it a working iterator. 
+  >>>link = IteratorLinkedList(1, IteratorLinkedList(3))
+  >>>next(link)
+  1
+  >>>next(link)
+  3
+  """
+
+  def __next__(self):
+      if self.cur == Linkedlist.empty:
+          raise StopIteration
+      else:
+          result = self.curr.first
+          self.cur = self.cur.rest
+        return result
+
+  def __iter__(self):
+        return self
+
+  <strong>Important</strong>: The key to this question was that you need both a __next__ and an __iter__ method to make it an iterator.</span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">"""Add as many methods to the above class to make it a working iterator. 
+    >>>link = IteratorLinkedList(1, IteratorLinkedList(3))
+    >>>next(link)
+    1
+    >>>next(link)
+    3
+    """
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+  
+  </div>
+
+
+
+
+</body>
+</html>

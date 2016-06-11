@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Linked List  Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Linked List Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice.</p>
+
+      <p id="problems">1. Fill in the implementation below for sum_reverse, which takes in a linked list and <strong>changes</strong> every value to be that value + everything after it. This function should not return anything.</p>
+    <div class="sol"> <pre><code><span class="solution-prompt">def sum_reverse(ll):
+    """Change every value in ll to be the sum of the current value with everything after it.
+    linked = Link(3, Link(4, Link(5))) 
+    >>>sum_reverse(linked)
+    >>>>linked.rest.rest.first
+    5
+    >>>linked.rest.first
+    9
+    >>>linked.first
+    12
+    """
+    if ll.rest is Link.empty:
+      return
+    sum_reverse(ll.rest)
+    ll.first += ll.rest.first</span></code></pre></div>    
+    <div class="q"><pre><code><span class="question">def sum_reverse(ll):
+    """Change every value in ll to be the sum of the current value with everything after it.
+    linked = Link(3, Link(4, Link(5))) 
+    >>>sum_reverse(linked)
+    >>>>linked.rest.rest.first
+    5
+    >>>linked.rest.first
+    9
+    >>>linked.first
+    12
+    """
+    if _______ is Link.empty:
+      return
+    ______________
+    ll.first += __________</div></pre></code></span>
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. Implement every_other, which takes in a linked list and outputs a <strong>new</strong> linked list whichcontains every other element starting from the second.</p>
+    <div class="sol2"> <pre><code><span class="solution-prompt">def every_other(ll):
+    """Output a new linked list which has every other element of ll starting from the second element. 
+    >>>linked = Link(4, Link(3, Link(2, Link(1))))
+    >>>new_linked = every_other(linked)
+    >>>new_linked.first == linked.rest.first
+    True
+    >>>new_linked.rest.first == linked.rest.rest.rest.first
+    True
+    """
+    if ll or ll.rest is Link.empty:
+        return Link.empty
+    return Link(ll.rest.first, every_other(ll.rest.rest))</span></code></pre></div>    
+    <div class="q2"><pre><code><span class="question">def every_other(ll):
+    """Output a new linked list which has every other element of ll starting from the second element. 
+    >>>linked = Link(4, Link(3, Link(2, Link(1))))
+    >>>new_linked = every_other(linked)
+    >>>new_linked.first == linked.rest.first
+    True
+    >>>new_linked.rest.first == linked.rest.rest.rest.first
+    True
+    """
+    if _____________ is Link.empty:
+        return ___________
+    return ______________________________________</div></pre></code></span>
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+   <p id="problems">3. Implement, in any way you'd like, hardcore_mapper, a function which takes in a linked list and a function which takes in one argument. Hardcore_mapper does one of two things; it apply the function to <strong>EVERY ELEMENT</strong> in the linked list if and only if it is a valid linked list, otherwise, it will do nothing. One quick note: Only the large linked list has a possibility of being invalid, any nested linked lists are guarenteed to be valid. Hint: Think about what makes a Linked List valid</p>
+    <div class="sol3"> <pre><code><span class="solution-prompt">def hardcore_mapper(fn, list):
+    """Either apply the function to the current linked list or do nothing if the linked list is invalid. 
+    >>>linked1 = Link(4, Link(2, Link(Link(3))))
+    >>>linked2 = Link(3, Link(2, 4))
+    >>>hardcore_mapper(linked1, lambda x: x + 4)
+    >>>hardcore_mapper(linked2, lambda x: x + 4)
+    >>>linked1.first
+    8
+    >>>linked1.rest.rest.first.first
+    7
+    >>>linked1.first == 3
+    True
+    >>>linked1.rest.rest == 4:
+    True
+    """
+    if not validate(list):
+        return
+    if lst is Link.empty:
+        return
+    if type(lst.first) == Link:
+       hardcore_mapper(fn, lst.first)
+    else:
+        lst.first = fn(lst.first)
+    hardcore_mapper(fn, lst.rest)
+def validate(lst):
+    if lst is Link.empty:
+        return True
+    elif lst.rest is not Link.empty and type(lst.rest) != Link:
+        return False
+    else:
+        return validate(lst.rest)
+
+Disclaimer: This is <strong>NOT</strong> the only way to do this problem, try yours out in the interpreter if you would like. The idea was to both know the definition of linked lists along with how to deal with nested lists.</span></code></pre></div>    
+    <div class="q3"><pre><code><span class="question">def hardcore_mapper(ll, function):
+    """Either apply the function to the current linked list or do nothing if the linked list is invalid. 
+    >>>linked1 = Link(4, Link(2, Link(Link(3))))
+    >>>linked2 = Link(3, Link(2, 4))
+    >>>hardcore_mapper(linked1, lambda x: x + 4)
+    >>>hardcore_mapper(linked2, lambda x: x + 4)
+    >>>linked1.first
+    8
+    >>>linked1.rest.rest.first.first
+    7
+    >>>linked1.first == 3
+    True
+    >>>linked1.rest.rest == 4:
+    True
+    """
+    "YOUR CODE HERE"</div></pre></code></span>
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a>
+  </div>
+
+
+
+
+</body>
+</html>

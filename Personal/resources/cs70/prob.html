@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Discrete Probability Practice Problems</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/practice.css">
+  <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet'  type='text/css'>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="js/sols.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div>
+      <ul class="nav navbar-nav">
+        <li><a href="../../index.html">Home</a></li>
+        <li><a href="../../about.html">About</a></li>
+        <li><a href="../../projects.html">Projects</a></li> 
+        <li class="active"><a href="../../teaching.html">Teaching</a></li> 
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+    <h1 id="header">Discrete Probability Practice Problems</h1>
+      <p></p>
+      <p id="main"> Important! These are all exam-level problems. Do not attempt these problems without a solid foundation in the subject and use them for exam practice. </p>
+
+      <p id="problems">1. I am making questions for CS70, and I make a question that is hard with probability .7. The head GSI of the class looks at all of my questions and only gives it to students if they beleive it to be an easy question. They believe a hard question is easy with probability .5 and an easy question is hard with probability .3. What's the probability that a hard question actually appears to the students? </p>
+
+    <div class="sol"> <pre><span class="solution-prompt">We are trying to find the probability that a hard question appears to the students, that is, a hard question appears given that the GSI thinks it is easy 
+
+P(It's hard | GSI Says it's easy) = P(GSI says it's easy | It's hard)P(It'shard) / P(GSI says it's easy) by Bayes Rule. 
+
+P(GSI says it's easy) = P(GSI says it's easy | It's hard)P(It's hard) + P(GSI says it's easy | It's easy)P(It's easy) by the law of Total Probability. 
+
+Hence, overall, when we plug in numbers, we get 
+    (.5)(.7) / ((.5)(.7) + (.3)(.7)) 
+    = (.35) / (.56) 
+    = .625</span></pre></div> 
+    <a class="solution-toggle-p btn btn-default">Toggle Solution</a>   
+    <br>
+    <p id="problems">2. If E[XY] = E[X]E[Y], are X,Y independent? Prove or disprove. 
+    <div class="sol2"> <pre><span class="solution-prompt">No. The coverse, however, is true. 
+
+Proof: Let's construct a counter example. Let X be a fair coin toss which takes on values +1 and -1, while Y is independent and a fair coin toss which takes values either +1 or +2. Now, let's create a variable Z which is XY. Clearly, though X, Y are independent, Z depends explicitly upon Y.
+
+We know that E[Y] = .5(1+2) = 3/2, while Z can either take on values -2, -1, 1, or 2 (all with equal probability, so E[Z] = .25(-2-1+2+1) = 0. E[Y]E[Z] = 0. 
+
+Now, let's calculate E[YZ], which is &sum;y&sum;z yzPr[Y=y,Z=z] by the definition of expectation. This is equal to .25(1(-1)+1(1)+2(-2)+2(2)) which is 0. Hence, E[YZ] = E[Y]E[Z] = 0, but Y and Z are not independent by construction. Hence, we have created a counterxample and the claim is false.</span></pre></div>    
+    <a class="solution-toggle-p2 btn btn-default">Toggle Solution</a>
+
+      <p id="problems">3. Each pixel in a 32 X 8 display is turned on or off w/ probability ½ (equal probability). Let X be a randion variable representing how many full horizontal rows are lit, which can only happen if each of the pixels in the row is turned on. 
+      Calculate E[X], Var[X], and prove that Pr[X>=2] <= 1/25. </p>
+
+    <div class="sol3"> <pre><span class="solution-prompt">Let's calculate E[X] first. We know that the probability for a row to be completely lit, which is 1/2<sup>8</sup>, or 1/256. E[X] = E[X<sub>1</sub> + X<sub>2</sub>...] by linearity of expectation, and as X is just an indicator variable, E[X] = 32E[One row being lit] = 1/8.
+
+From here, we can calculate Var[X] by noticing that each row is independent of all other rows. Var[X] = Var[X<sub>1</sub> + X<sub>2</sub>...] = 32Var[One row being lit] = 32(1/256 - 1/256<sup>2</sup>) = 255/2048. 
+
+Lastly, let's use Chebyshev's inequality. 
+   Pr[X >= 2] <= Pr[|X - 1/8| >= 15/8]
+   <= Var[X] / (15/8)<sup>2</sup>
+   = 255/2048 / 255/64
+   <= 0.04. </span></pre></div> 
+    <a class="solution-toggle-p3 btn btn-default">Toggle Solution</a> 
+  </div>
+</body>
+</html>
